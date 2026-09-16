@@ -14,25 +14,6 @@ draft: false
 
 1st century BCE- 1st century CE
 
-## Province
-
-- [Italia]({{<relref "../..">}})
-- {{< id vocab="Pleiades" id="1052" name="Italia" >}} \
-- {{< id vocab="Pleiades" id="441075550" name="Italia, Regio I" >}}
-
-## Location
-
-- {{< id vocab="Pleiades" id="423025" name="Rome" >}}
-
-## Sublocation
-
-- [Palatine]({{<relref ".">}})
-- {{< id vocab="Pleiades" id="971691208" name="Mons Palatinus" >}}
-
-## Garden
-
-Garden of the Peristyle of the Julio-Claudian *Domus*, Palatine
-
 ## Garden Description
 
 At the end of the Republican era and the beginning of the Empire, residential dwellings occupied, at least in part, the northeastern corner of the Palatine.  Two distinct excavation areas have revealed the partial remains of one or more [*domus*](https://en.wikipedia.org/wiki/Domus) in the southern part of the [terrace](http://vocab.getty.edu/page/aat/300004182), some 6.5 meters below the present ground level. The two excavated sections have not been joined because of a wide road of Severan date that divides them.  It is not possible, therefore, to ascertain whether the pre-Domitianic remains, on either side of this road, belong to a single *domus*.  It is clear, however, the remains all share several features: obliqueness with respect to the later platform, building materials and techniques, and a luxurious quality.
@@ -78,6 +59,6 @@ OTHER PHASES OF THE VIGNA BARBERINI SITE:
 - {{< keyword "architectural terracotta" >}}
 - [Suetonius](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1340)
 
+<!--
 ## Places
-
-- {{< id vocab="Pleiades" id="971691208" name="Palatinus Mons" >}}
+-->

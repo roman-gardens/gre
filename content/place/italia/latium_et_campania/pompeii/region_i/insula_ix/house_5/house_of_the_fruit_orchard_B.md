@@ -14,21 +14,9 @@ draft: true
 
 unspecified
 
-## Excavation Date
+## Excavation Dates
 
 1951
-
-## Location
-
-- [Pompeii]({{<relref "../../..">}})
-- {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
-
-## Sublocation
-
-[Region I]({{<relref "../..">}})
-
-## Insula
-
 
 ## House
 
@@ -74,7 +62,4 @@ B. The room to the east of the *peristyle* was painted in three horizontal zones
 - {{< keyword "peristyles" >}}
 - {{< keyword "putti" >}}
 
-## Places
-
-- {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
-- {{< id vocab="TGN" id="7004658" name="Pompeii (deserted settlement)" >}}
+<!-- Places -->

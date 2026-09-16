@@ -14,19 +14,7 @@ draft: true
 
 unspecified
 
-## Excavation Date
-
-## Location
-
-- [Pompeii]({{<relref "../../..">}})
-- {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
-
-## Sublocation
-
-[Region I]({{<relref "../..">}})
-
-## Insula
-
+## Excavation Dates
 
 ## House
 
@@ -63,9 +51,4 @@ To the rear of this house a raised garden (a), three steps up, had a *portico* o
 - {{< keyword "porticoes" >}}
 - {{< keyword "stairs" >}}
 
-## Places
-
-- {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
-- {{< id vocab="TGN" id="7004658" name="Pompeii (deserted settlement)" >}}
-
-
+<!-- Places -->

@@ -18,42 +18,6 @@ draft: true
 
 1901 CE
 
-## Province
-
-- [Italia]({{<relref "../..">}})
-- {{< id vocab="Pleiades" id="1052" name="Italia" >}}
-
-## Province Description
-
-<!-- DESCRIPTION -->
-The Italian peninsula extending northward to the Alps as recognized by the Romans.
-
-## Location
-
-- {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
-
-## Location Description
-
-An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in CE 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
-
-<!-- LEAVE THIS BLANK FOR NOW -->
-
-## Sublocation
-
-Region V
-
-## Insula
-
-Insula iv
-
-## House
-
-House b
-
-## Garden
-
-V.iv.b.
-
 ## Garden Description
 
 When the excavation work reached the northeast corner of this house in 1901, a small garden (a) with a proportionately small *portico* supported by two masonry columns was found. The major part of the garden was occupied by the masonry *triclinium* (*l. medius*, 3.00 m.; *l. imus* and. *summus* 2.69 m.) with a round table (0.65 m. dia.) and a *lectus imus* that had a *fulcrum*. The masonry couch had three large holes that may have received the posts for the pergola, and a marble leopard's head fountain was found in the first room to the right of the entrance. The large window in the *triclinium* offered a fine view of the garden.
@@ -84,9 +48,6 @@ When the excavation work reached the northeast corner of this house in 1901, a s
 - {{< keyword "trellises" >}}
 - {{< keyword "headboards" >}}
 
+<!--
 ## Places
-
-- {{< id vocab="Pleiades" id="1052" name="Italia" >}} \
-- {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
-- {{< id vocab="TGN" id="7004658" name="Pompeii (deserted settlement)" >}}
-
+-->

@@ -39,12 +39,6 @@ Arles was one of the pilgrimage sites on route to the Cathedral of Santiago de C
 
 House I, Quartier de la Verrerie at Trinquetaille
 
-## Keywords
-
-- {{< keyword "mosaics" >}}
-- {{< keyword "opus sectile" >}}
-- {{< keyword "porticoes" >}}
-
 ## House Description
 
 This house on the right bank of the Rhone is at [20] on the map.  Excavations in 1982-1984, partially uncovered the remains of the building of about 240 square meters. Almost all of the fourteen known rooms of this rich house have mosaic or *opus sectile* floors. The house revealed by the excavations was built about 180 CE, but three prior phases, from the first and second century, were noted. It was occupied until about 260 and underwent repairs visible in restorations of the mosaics.
@@ -58,6 +52,12 @@ The free space north of rooms [1], [2] and [9] was probably a garden without por
 
 - Cl. Sintès, *Les fouilles de la verrerie de Trinquetaille*, in Cl. SINTES, dir., Du nouveau sur Arles antique, Arles, 1987, p. 81-4. 
 - Rouquette, Jean-Maurice, and Claude Sintès. *Arles Antique: Monuments Et Sites* Paris: Impr. nationale, p. 90-1.[(worldcat)](https://search.worldcat.org/title/22813475)
+
+## Keywords
+
+- {{< keyword "mosaics" >}}
+- {{< keyword "opus sectile" >}}
+- {{< keyword "porticoes" >}}
 
 ## Places
 

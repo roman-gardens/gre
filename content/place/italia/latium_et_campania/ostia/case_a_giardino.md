@@ -14,7 +14,7 @@ draft: false
 128 CE, 
 3rd century CE
 
-## Excavation Date
+## Excavation Dates
 
 unspecified
 

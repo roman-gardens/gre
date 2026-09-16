@@ -14,19 +14,7 @@ draft: true
 
 unspecified
 
-## Excavation Date
-
-## Location
-
-- [Pompeii]({{<relref "../../..">}})
-- {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
-
-## Sublocation
-
-[Region I]({{<relref "../..">}})
-
-## Insula
-
+## Excavation Dates
 
 ## House
 
@@ -71,9 +59,4 @@ An entrance to this small garden (a) was made through the east wall. It was loca
 - {{< keyword "tables" >}}
 - {{< keyword "triclinia (rooms)" >}}
 
-## Places
-
-- {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
-- {{< id vocab="TGN" id="7004658" name="Pompeii (deserted settlement)" >}}
-
-
+<!-- Places -->

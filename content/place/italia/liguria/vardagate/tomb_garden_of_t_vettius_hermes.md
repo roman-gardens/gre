@@ -14,21 +14,9 @@ draft: true
 
 unspecified
 
-## Excavation Date
+## Excavation Dates
 
 unspecified
-
-## Location
-
-- [Vardagate]({{<relref "../../..">}})
-- {{< id vocab="Pleiades" id="383809" name="Vardagate" >}}
-
-## Sublocation
-
-
-## Garden
-
-Tomb garden of T. Vettius Hermes
 
 ## Garden Description
 

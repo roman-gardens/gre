@@ -14,23 +14,9 @@ draft: true
 
 Built between 118 and 138 CE
 
-## Excavation Date
+## Excavation Dates
 
 unspecified
-
-## Province
-
-- [Italia]({{<relref "../..">}})
-- {{< id vocab="Pleiades" id="1052" name="Italia" >}}
-
-## Region
-
-Region IV
-<!-- find link to Italia, Regio IV: Samnium? -->
-
-## Location
-
-- {{< id vocab="Pleiades" id="423127" name="Hadrian's Villa" >}}
 
 ## Garden
 
@@ -74,11 +60,6 @@ This garden belongs to the republican period and it is one of the most ancient o
 - {{< keyword "peristyles" >}}
 - {{< keyword "porticoes" >}}
 
+<!--
 ## Places
-
-- {{< id vocab="Pleiades" id="423127" name="Villa Hadriani" >}}
-<!-- this is the Pleiades ID for Villa Hadriani, awaiting publication of a place resource for this specific garden within Villa Hadriani -->
-
-- {{< id vocab="TGN" id="7006983" name="Hadrian's Villa (ruins)" >}}
-<!-- this is the TGN ID for Hadrian's Villa, not for this particular garden -->
-
+-->

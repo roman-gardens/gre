@@ -31,15 +31,6 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 
 Edifice of the Platform
 
-## Keywords
-
-- {{< keyword "vestibules" >}}
-- {{< keyword "courtyards" >}}
-- {{< keyword "peristyles" >}}
-- {{< keyword "cisterns" >}}
-- {{< keyword "opus sectile" >}}
-- {{< keyword "porticoes" >}}
-
 ## House Description
 
 This construction is situated in the southeast corner of Network B of the town plan, near the port. The parcel has a surface 8,422 square meters with 6,860 for the habitation properly speaking and a covered useful surface of 3390 square meters.  The present construction goes back to the end of the first century BCE, between 30 and 10 BCE, but there was an anterior condition. The edifice was lavishly decorated and underwent multiple rearrangements in second century and then again in late antiquity.
@@ -56,6 +47,15 @@ At the north, a large vestibule gives access to a vast courtyard with a peristyl
 
 - Bouet, Alain. La Maison Urbaine D'époque Romaine: Atlas Des Maisons De Gaule Narbonnaise. Vaucluse: Service d'Archéologie du Conseil Général de Vaucluse, 1996, P. 94-96, fiche n°2, P. 104-105 [(worldcat)](https://search.worldcat.org/title/919659882)
 - RIVET, D.  BRENTCHALOFF, S.  ROUCOLE, S.  SAULNIER, *Fréjus, Atlas topographique  des  villes  de  gaule  méridionale*, R.A.N., supplément  32, Montpellier, 2000, P. 251-257. [(worldcat)](https://search.worldcat.org/title/491603596)
+
+## Keywords
+
+- {{< keyword "vestibules" >}}
+- {{< keyword "courtyards" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "cisterns" >}}
+- {{< keyword "opus sectile" >}}
+- {{< keyword "porticoes" >}}
 
 ## Places
 

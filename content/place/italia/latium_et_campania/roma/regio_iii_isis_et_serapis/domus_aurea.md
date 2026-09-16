@@ -14,27 +14,20 @@ draft: false
 
 post-64 CE
 
-## Excavation Date
+## Excavation Dates
 
 unspecified
 
+
+<!-- TODO: should page become a place description??? -->
+
 ## Location
 
-- {{< id vocab="Pleiades" id="423025" name="Roma" >}}
-
-## Sublocation
-
-[Region III Isis et Serapis]({{<relref ".">}}) \
 Oppian Hill \
 Palantine Hill, [Mons Palatinus](https://pleiades.stoa.org/places/971691208) \
 Velian Hill, [Mons Velia](https://pleiades.stoa.org/places/157710058) \
 Caelian Hill, [Caelius Mons](https://pleiades.stoa.org/places/695491849) \
 Esquiline Hill, [Esquilinus Mons](https://pleiades.stoa.org/places/679976755)
-
-## Garden
-
-Garden of the Domus Aurea \
-- {{< id vocab="Pleiades" id="410440793" name="Domus Aurea" >}}
 
 ## Garden Description
 

@@ -54,8 +54,12 @@
 </div>
 
 <div class="right">
-    {{ with .Date }}
-        <div>Published: {{ .Format "2006-01-02" }}</div>
+    {{ if .Draft }}
+        <div>Unpublished</div>
+    {{ else }}
+        {{ with .Date }}
+            <div>Published: {{ .Format "2006-01-02" }}</div>
+        {{ end }}
     {{ end }}
 
     {{ with .Lastmod }}

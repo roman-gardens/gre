@@ -10,25 +10,19 @@ date: 2021-04-21
 draft: false
 ---
 
-## Province
+<!-- ## Dates -->
 
-- [Italia]({{<relref "../../..">}})
-- {{< id vocab="Pleiades" id="1052" name="Italia" >}}
+## Excavation Dates
 
-## Location
+1954, 1957, 1963, 1985
 
-- [Pompeii]({{<relref "../..">}})
-- {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
+## House
 
-## Location Description
+Casa Imperiale
 
-An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in CE 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
+## Garden
 
-## Sublocation
-
-## Insula
-
-[Insula I]({{<relref ".">}})
+Two gardens, one with root cavities and the remains of a new [cistern](http://vocab.getty.edu/page/aat/300052558).
 
 ## Garden Description
 
@@ -50,23 +44,6 @@ PompeiiinPictures, 2018, *II.1.12 Pompeii. Complesso dei Riti magici or Magic Ri
 - {{< keyword "water supply systems" >}}
 - {{< keyword "dolia" >}}
 
-## House
-
-Casa Imperiale
-
-## Garden
-
-Two gardens, one with root cavities and the remains of a new [cistern](http://vocab.getty.edu/page/aat/300052558).
-
+<!--
 ## Places
-
-- {{< id vocab="Pleiades" id="456321707" name="Regio II, Pompeii" >}}
-- {{< id vocab="TGN" id="7004658" name="Pompeii (deserted settlement)" >}}
-
-##  Excavation Dates
-
-1954, 1957, 1963, 1985
-
-Jessica Venner (https://orcid.org/0000-0001-5828-6222)
-
-
+-->

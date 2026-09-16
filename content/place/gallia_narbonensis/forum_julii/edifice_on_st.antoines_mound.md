@@ -31,14 +31,6 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 
 Edifice on St. Antoine's Mound
 
-## Keywords
-
-- {{< keyword "praetoriums" >}}
-- {{< keyword "courtyards" >}}
-- {{< keyword "porticoes" >}}
-- {{< keyword "peristyles" >}}
-- {{< keyword "peristyles" >}}
-
 ## House Description
 
 This grand residential edifice may be either a public building or a great mansion.  Built on St. Antoine's mound, it is situated in the southwest corner of network A of the town plan.  In immediate proximity of the port, it was first interpreded as the *praetorium* of the naval arsenal (A. Donnadieu 1932).  Then it was assigned the role of residence of the perfect of the fleet or the occasional palace for the governor of the province (P.-A. Février, 1977).  Less luxurious than the edifice of the platform (see below), it has been classified in the recent *l'Atlas topographique de Fréjus* among the public buildings of the city.
@@ -59,6 +51,14 @@ The residence perhaps enjoyed an exterior garden in the vast open space of arabl
 
 - Atlas Des Maisons De Gaule Narbonnaise. Avignon: Service d'archéologie du Conseil général de Vaucluse, 1996, P. 94-96 et fiche n°1, P. 100-101. [(worldcat)](https://search.worldcat.org/title/717347935)
 - RIVET, D.  BRENTCHALOFF, S.  ROUCOLE, S.  SAULNIER, *Fréjus, Atlas topographique  des  villes  de  gaule  méridionale*, R.A.N., supplément  32, Montpellier, 2000, P. 278-281. [(worldcat)](https://search.worldcat.org/title/491603596)
+
+## Keywords
+
+- {{< keyword "praetoriums" >}}
+- {{< keyword "courtyards" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "peristyles" >}}
 
 ## Places
 

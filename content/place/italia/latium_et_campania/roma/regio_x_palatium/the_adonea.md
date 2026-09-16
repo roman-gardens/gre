@@ -14,26 +14,9 @@ draft: true
 
 Unspecified
 
-## Excavation Date
+## Excavation Dates
 
 unspecified
-
-## Province
-
-- [ITALIA]({{<relref "../..">}})
-
-## Location
-
-- {{< id vocab="Pleiades" id="423025" name="Roma" >}}
-
-## Sublocation
-
-- [Palatine]({{<relref ".">}})
-- {{< id vocab="Pleiades" id="971691208" name="Mons Palatinus" >}}
-
-## Garden
-
-The Adonea of the Flavian Palace, Palatine
 
 ## Garden Description
 
@@ -53,6 +36,6 @@ The Adonea of the Flavian Palace, Palatine
 - [princep](https://www.britannica.com/topic/princeps)
 - [Philostratus](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1108)
 
+<!--
 ## Places
-
-- {{< id vocab="Pleiades" id="971691208" name="Palatine Hill" >}}
+-->

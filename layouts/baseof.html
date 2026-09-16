@@ -38,13 +38,22 @@
         {{ partial "header.html" . }}
         <div class="wrapper flex">
             <div class="primary">
-            {{ block "main" . }}
-                {{ with .Content }}
-                <div class="content main__content clearfix">
-                    {{ . }}
-                </div>
+                {{ if partial "pages-visible.html" (slice .) }}
+                    {{ block "main" . }}
+                        {{ with .Content }}
+                        <div class="content main__content clearfix">
+                            {{ . }}
+                        </div>
+                        {{ end }}
+                    {{ end }}
+                {{ else }}
+                <main class="main" role="main">
+                    <div class="warning">
+                        <h1 class="warning__headline">{{ T "404_title" }}</h1>
+                        <p class="warning__text">{{ T "404_text" }} <a href="{{ "" | relLangURL }}">{{ T "404_linktext" }}</a>.</p>
+                    </div>
+                </main>
                 {{ end }}
-            {{ end }}
             </div>
             {{ if ne .Path "/meta"}}
                 {{ partial "sidebar.html" . }}

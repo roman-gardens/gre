@@ -13,11 +13,11 @@ draft: true
 
 ## Dates
 
-unspecified
+late third or early fourth century CE
 
 ## Excavation Dates
 
-1985 and 1986
+1985 and 1986 
 
 ## Garden Description
 
@@ -47,4 +47,3 @@ Excavations in 1985 and 1986 brought to light a villa dating to the end of the t
 ## Places
 
 - {{< id vocab="Pleiades" id="521700444" name="Villa del Cortijo de los Vila at Alameda" >}}
-- {{< id vocab="TGN" id="1061700" name="Alameda (inhabited place)" >}}

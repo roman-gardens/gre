@@ -44,4 +44,6 @@ Halsted B. Van der Poel, Laurentino García y García, and Joan McConnell, 198
 - {{< keyword "stucco" >}}
 - {{< keyword "hearths" >}}
 
-<!-- ## Places -->
+<!--
+## Places
+-->

@@ -31,17 +31,6 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 
 House of the Silver Bust, La Vilasse Quarter
 
-## Keywords
-
-- {{< keyword "balnea" >}}
-- {{< keyword "vestibules" >}}
-- {{< keyword "columns" >}}
-- {{< keyword "peristyles" >}}
-- {{< keyword "porticoes" >}}
-- {{< keyword "reception rooms" >}}
-- {{< keyword "pergolas" >}}
-- {{< keyword "ditches" >}}
-
 ## House Description
 
 This house was in a central residential quarter across the street (rue des Boutiques) from the public baths of the town center.  Unearthed between 1924 and 1946, it occupied a parcel of 4354 square meters with a useful covered surface of 1957.3 square meters.  The condition now shown goes back to the second half of the first century; though previous states are possible, nothing is known of them.  It was subsequently occupied during at least two centuries.  There was a fire and doubtless at least partial abandonment in the course of the third century.  Its complex plan made it one of the largest grand homes of Vaison during the Flavian epoch.  It groups together several elements of distinct origin: one or two houses to the east, one in the center, and a bath structure that was originally public.  This development explains the different orientations of these buildings.
@@ -76,6 +65,17 @@ A number of sculptural discoveries are noteworthy.  In the vestibule [18] was fo
 - Gros, Pierre. *L'architecture romaine: du début du IIIe siècle av. J.-C. à la fin du Haut-Empire. 1, 1*,. Paris: A. et J. Picard, 2011, P. 159-161.[(worldcat)](https://search.worldcat.org/title/762763355)
 - Chr.  Goudineau, Y.  de  Kisch, Vaison-la-Romaine, Guide  archéologique  de  France, 1999, 1ère  éd. 1984, P. 28-33; [(worldcat)](https://search.worldcat.org/title/807347615)
 - Provost, Michel, Joe͏̈l-Claude Meffre, and Dominique Carru. *Vaison-la-romaine Et Ses Campagnes*. Paris: Académie des Inscriptions et Belles-Lettres, 2003, P.168-80. [(worldcat)](https://search.worldcat.org/title/905795401)
+
+## Keywords
+
+- {{< keyword "balnea" >}}
+- {{< keyword "vestibules" >}}
+- {{< keyword "columns" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "reception rooms" >}}
+- {{< keyword "pergolas" >}}
+- {{< keyword "ditches" >}}
 
 ## Places
 

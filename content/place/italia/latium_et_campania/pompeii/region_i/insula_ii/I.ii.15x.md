@@ -23,18 +23,6 @@ unspecified
 
 1873
 
-## Location
-
-- [Pompeii]({{<relref "../../..">}})
-- {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
-
-## Sublocation
-
-[Region I]({{<relref "../..">}})
-
-## Insula
-
-
 ## House
 
 [House 15]({{<relref ".">}})
@@ -68,9 +56,4 @@ This humble house was excavated in 1873. It had no garden but the *impluvium* wa
 
 - {{< keyword "impluvia" >}}
 
-## Places
-
-- {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
-- {{< id vocab="TGN" id="7004658" name="Pompeii (deserted settlement)" >}}
-
-
+<!-- Places -->

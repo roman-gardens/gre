@@ -54,6 +54,7 @@ A survey proved that everything Pliny had depicted in his letter tallied with th
 
 <!--
 ## Places
-- {{< id vocab="Pleiades" id="" name="" >}}
-- {{< id vocab="TGN" id="" name="" >}}
+
+Possibly the same thing?
+https://pleiades.stoa.org/places/423004/
 -->

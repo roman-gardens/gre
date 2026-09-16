@@ -12,31 +12,15 @@ draft: false
 
 ## Dates
 
+unspecified
+
+## Excavation Dates
+
 Excavated 1926 and 1927. Restoration 2017.
-
-## Province
-
-- [Italia]({{<relref "../..">}})
-- {{< id vocab="Pleiades" id="1052" name="Italia" >}}
-
-## Location
-
-- {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
-
-## Location Description
-
-An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in CE 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
-
-## Sublocation
-
-[Region I]({{<relref ".">}})
-## Insula
-
-[Insula VII]({{<relref "#">}})
 
 ## Garden Description
 
-Two [paintings](http://vocab.getty.edu/page/aat/300033644) were found on the west wall of the [atrium](http://vocab.getty.edu/page/aat/300004097) behind this shop, one was of a *porticus* villa on the sea and the second was a garden representation (o.16 x 0.43 m.). The garden was surrounded by a lattice [fence](http://vocab.getty.edu/page/aat/300005044) which was drawn wider in the front than the rear and had a rectangular [pool](http://vocab.getty.edu/page/aat/300375619) in front with ducks swimming.
+Two paintings were found on the west wall of the atrium behind this shop, one was of a *porticus* villa on the sea and the second was a garden representation (o.16 x 0.43 m.). The garden was surrounded by a lattice fence which was drawn wider in the front than the rear and had a rectangular pool in front with ducks swimming.
 
 <!-- ## Maps -->
 
@@ -62,13 +46,8 @@ Two [paintings](http://vocab.getty.edu/page/aat/300033644) were found on the wes
 - {{< keyword "fences" >}}
 - {{< keyword "mural paintings" >}}
 - {{< keyword "piscinae" >}}
+- {{< keyword "pool" >}}
 
-## Garden
-
-Shop-House garden with [pool](http://vocab.getty.edu/page/aat/300008692) and paintings.
-
+<!--
 ## Places
-
-- {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
-- {{< id vocab="TGN" id="7004658" name="Pompeii (deserted settlement)" >}}
-
+-->

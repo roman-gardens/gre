@@ -11,26 +11,11 @@ date: 2021-04-21
 draft: false
 ---
 
-## Province
+<!-- ## Dates -->
 
-- [Italia]({{<relref "../../..">}})
-- {{< id vocab="Pleiades" id="1052" name="Italia" >}}
+## Excavation Dates
 
-## Location
-
-- [Pompeii]({{<relref "../..">}})
-- {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
-
-## Location Description
-
-An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in CE 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
-
-## Sublocation
-
-
-## Insula
-
-[Insula IV]({{<relref ".">}})
+Unspecified
 
 ## Garden Description
 
@@ -44,19 +29,6 @@ This garden (a) was tucked around the right end of a long fauces which led from 
 
 {{< image file="fig.15.viii.iv.33_9.34.59.jpg" caption="Fig. 15, 9.34.59 (Stanley Jashemski, Jashemski Archives, University of Maryland)" credit="" alt="" >}}
 
-## Keywords
-
-- {{< keyword "porticoes" >}}
-
-## Places
-
-- {{< id vocab="Pleiades" id="538911200" name="Regio VIII, Pompeii" >}}
-- {{< id vocab="TGN" id="2053030" name="Pompeii (inhabited place)" >}}
-
-##  Excavation Dates
-
-Unspecified
-
 ## Bibliography
 
 - Dohl, *Plastik aus Pompeji*, p. 45 [(worldcat)](https://search.worldcat.org/title/52662796)
@@ -65,3 +37,9 @@ Unspecified
 - Fiorelli, *Giornale degli scavi di Pompei* (1861), p. 382 [(worldcat)](https://search.worldcat.org/title/962518899)
 - Jashemski, *Gardens*, vol. II, p. 214 [(worldcat)](https://search.worldcat.org/title/1113367431)
 - Niccolini, *Le case ed i monumenti di Pompei designati e descritti*, vol. 2, "Descr. gen," p. 67 [(worldcat)](https://search.worldcat.org/title/906755593)
+
+## Keywords
+
+- {{< keyword "porticoes" >}}
+
+## Places

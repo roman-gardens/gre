@@ -14,22 +14,6 @@ draft: true
 
 Unspecified
 
-## Location
-
-- {{< id vocab="Pleiades" id="74935822" name="Via Labicana" >}}
-
-## Sublocation
-
-Via Labicana
-
-## Sublocation Description
-
-An ancient Roman road connecting Rome and Labicum.
-
-## Garden
-
-Temple Tomb Garden of Q. Haterius Tychicus
-
 ## Garden Description
 
 One of the well-known reliefs from the tomb monument of the Haterii found in 1848 at a villa site after the fourth mile of the Via Labicana and depicting the temple tomb they adorned seems to represent schematically a garden and ornamental pavilion (diaeta) enclosed by a perimeter wall or fence in front of the tomb (Fig. XXX). The property evidently belonged to a building contractor, probably the redemptor Q. Haterius Tychicus (CIL 6.607, perhaps a  freedman of Q. Haterius Antoninus, the consul of 53 CE), who participated in several prominent public building projects during the Flavian era and who erected his monument (to judge from the style of the relief decoration) during the Trajanic period. The tomb itself, built on an inset tufa base ca. 3.5 meters square, partly out of peperino blocks, partly in reticulate work, and partly with brickwork, is almost wholly destroyed. In 1970, about ten meters from the tomb, new excavations at the site unearthed a dedication to Silvanus set up by two Q. Haterii (AE 1982, 78), probably at the boundary of the funerary garden represented in the relief by the enclosed pavilion. In the same garden was found the so-called urn of the Haterii, in all likelihood an elaborately sculpted fountain base.

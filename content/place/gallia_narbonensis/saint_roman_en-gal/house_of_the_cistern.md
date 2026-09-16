@@ -41,11 +41,6 @@ The final house runs just over 100 meters from south to north. The first two hou
 
 House with the Cistern
 
-## Keywords
-
-- {{< keyword "porticoes" >}}
-- {{< keyword "courtyards" >}}
-
 ## House Description
 
 This house was exposed during a programmed excavation from 1981 to 1985. It occupies a plot of 1338 square meters facing Voie I, on which it opens through an entrance in the center of its façade.
@@ -66,6 +61,11 @@ This phase, called the House with the Cistern, was constructed in the last years
 - Prisset, Jean-Luc, Laurence Brissaud, and Odile Leblanc. *Evolution Urbaine À Saint-Romain En-Gal: La Rue Du Commerce Et La Maison Aux Cinq Mosaïques*. Paris: CNRS éd, 1994, P. 1-133. [worldcat](https://search.worldcat.org/title/491540838)
 - Gros, Pierre. *L'architecture Romaine Du Début Du IIIe Siècle Av. J.-C. À La Fin Du Haut-Empire: 2 Maisons, Palais, Villas Et Tombeaux* Paris: Picard, 2001, p. 160-162.[worldcat](https://search.worldcat.org/title/1169743067)
 - Bouet, Alain, and Isabel Figueiral. *Les Thermes Privés Et Publics En Gaule Narbonnaise*. Rome: École française de Rome, 2003, P. 269-271, fig 189.[worldcat](https://search.worldcat.org/title/43416334)
+
+## Keywords
+
+- {{< keyword "porticoes" >}}
+- {{< keyword "courtyards" >}}
 
 ## Places
 

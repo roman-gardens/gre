@@ -24,12 +24,7 @@
     <!-- Find all garden articles under this location -->
     {{- $pages := where (sort page.RegularPagesRecursive ".Path") "Type" "garden" -}}
     <!-- visible gardens have no ancestors with draft:true -->
-    {{ $visible := slice }}
-    {{ range $pages }}
-        {{ if partial "visible.html" . }}
-            {{ $visible = $visible | append . }}
-        {{ end }}
-    {{ end }}
+    {{ $visible := partial "pages-visible.html" $pages }}
 
     <!-- State how many published/total  -->
     {{- $count := len $visible -}}

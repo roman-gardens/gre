@@ -36,13 +36,6 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 
 House Formigé Square-2 phases
 
-## Keywords
-
-- {{< keyword "vestibules" >}}
-- {{< keyword "atriums" >}}
-- {{< keyword "porticoes" >}}
-- {{< keyword "fountains" >}}
-
 ## House Description
 
 The house found under Formigé square lies 200 m south of the intersection of the *cardo maximus* and the *decumanus maximus* at 150 meters from the quays of the port.  It is in the southwest quarter of  Insula A of the network of the city.  A parcel of 462 square meters has been recovered with a useful covered surface of about 342 square meters.  To the south it is paralleled by a *decumanus* and by other habitations to the north and east.  The principal entrance was probably on the south.  What may be called the first stage of construction, though it replaced a previous condition, seems to go back to around CE 1-5.  In this condition, it was occupied until CE 60-70.  Its pavements have been preserved, along with a large part of its painted decoration up to a considerable height.
@@ -65,6 +58,13 @@ Around CE 65-70, the house entered a second stage which lasted three and a half 
 
 - Bouet, Alain. La Maison Urbaine D'époque Romaine: Atlas Des Maisons De Gaule Narbonnaise. Vaucluse: Service d'Archéologie du Conseil Général de Vaucluse, 1996, fiche n°3, P. 110-111, fiche  n°4, P. 112-113. [(worldcat)](https://search.worldcat.org/title/919659882)
 - RIVET, D.  BRENTCHALOFF, S.  ROUCOLE, S.  SAULNIER, *Fréjus, Atlas topographique  des  villes  de  gaule  méridionale*, R.A.N., supplément  32, Montpellier, 2000, P. 195-198. [(worldcat)](https://search.worldcat.org/title/491603596)
+
+## Keywords
+
+- {{< keyword "vestibules" >}}
+- {{< keyword "atriums" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "fountains" >}}
 
 ## Places
 

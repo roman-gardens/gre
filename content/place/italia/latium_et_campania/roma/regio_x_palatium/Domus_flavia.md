@@ -16,21 +16,6 @@ draft: false
 
 <!-- ## Excavation Dates -->
 
-## Province
-
-- [Italia]({{<relref "../..">}})
-- {{< id vocab="Pleiades" id="1052" name="Italia" >}} \
-- {{< id vocab="Pleiades" id="441075550" name="Italia, Regio I" >}}
-
-## Location
-
-- {{< id vocab="Pleiades" id="423025" name="Roma" >}}
-
-## Sublocation
-
-- [Palatine]({{<relref ".">}})
-- {{< id vocab="Pleiades" id="971691208" name="Mons Palatinus" >}}
-
 ## Garden
 
 Upper Peristyle and Nymphaea of the Domus Flavia, Palatine
@@ -85,6 +70,6 @@ RELATED PHASES ON THE PALATINE:
 - [Scriptores Historiae Augustae](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1743)
 - [Statius](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1323)
 
+<!--
 ## Places
-
-- {{< id vocab="Pleiades" id="971691208" name="Palatine Hill" >}}
+-->

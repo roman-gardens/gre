@@ -1,7 +1,7 @@
 ---
 slug: "611879dfad"
 type: garden
-title: The Pecile (Fig. 1, n. 6)
+title: The Pecile
 latlon: [ 41.941871, 12.774084 ]
 author: Eugenia Salza Prina Ricotti
 contributor: Joshua Rosenheim
@@ -14,28 +14,13 @@ draft: true
 
 Built between 118 and 138 CE
 
-## Excavation Date
+## Excavation Dates
 
-unspecified
-
-## Province
-
-- [Italia]({{<relref "../..">}})
-- {{< id vocab="Pleiades" id="1052" name="Italia" >}}
-
-## Region
-
-Region IV
-<!-- find link to Italia, Regio IV: Samnium? -->
-
-## Location
-
-- {{< id vocab="Pleiades" id="423127" name="Hadrian's Villa" >}}
+unexcavated
 
 ## Garden
 
-The Pecile (Fig. 1, n. 6)\
-- {{< id vocab="Pleiades" id="781209675" name="Pecile at Hadrian's Villa" >}}
+The Pecile (Fig. 1, n. 6)
 
 ## Garden Description
 
@@ -87,8 +72,3 @@ The Pecile (Fig. 20) was never excavated as a garden. Thus, today, we have only 
 ## Places
 
 - {{< id vocab="Pleiades" id="781209675" name="Pecile at Hadrian's Villa" >}}
-<!-- this is the Pleiades ID for the relevant location of this garden within Hadrian's Villa, not the ID for Villa Hadriani -->
-
-- {{< id vocab="TGN" id="7006983" name="Hadrian's Villa (ruins)" >}}
-<!-- this is the TGN ID for Hadrian's Villa, not for this particular garden -->
-

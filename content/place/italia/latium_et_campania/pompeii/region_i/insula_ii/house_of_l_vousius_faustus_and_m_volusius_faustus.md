@@ -25,18 +25,6 @@ unspecified
 
 1873
 
-## Location
-
-- [Pompeii]({{<relref "../../..">}})
-- {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
-
-## Sublocation
-
-[Region I]({{<relref "../..">}})
-
-## Insula
-
-
 ## House
 
 [House 10]({{<relref ".">}})
@@ -90,9 +78,4 @@ When this garden was excavated in 1873, the excavators reported three panels on 
 - {{< keyword "piscinae" >}}
 - {{< keyword "triclinia (rooms)" >}}
 
-## Places
-
-- {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
-- {{< id vocab="TGN" id="7004658" name="Pompeii (deserted settlement)" >}}
-
-
+<!-- Places -->

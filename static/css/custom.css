@@ -78,6 +78,10 @@ div.container {
   max-width:1280px;
 }
 
+div.container:has(.meta) {
+  max-width:100%;
+}
+
 figure {
   margin: 0.5em 2em 2em;
 }
@@ -450,21 +454,25 @@ table.meta th {
   color: #fff;
 }
 
+table.meta th:hover {
+  background: #822d30;
+  cursor: pointer;
+}
+
 table.meta.garden th {
   background: #282;
 }
 
-table.meta th:hover {
-  background: #822d30;
-  cursor: pointer;
+table.meta.garden th:hover {
+  background: #040;
 }
 
 table.meta a {
   color: #c22d30;
 }
 
-table.meta.garden a {
-  color: #282;
+table.meta ul {
+  margin: 0 0 0 1em;
 }
 
 table.meta tr.draft {

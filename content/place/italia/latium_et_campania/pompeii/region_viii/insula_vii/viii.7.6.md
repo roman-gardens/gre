@@ -11,26 +11,11 @@ date: 2021-04-21
 draft: false
 ---
 
-## Province
+<!-- ## Dates -->
 
-- [Italia]({{<relref "../../..">}})
-- {{< id vocab="Pleiades" id="1052" name="Italia" >}}
+## Excavation Dates
 
-## Location
-
-- [Pompeii]({{<relref "../..">}})
-- {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
-
-## Location Description
-
-An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in CE 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
-
-## Sublocation
-
-
-## Insula
-
-[Insula VII]({{<relref ".">}})
+1906
 
 ## Garden Description
 
@@ -44,24 +29,6 @@ The extremely long entranceway from the street led all the way to the back of th
 
 {{< image file="fig.27,viii.vii.6_9.31.66.jpg" caption="Fig. 27, 9.31.66 (Stanley Jashemski, Jashemski Archives, University of Maryland)" credit="" alt="" >}}
 
-## Keywords
-
-- {{< keyword "porticoes" >}}
-- {{< keyword "triclinia (rooms)" >}}
-- {{< keyword "opus signinum" >}}
-- {{< keyword "dolia" >}}
-- {{< keyword "lararia" >}}
-- {{< keyword "pergolas" >}}
-
-## Places
-
-- {{< id vocab="Pleiades" id="538911200" name="Regio VIII, Pompeii" >}}
-- {{< id vocab="TGN" id="2053030" name="Pompeii (inhabited place)" >}}
-
-##  Excavation Dates
-
-1906
-
 ## Bibliography
 
 - Boyce, *Corpus of the Lararia of Pompeii*, Memoris of the American Academy in Rome (1937), p. 78, no. 376 [(worldcat)](https://search.worldcat.org/title/1131425884)
@@ -74,3 +41,14 @@ The extremely long entranceway from the street led all the way to the back of th
 - Soprano, *I triclini all'aperto di Pompei* In Pompeiana, pp. 301-302, no. 16. [(worldcat)](https://search.worldcat.org/title/78719058)
 - Spano, *Notizie degli scavi di Antichita* (1910), pp. 264-265 and fig. 5 (plan) on p. 263 [(worldcat)](https://search.worldcat.org/title/638883283)
 - Viola, *Gli scavi di Pompei dal 1873 al 1878.* In Pompei e la regione sotterrara dal Vesuvio nell' anno LXXIX, p. 17 (where the address is given as VIII,viii.6.) [(worldcat)](https://search.worldcat.org/title/254502217)
+
+## Keywords
+
+- {{< keyword "porticoes" >}}
+- {{< keyword "triclinia (rooms)" >}}
+- {{< keyword "opus signinum" >}}
+- {{< keyword "dolia" >}}
+- {{< keyword "lararia" >}}
+- {{< keyword "pergolas" >}}
+
+## Places

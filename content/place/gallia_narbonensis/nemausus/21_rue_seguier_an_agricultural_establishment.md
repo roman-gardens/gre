@@ -38,12 +38,6 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 
 21, rue Séguier, An Agricultural Establishment
 
-## Keywords
-
-- {{< keyword "amphorae" >}}
-- {{< keyword "flowerpots" >}}
-- {{< keyword "porticoes" >}}
-
 ## House Description
 
 This site is east of the ancient town, 300 meters from the wall of High Empire times. It was found during an emergency salvage excavation of rue Séguier in 1992-93.  An agricultural use of the soil during the second and first centuries BCE is indicated by ceramics for carrying waste water to the fields and by planting holes.  Then a building was constructed around CE 30 only to be rapidly abandoned between CE 70 and 80.  The stones of the building were carried off at the end of the first century, and two burials made around 80-100. The house is organized around a rectangular courtyard (14.3 by 9 meters) surrounded by galleries known on three sides and presumed on the fourth.  The floor of these passage ways was of pounded earth covered, in places, by a bed of fragments of amphora and *dolia*.
@@ -61,6 +55,12 @@ In the central part of the courtyard were found a series of horticultural pots, 
 - J.L. Fiches, A. Veyrac, *Nîmes*, CAG, 30/1, 1996, P. 127.
 - Y. Manniez, A. Recolin, fiche Nîmes, 21, rue Séguier (Gard) *in Forme de l'habitat rural en Gaule Narbonnaise*, n° 2, ed. APDCA, Juan-les-Pins, 1994, 6 p.
 - S. Barberan, Un aménagement horticole dans la cour d'un établissement pré-urbain à Nîmes (Gard) in *Bulletin de l'Ecole antique de Nîmes*, P. 67-22.[(worldcat)](https://search.worldcat.org/title/835159144)
+
+## Keywords
+
+- {{< keyword "amphorae" >}}
+- {{< keyword "flowerpots" >}}
+- {{< keyword "porticoes" >}}
 
 ## Places
 

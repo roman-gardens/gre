@@ -11,7 +11,9 @@ draft: false
 
 <!-- ## Dates -->
 
-<!-- ## Place Description -->
+## Place Description
+
+An ancient Roman road connecting Rome and Labicum.
 
 <!--
 ## Maps
@@ -38,8 +40,6 @@ draft: false
 - {{< keyword "Example keyword" >}}
 -->
 
-<!--
 ## Places
-- {{< id vocab="Pleiades" id="" name="" >}}
-- {{< id vocab="TGN" id="" name="" >}}
--->
+
+- {{< id vocab="Pleiades" id="74935822" name="Via Labicana" >}}

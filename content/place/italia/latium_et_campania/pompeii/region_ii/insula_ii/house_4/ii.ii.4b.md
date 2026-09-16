@@ -1,7 +1,7 @@
 ---
 slug: "a6b8558341"
 type: garden
-title: II.ii.4
+title: Narrow garden at the House of Messius Ampliatus (II.2.4)
 latlon: [ 40.7517, 14.4925 ]
 author: Wilhelmina Jashemski
 contributor: Jessica Venner, Keith Jenkins
@@ -16,10 +16,6 @@ draft: false
 ## Excavation Dates
 
 1916, 1918 and 1921.
-
-## House
-
-Casa Dell'Augustale; Casa Della Corona di Alloro; Casa della Corona di Quercia; House of Messius Ampliatus
 
 ## Garden Description
 
@@ -37,8 +33,6 @@ The east [portico](http://vocab.getty.edu/page/aat/300004145) gave access to the
 - {{< keyword "courtyards" >}}
 - {{< keyword "porticoes" >}}
 
+<!--
 ## Places
-
-- {{< id vocab="Pleiades" id="634179974" name="House of Messius Ampliatus" >}}
-
-
+-->

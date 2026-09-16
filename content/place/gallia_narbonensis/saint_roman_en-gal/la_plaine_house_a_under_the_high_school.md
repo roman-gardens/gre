@@ -33,14 +33,6 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 
 La Plaine, House A under the High School
 
-## Keywords
-
-- {{< keyword "domus" >}}
-- {{< keyword "peristyles" >}}
-- {{< keyword "porticoes" >}}
-- {{< keyword "courtyards" >}}
-- {{< keyword "reception rooms" >}}
-
 ## House Description
 
 This vast *domus* (120 x 60 m) presumably had its principal, monumental entry on the south side, along the Street of the Port. The south peristyle [6] (approximately 13.7 x 9.3 m) was surrounded by four porticoes with floors of terrazzo signinum. Three of them were 2 meters wide; the fourth, on the north, was 3 meters wide and gave access to the principal room [17].
@@ -60,14 +52,18 @@ In the northern wing of the house, a square reception room [53], 5.8 meters on a
 ## Bibliography
 
 - *Maison 1996*, t. II,, p. 358-361
-
-
 - Lancha, Janine. *Recueil General Des Mosaïques De La Gaule: III*. Paris: CNRS, 1981, P. 302-307.[worldcat](https://search.worldcat.org/title/492310522)
-
-
 -  M. Leglay, Informations archéologiques, in Gallia, 29, 2, 1971, P. 57-58.[worldcat](#)
 - M. Leglay, "Les jardins à Vienne," in *Seventh Dumbarton Oaks Colloquium on the History of Landscape Architecture, Ancient Roman Gardens*, Washington, 1981, P. 57-58.[worldcat](#)
 - Bouet, Alain, and Isabel Figueiral. *Les Thermes Privés Et Publics En Gaule Narbonnaise*. Rome: École française de Rome, 2003, P. 275-277, Fig. 195.[worldcat](https://search.worldcat.org/title/43416334)
+
+## Keywords
+
+- {{< keyword "domus" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "courtyards" >}}
+- {{< keyword "reception rooms" >}}
 
 ## Places
 

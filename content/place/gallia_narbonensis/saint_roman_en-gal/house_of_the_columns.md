@@ -31,16 +31,6 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 
 House of the Columns
 
-## Keywords
-
-- {{< keyword "peristyles" >}}
-- {{< keyword "porticoes" >}}
-- {{< keyword "reception rooms" >}}
-- {{< keyword "apsed pools" >}}
-- {{< keyword "fountains" >}}
-- {{< keyword "triclinia (rooms)" >}}
-- {{< keyword "nymphaea" >}}
-
 ## House Description
 
 The house  had a linear plan starting from a garden on the south, then on the north side of the garden, a façade gallery, then several rooms, and finally a peristyle on the north. It went through three phases with the changes concentrated on the south garden. In the first phase, this garden [13] (23.5 x 11.5 m) was bordered on the north by a portico [12] 2.5 meters wide. In the garden, adjacent to this portico and directly in front of the principal reception room [8] was a rectangular pool (7.5 x 4 m) with an apse in the center of the south side. It probably had a fountain.
@@ -68,6 +58,16 @@ The final phase lasted about fifty years, beginning in the first half of the thi
 - Gros, Pierre. *L'architecture Romaine Du Début Du IIIe Siècle Av. J.-C. À La Fin Du Haut-Empire: 2 Maisons, Palais, Villas Et Tombeaux* Paris: Picard, 2001, p. 189.[worldcat](https://search.worldcat.org/title/1169743067)
 - *Recherches Archéologiques a Saint-Romain-En-Gal (1988-1990)*. Vienne, 1992, P. 45-83.[worldcat](https://search.worldcat.org/title/1068996218)
 - Bouet, Alain, and Isabel Figueiral. *Les Thermes Privés Et Publics En Gaule Narbonnaise*. Rome: École française de Rome, 2003, P. 271-275, fig. 194.[worldcat](hhttps://search.worldcat.org/title/43416334)
+
+## Keywords
+
+- {{< keyword "peristyles" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "reception rooms" >}}
+- {{< keyword "apsed pools" >}}
+- {{< keyword "fountains" >}}
+- {{< keyword "triclinia (rooms)" >}}
+- {{< keyword "nymphaea" >}}
 
 ## Places
 

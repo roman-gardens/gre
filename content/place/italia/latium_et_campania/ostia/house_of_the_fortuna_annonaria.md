@@ -13,7 +13,7 @@ draft: false
 
 2nd century CE to 4th century CE
 
-## Excavation Date
+## Excavation Dates
 
 unspecified
 

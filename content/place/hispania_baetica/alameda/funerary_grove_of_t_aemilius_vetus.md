@@ -11,7 +11,7 @@ date: 2021-04-21
 draft: true
 ---
 
-## Datess
+## Dates
 
 late first or early second century CE
 
@@ -32,15 +32,12 @@ A grey limestone block found in 1975 at La Alameda, between Toledo and Cordova, 
 ## Bibliography
 
 - L. Chioffi,"Sui luci sepolcrali," *Libitina e dintorni (Atti del XI Rencontre franco-italienne sur l'épigraphie) (Libitina 3)*, S. Panciera, ed. (Rome 2004) 22 and 27 n.9. [(worldcat)](https://search.worldcat.org/title/470510187)
-- Géza Alföldy, "Epigraphica Hispanica IX," *Zeitschrift für Papyrologie und Epigraphik 67*, 1987, 235-36, Tav. VI, 5.[(jstore)](https://www.jstor.org/stable/20186588)
-- "Espagne Citérieure," *L'Année épigraphique Année 1987 (1990)*, 685. [(jstore)](https://www.jstor.org/stable/25607522)
+- Géza Alföldy, "Epigraphica Hispanica IX," *Zeitschrift für Papyrologie und Epigraphik 67*, 1987, 235-36, Tav. VI, 5.[(JStor)](https://www.jstor.org/stable/20186588)
+- "Espagne Citérieure," *L'Année épigraphique Année 1987 (1990)*, 685. [(JStor)](https://www.jstor.org/stable/25607522)
 
 ## Keywords
 
 - {{< keyword "inscriptions" >}}
 - {{< keyword "groves" >}}
 
-## Places
-
-- {{< id vocab="Pleiades" id="270382" name="Urgapa" >}}
-- {{< id vocab="TGN" id="1061700" name="Alameda (inhabited place)" >}}
+<!-- ## Places -->

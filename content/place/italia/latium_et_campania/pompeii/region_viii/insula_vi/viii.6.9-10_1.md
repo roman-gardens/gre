@@ -11,26 +11,11 @@ date: 2021-04-21
 draft: false
 ---
 
-## Province
+<!-- ## Dates -->
 
-- [Italia]({{<relref "../../..">}})
-- {{< id vocab="Pleiades" id="1052" name="Italia" >}}
+## Excavation Dates
 
-## Location
-
-- [Pompeii]({{<relref "../..">}})
-- {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
-
-## Location Description
-
-An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in CE 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
-
-## Sublocation
-
-
-## Insula
-
-[Insula VI]({{<relref ".">}})
+Unspecified
 
 ## Garden Description
 
@@ -44,6 +29,12 @@ The atrium at the front of this house had been converted into a bakery. Towards 
 
 {{< image file="fig.22.viii.vi.9_12.29.59.jpg" caption="Fig.21, 12.31.59 (Stanley Jashemski, Jashemski Archives, University of Maryland)" credit="" alt="" >}}
 
+## Bibliography
+
+- Boyce, *Corpus of the Lararia of Pompeii*, Memoris of the American Academy in Rome, 1937, p.78, no.375 [(worldcat)](https://search.worldcat.org/title/1131425884)
+- Jashemski, *Gardens*, vol. II, p.219 [(worldcat)](https://search.worldcat.org/title/1113367431)
+- Mau, *Bullettino dell'Instituto di Corrispondenza Archeologica*, 1884, pp.182-183 (location given as VII.vii [9]) [(worldcat)](https://search.worldcat.org/title/823239162)
+
 ## Keywords
 
 - {{< keyword "atriums" >}}
@@ -52,16 +43,3 @@ The atrium at the front of this house had been converted into a bakery. Towards 
 - {{< keyword "opus signinum" >}}
 
 ## Places
-
-- {{< id vocab="Pleiades" id="538911200" name="Regio VIII, Pompeii" >}}
-- {{< id vocab="TGN" id="2053030" name="Pompeii (inhabited place)" >}}
-
-##  Excavation Dates
-
-Unspecified
-
-## Bibliography
-
-- Boyce, *Corpus of the Lararia of Pompeii*, Memoris of the American Academy in Rome, 1937, p.78, no.375 [(worldcat)](https://search.worldcat.org/title/1131425884)
-- Jashemski, *Gardens*, vol. II, p.219 [(worldcat)](https://search.worldcat.org/title/1113367431)
-- Mau, *Bullettino dell'Instituto di Corrispondenza Archeologica*, 1884, pp.182-183 (location given as VII.vii [9]) [(worldcat)](https://search.worldcat.org/title/823239162)

@@ -37,17 +37,6 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 
 Tower Enclosure, Insula III, House IIIA – 3 phases
 
-## Keywords
-
-- {{< keyword "porticoes" >}}
-- {{< keyword "reception rooms" >}}
-- {{< keyword "domus" >}}
-- {{< keyword "water wells" >}}
-- {{< keyword "courtyards" >}}
-- {{< keyword "fountains" >}}
-- {{< keyword "water wells" >}}
-- {{< keyword "vestibules" >}}
-
 ## House Description
 
 This house is 65 meters south of the rampart and 120 meters to the west of the theater. It occupies the northeast corner of an insula in network B, in the northeast quarter of the city. The house occupies a parcel of 192 square meters, with a useful covered area of 85.5 square meters.  It was bordered on the north by a *decumanus* and on the east by a *cardo* with porticos.  To the west and south, it had common walls with other habitations. Constructed around CE 20-25, the house continued in use for 40-45 years.
@@ -65,9 +54,18 @@ In a third and final phase, dated from around the end of the second century, the
 ## Bibliography
 
 - *La Maison Urbaine D'époque Romaine: Atlas Des Maisons De Gaule Narbonnaise*. Vaucluse: Service d'archéologie du Conseil général de Vaucluse, 1996, P. 114-115. [(worldcat)](https://search.worldcat.org/title/695787865)
-
-
 - RIVET, D.  BRENTCHALOFF, S.  ROUCOLE, S.  SAULNIER, *Fréjus, Atlas topographique  des  villes  de  gaule  méridionale*, R.A.N., supplément  32, Montpellier, 2000, P. 127-128. [(worldcat)](https://search.worldcat.org/title/491603596)
+
+## Keywords
+
+- {{< keyword "porticoes" >}}
+- {{< keyword "reception rooms" >}}
+- {{< keyword "domus" >}}
+- {{< keyword "water wells" >}}
+- {{< keyword "courtyards" >}}
+- {{< keyword "fountains" >}}
+- {{< keyword "water wells" >}}
+- {{< keyword "vestibules" >}}
 
 ## Places
 

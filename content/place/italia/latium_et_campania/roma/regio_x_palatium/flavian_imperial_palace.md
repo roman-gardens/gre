@@ -14,25 +14,6 @@ draft: false
 
 1st century - 2nd century CE
 
-## Province
-
-- [Italia]({{<relref "../..">}})
-- {{< id vocab="Pleiades" id="1052" name="Italia" >}}\
-- {{< id vocab="Pleiades" id="441075550" name="Italia, Regio I" >}}
-
-## Location
-
-- {{< id vocab="Pleiades" id="423025" name="Roma" >}}
-
-## Sublocation
-
-- [Palatine]({{<relref ".">}})
-- {{< id vocab="Pleiades" id="971691208" name="Mons Palatinus" >}}
-
-## Garden
-
-Garden of the Flavian Imperial Palace, Palatine
-
 ## Garden Description
 
 During the period of [Domitian](https://en.wikipedia.org/wiki/Domitian) (81-96 CE), a large artificial platform with massive substructures at the north, east and west was completed at the site of the [Vigna Barberini](https://it.wikipedia.org/wiki/Vigna_Barberini). On this platform stood a large structure with a curvilinear plan at the south, and with [colonnaded](http://vocab.getty.edu/page/aat/300002613) aisles on the east and west (the north is not excavated) that enclosed a vast garden (Figs. 1-2).  Over one-third of this garden area has been partly explored, another third was irrevocably destroyed when the later [Temple of Elagabalus (*Elagabalium*)](https://en.wikipedia.org/wiki/Elagabalium) was built, and the final third, at the north, remains to be excavated.
@@ -103,6 +84,6 @@ OTHER PHASES OF THE VIGNA BARBERINI SITE:
 - {{< keyword "sewers" >}}
 - {{< keyword "statues" >}}
 
+<!--
 ## Places
-
-- {{< id vocab="Pleiades" id="971691208" name="Palatinus Mons" >}}
+-->

@@ -12,27 +12,11 @@ draft: false
 
 ## Dates
 
+unspecified
+
+## Excavation Dates
+
 Excavated 1911-1929.
-
-## Province
-
-- [Italia]({{<relref "../..">}})
-- {{< id vocab="Pleiades" id="1052" name="Italia" >}}
-
-## Location
-
-- {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
-
-## Location Description
-
-An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in CE 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
-
-## Sublocation
-
-[Region I]({{<relref ".">}})
-## Insula
-
-[Insula VI]({{<relref "#">}})
 
 ## Garden Description
 
@@ -82,8 +66,4 @@ B. At the rear of the house, a large enclosed garden had been increased in size 
 
 House of the Cryptoporticus; Casa Del Crirtoportico; Casa Omerica; House of T. Lucretius Carus.
 
-## Places
-
-- {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
-- {{< id vocab="TGN" id="7004658" name="Pompeii (deserted settlement)" >}}
-
+<!-- Places -->

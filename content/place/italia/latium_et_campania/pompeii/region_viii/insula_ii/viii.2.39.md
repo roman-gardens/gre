@@ -11,26 +11,11 @@ date: 2021-04-21
 draft: false
 ---
 
-## Province
+<!-- ## Dates -->
 
-- [Italia]({{<relref "../../..">}})
-- {{< id vocab="Pleiades" id="1052" name="Italia" >}}
+## Excavation Dates
 
-## Location
-
-- [Pompeii]({{<relref "../..">}})
-- {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
-
-## Location Description
-
-An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in CE 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
-
-## Sublocation
-
-
-## Insula
-
-[Insula II]({{<relref ".">}})
+First excavated in 1767-1769, Filled in. Re-excavated in 1885-1886
 
 ## Garden Description
 
@@ -40,21 +25,6 @@ This was the last of the houses to be built on the Via della Regina, all of whic
 
 {{< image file="fig._4_region_viii_insula_ii.jpg" caption="Plan of the Pompeii Region VIII, Insula II" credit="" alt="" >}}
 {{< image file="fig._4_region_viii_insula_ii_39.jpg" caption="Plan of the Pompeii Region VIII, Insula II, 29-39" credit="" alt="" >}}
-
-## Keywords
-
-- {{< keyword "triclinia (couches)" >}}
-- {{< keyword "porticoes" >}}
-- {{< keyword "cubicula" >}}
-
-## Places
-
-- {{< id vocab="Pleiades" id="538911200" name="Regio VIII, Pompeii" >}}
-- {{< id vocab="TGN" id="2053030" name="Pompeii (inhabited place)" >}}
-
-##  Excavation Dates
-
-First excavated in 1767-1769, Filled in. Re-excavated in 1885-1886
 
 ## Bibliography
 
@@ -70,3 +40,11 @@ First excavated in 1767-1769, Filled in. Re-excavated in 1885-1886
 - Noack and Lehmann-Hartleben,*Baugeschichtliche Untersuchungen am Stadtrand von Pompeji*, pp. 18-30 passim, pls. 3 (plan) and 21 (reconstruction) [(worldcat)](https://search.worldcat.org/title/486835478)
 - Fiorelli, ed. *Pompeianarum Antiquitatum Historia*, vol. 1, pt. 1 pp. 210, 211 (Aug.14, 22, 29, 1767)[(worldcat)](https://search.worldcat.org/title/714988573)
 - Schefold, *Die Wände Pompejis*, p. 218 [(worldcat)][https://search.worldcat.org/title/1100462668)
+
+## Keywords
+
+- {{< keyword "triclinia (couches)" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "cubicula" >}}
+
+## Places

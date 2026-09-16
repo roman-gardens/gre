@@ -220,7 +220,7 @@
                 {{ else if eq .Path "/home" }}
                     {{ $gardens = where .Site.RegularPages "Type" "garden" }}
                 {{ end }}
-                {{ range $gardens }}
+                {{ range partial "pages-visible.html" $gardens }}
                     addPoint({
                         "latlon": {{ .Params.latlon }},
                         "smallcrumbs": {{ partial "smallcrumbs.html" . }},

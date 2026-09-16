@@ -40,6 +40,4 @@ Around 7 BCE, Latium et Campania were defined as Regio I of Italia by Augustus. 
 
 <!--
 ## Places
-- {{< id vocab="Pleiades" id="" name="" >}}
-- {{< id vocab="TGN" id="" name="" >}}
 -->

@@ -15,30 +15,9 @@ draft: false
 
 Partially excavated 1754 to 1757, 1933 to 1935, fully re-excavated 1951.
 
-## Location
-
-- [Pompeii]({{<relref "../../..">}})
-- {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
-
-## Location Description
-
-An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in CE 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
-
-## Sublocation
-
-[Region II]({{<relref "../..">}})
-## Insula
-
-
-## House
-
-- {{< id vocab="Pleiades" id="205387552" name="House of Julia Felix" >}}
-
-## Garden
-
-Three separate gardens in the Praedia di Julia Felix.
-
 ## Garden Description
+
+<!-- Three separate gardens in the Praedia di Julia Felix -- SPLIT THESE INTO SEPARATE FILES -->
 
 Three separate gardens were located in this property.
 

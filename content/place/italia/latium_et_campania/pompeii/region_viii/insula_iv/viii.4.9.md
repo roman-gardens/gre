@@ -11,26 +11,11 @@ date: 2021-04-21
 draft: false
 ---
 
-## Province
+<!-- ## Dates -->
 
-- [Italia]({{<relref "../../..">}})
-- {{< id vocab="Pleiades" id="1052" name="Italia" >}}
+## Excavation Dates
 
-## Location
-
-- [Pompeii]({{<relref "../..">}})
-- {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
-
-## Location Description
-
-An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in CE 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
-
-## Sublocation
-
-
-## Insula
-
-[Insula IV]({{<relref ".">}})
+1860-1861
 
 ## Garden Description
 
@@ -39,19 +24,6 @@ What was formerly a garden with a pool was converted into a large open area (a) 
 ## Plans
 
 {{< image file="fig.20.region_viii._insula_iv.png" caption="Plan of Region VIII Insula IV" credit="" alt="" >}}
-
-## Keywords
-
-- {{< keyword "tablina" >}}
-
-## Places
-
-- {{< id vocab="Pleiades" id="538911200" name="Regio VIII, Pompeii" >}}
-- {{< id vocab="TGN" id="2053030" name="Pompeii (inhabited place)" >}}
-
-##  Excavation Dates
-
-1860-1861
 
 ## Bibliography
 
@@ -62,3 +34,9 @@ What was formerly a garden with a pool was converted into a large open area (a) 
 - Jashemski, *Gardens*, vol. II, pp. 212-213 [(worldcat)](https://search.worldcat.org/title/1113367431)
 - Lugebil, *Bullettino dell'Instituto di Corrispondenza Archeologica* (1861), p. 237 [(worldcat)](https://search.worldcat.org/title/823239162)
 - Niccolini, *Le case ed i monumenti di Pompei designati e descritti*, vol. 2, "Descr. gen," p. 67 [(worldcat)](https://search.worldcat.org/title/906755593)
+
+## Keywords
+
+- {{< keyword "tablina" >}}
+
+## Places

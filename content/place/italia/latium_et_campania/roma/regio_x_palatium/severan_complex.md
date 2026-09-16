@@ -14,25 +14,6 @@ draft: false
 
 1st century CE to 4th century CE
 
-## Province
-
-- [Italia]({{<relref "../..">}})
-- {{< id vocab="Pleiades" id="1052" name="Italia" >}} \
-- {{< id vocab="Pleiades" id="441075550" name="Italia, Regio I" >}}
-
-## Location
-
-- {{< id vocab="Pleiades" id="423025" name="Roma" >}}
-
-## Sublocation
-
-- [Palatine]({{<relref ".">}})
-- {{< id vocab="Pleiades" id="971691208" name="Mons Palatinus" >}}
-
-## Garden
-
-Garden of the Severan Complex, Palatine
-
 ## Garden Description
 
 The most visible remains from this period are a massive series of substructure [arcades](http://vocab.getty.edu/page/aat/300002580) along the slope of the [Palatine](https://en.wikipedia.org/wiki/Palatine_Hill) overlooking the [Circus Maximus](https://www.digitalaugustanrome.org/records/circus-maximus). It had been considered that this area was a  [*thermae*](https://en.wikipedia.org/wiki/Thermae), a bath complex, from the time of [Septimius Severus](https://en.wikipedia.org/wiki/Septimius_Severus), but recent excavations and studies have shown at least part to have been occupied by the [Domitianic](https://en.wikipedia.org/wiki/Domitian) building phase. Until the time of [Maxentius](https://en.wikipedia.org/wiki/Maxentius), who built baths, this private wing of the palace was intended for *otium* and open-air promenades and was embellished with vast areas of gardens, [pools](http://vocab.getty.edu/page/aat/300008692) and [fountains](http://vocab.getty.edu/page/aat/300006179).

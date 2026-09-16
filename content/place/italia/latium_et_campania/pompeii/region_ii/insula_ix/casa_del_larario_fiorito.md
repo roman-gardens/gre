@@ -11,25 +11,11 @@ date: 2021-04-21
 draft: false
 ---
 
-## Province
+<!-- ## Dates -->
 
-- [Italia]({{<relref "../../..">}})
-- {{< id vocab="Pleiades" id="1052" name="Italia" >}}
+## Excavation Dates
 
-## Location
-
-- [Pompeii]({{<relref "../..">}})
-- {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
-
-## Location Description
-
-An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in CE 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
-
-## Sublocation
-
-## Insula
-
-[Insula IX]({{<relref ".">}})
+Excavated 1951, 1954, 1987. Restored 1988. Re-opened 2018.
 
 ## Garden Description
 
@@ -49,6 +35,10 @@ Need Fig. 76
 
 Need Fig. 77 -->
 
+## Bibliography
+
+Ciarallo, A. 1990. *Le problematiche botaniche dell'area archeologica Vesuviana*, L'Erma di Bretschneider, pp.17-32. [(worldcat)](https://search.worldcat.org/title/6022166)
+
 ## Keywords
 
 - {{< keyword "porticoes" >}}
@@ -56,15 +46,6 @@ Need Fig. 77 -->
 - {{< keyword "charcoal" >}}
 - {{< keyword "pollen" >}}
 
+<!--
 ## Places
-
-- {{< id vocab="Pleiades" id="456321707" name="Regio II, Pompeii" >}}
-- {{< id vocab="TGN" id="7004658" name="Pompeii (deserted settlement)" >}}
-
-##  Excavation Dates
-
-Excavated 1951, 1954, 1987. Restored 1988. Re-opened 2018.
-
-## Bibliography
-
-Ciarallo, A. 1990. *Le problematiche botaniche dell'area archeologica Vesuviana*, L'Erma di Bretschneider, pp.17-32. [(worldcat)](https://search.worldcat.org/title/6022166)
+-->

@@ -35,15 +35,6 @@ Tourves is a village about 30 kilometers almost due north of Toulon on the via A
 
 Villa de Muscapeu
 
-## Keywords
-
-- {{< keyword "peristyles" >}}
-- {{< keyword "opus signinum" >}}
-- {{< keyword "reception rooms" >}}
-- {{< keyword "porticoes" >}}
-- {{< keyword "mosaics" >}}
-- {{< keyword "balnea" >}}
-
 ## Villa Description
 
 In the locality of Muscapeu, at the foot of a slope, was found this villa.  Partial excavations in 1950 to 1960 exposed 4200 square meters.  Constructed in the first half of the first century BCE , it was occupied until sometime in the third century.  An aqueduct from a spring supplied water.  The *pars urbana* is to the east; the *pars rustica* to the west.
@@ -65,6 +56,15 @@ In a second stage, in the first century, a bath complex [5] with an open-air esp
 - Brun, Jean-Pierre. *Carte Archéologique De La Gaule: 83, Le Var 1*. Paris, 1999, vol.2, P. 835-840, plan P. 836. [(worldcat)](https://search.worldcat.org/title/1074683092)
 - Bouet, Alain, and Philippe Leveau. Les Thermes Prives Et Publics En Gaule Narbonnaise. S.l.: s.n., 1996, P. 401, Fig. 279-283. [(worldcat)](https://search.worldcat.org/title/490154337)
 - R. AMBARD, *La  villa  gallo-romaine  de  Muscapeu*, in *Provence  historique*, V, 1955, P. 104.
+
+## Keywords
+
+- {{< keyword "peristyles" >}}
+- {{< keyword "opus signinum" >}}
+- {{< keyword "reception rooms" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "mosaics" >}}
+- {{< keyword "balnea" >}}
 
 ## Places
 

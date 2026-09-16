@@ -14,7 +14,7 @@ draft: false
 erected 20-40 CE \
 destroyed 160-200 CE
 
-## Excavation Date
+## Excavation Dates
 
 winter of 1938-1939
 

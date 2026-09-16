@@ -11,26 +11,11 @@ date: 2021-04-21
 draft: false
 ---
 
-## Province
+<!-- ## Dates -->
 
-- [Italia]({{<relref "../../..">}})
-- {{< id vocab="Pleiades" id="1052" name="Italia" >}}
+## Excavation Dates
 
-## Location
-
-- [Pompeii]({{<relref "../..">}})
-- {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
-
-## Location Description
-
-An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in CE 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
-
-## Sublocation
-
-
-## Insula
-
-[Insula VII]({{<relref ".">}})
+1874
 
 ## Garden Description
 
@@ -46,20 +31,6 @@ This caupona, excavated in 1874, had a garden (a) across the back with a low wal
 {{< image file="fig.25.viii.vii.1_9.35.66.jpg" caption="Fig.25, 9.35.66 (Stanley Jashemski, Jashemski Archives, University of Maryland)" credit="" alt="" >}}
 {{< image file="fig.26.viii.vii.1_10.2.66.jpg" caption="Fig.26, 10.2.66 (Stanley Jashemski, Jashemski Archives, University of Maryland)" credit="" alt="" >}}
 
-## Keywords
-
-- {{< keyword "cauponae" >}}
-- {{< keyword "pomerium" >}}
-
-## Places
-
-- {{< id vocab="Pleiades" id="538911200" name="Regio VIII, Pompeii" >}}
-- {{< id vocab="TGN" id="2053030" name="Pompeii (inhabited place)" >}}
-
-##  Excavation Dates
-
-1874
-
 ## Bibliography
 
 - Grimal, *Les jardins romains*, 3rd ed. pp. 457-459, no. 31 (address given as VIII.viii.1) [(worldcat)](https://search.worldcat.org/title/797276280)
@@ -68,3 +39,10 @@ This caupona, excavated in 1874, had a garden (a) across the back with a low wal
 - Niccolini, *Le case ed i monumenti di Pompei designati e descritti*, vol. 2, "Descr. gen," p. 68 [(worldcat)](https://search.worldcat.org/title/906755593)
 - Schefold, *Die Wande Pompejis*, p. 230 [(worldcat)](https://search.worldcat.org/title/1189906922)
 - Soliano, *Le pitture murali campane scoverte negli anni 1867-1879.* In Pompei e la regione sotterrata dal Vesuvio nel'anno LXXIX, p. 224, no. 695 (address given as VIII.viii.1) [(worldcat)](https://search.worldcat.org/title/162912722)
+
+## Keywords
+
+- {{< keyword "cauponae" >}}
+- {{< keyword "pomerium" >}}
+
+## Places

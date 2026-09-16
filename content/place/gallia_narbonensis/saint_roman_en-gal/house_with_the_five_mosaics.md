@@ -31,16 +31,6 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 
 House with the Five Mosaics
 
-## Keywords
-
-- {{< keyword "porticoes" >}}
-- {{< keyword "courtyards" >}}
-- {{< keyword "peristyles" >}}
-- {{< keyword "opus signinum" >}}
-- {{< keyword "opus sectile" >}}
-- {{< keyword "mosaics" >}}
-- {{< keyword "triclinia (rooms)" >}}
-
 ## House Description
 
 Phase I: This phase is sometimes called the "House with the Off-Center Pool." It occupied an area of 481 square meters with a usable covered surface of 213 square meters. Constructed after 138, it was built in part on the site and foundations of a commercial building going back to the middle of the first century. It was used only twenty to thirty years. It had an elongated, somewhat trapezoidal plan with two groups of rooms, one to the north and one to the south of a peristyle [5]. Most of the walls in short, east-west direction, were not perpendicular to the walls in the long, north-south direction. One entered the house by a modest doorway 1.8 meters wide into a little vestibule [1] which then led directly to the east portico of the courtyard, where presumably a garden grew. The principal room [7] (6.1 x 11.5 m) was on the south of the peristyle (8.5 x 11.5 m), where the gallery was wider and the roof presumably higher than on the other sides. This reception room had a good view of the rectangular pool along the south side of the garden. This 70-centimenter-deep pool (8.35 x 1.8 m) was lined in *opus signinum*.
@@ -57,8 +47,6 @@ In the south wing, a large room [8] (7.5 x 7.0 m) opened onto the axis of the ga
 ## Bibliography
 
 - Lancha, Janine. *Recueil General Des Mosaïques De La Gaule: III*. Paris: CNRS, 1981, P. 259-286.[worldcat](https://search.worldcat.org/title/234328026)
-
-
 - *Guides Archéologiques De La France*. Saint-Romain-en-Gal: Conseil général du Rhône, Equipe archéologique de Saint-Romain-en-Gal, 1984, P. 57-58[worldcat](https://search.worldcat.org/title/234328026)
 - Lancha, Janine. *Les Mosaïques De Vienne*. Lyon: Presses universitaires de Lyon, 1990, P. 61-75.[worldcat](https://search.worldcat.org/title/484477042)
 - *Recherches Archéologiques a Saint-Romain-En-Gal (1988-1990)*. Vienne, 1992, P. 86-132.[worldcat](https://search.worldcat.org/title/1068996218)
@@ -67,6 +55,16 @@ In the south wing, a large room [8] (7.5 x 7.0 m) opened onto the axis of the ga
 - *Guide Du Site Saint-Romain-En-Ga*. Paris: Réunion des musées nationaux, 1999, P. 64-69.[worldcat](https://search.worldcat.org/title/43416334)
 - Gros, Pierre. *L'architecture Romaine Du Début Du IIIe Siècle Av. J.-C. À La Fin Du Haut-Empire: 2 Maisons, Palais, Villas Et Tombeaux* Paris: Picard, 2001, p. 161-162.[worldcat](https://search.worldcat.org/title/1169743067)
 - Bouet, Alain, and Isabel Figueiral. *Les Thermes Privés Et Publics En Gaule Narbonnaise*. Rome: École française de Rome, 2003, P. 269-271.[worldcat](https://search.worldcat.org/title/43416334)
+
+## Keywords
+
+- {{< keyword "porticoes" >}}
+- {{< keyword "courtyards" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "opus signinum" >}}
+- {{< keyword "opus sectile" >}}
+- {{< keyword "mosaics" >}}
+- {{< keyword "triclinia (rooms)" >}}
 
 ## Places
 

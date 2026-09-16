@@ -11,26 +11,11 @@ date: 2021-04-21
 draft: false
 ---
 
-## Province
+<!-- ## Dates -->
 
-- [Italia]({{<relref "../../..">}})
-- {{< id vocab="Pleiades" id="1052" name="Italia" >}}
+## Excavation Dates
 
-## Location
-
-- [Pompeii]({{<relref "../..">}})
-- {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
-
-## Location Description
-
-An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in CE , Pompeii was named as a UNESCO World Heritage Site in 1997.
-
-## Sublocation
-
-
-## Insula
-
-[Insula III]({{<relref ".">}})
+Unspecified
 
 ## Garden Description
 
@@ -40,22 +25,15 @@ From the street, the fauces led to the entrance to the garden (a) which was encl
 
 {{< image file="fig.5._region_viii._insula_iii.png" caption="Plan of Region VIII Insula III" credit="" alt="" >}}
 
+## Bibliography
+
+- Fiorelli, *Descrizione di Pompei*, p. 330 [(worldcat)](https://search.worldcat.org/title/252039996)
+- Jashemski, *Gardens*, vol. II, p. 211 [(worldcat)](https://search.worldcat.org/title/1113367431)
+- Niccolini, *Le case ed i monumenti di Pompei designati e descritti*, vol. 2, "Descr. gen," p. 66 [(worldcat)](https://search.worldcat.org/title/906755593)
+
 ## Keywords
 
 - {{< keyword "fauces" >}}
 - {{< keyword "porticoes" >}}
 
 ## Places
-
-- {{< id vocab="Pleiades" id="538911200" name="Regio VIII, Pompeii" >}}
-- {{< id vocab="TGN" id="2053030" name="Pompeii (inhabited place)" >}}
-
-##  Excavation Dates
-
-Unspecified
-
-## Bibliography
-
-- Fiorelli, *Descrizione di Pompei*, p. 330 [(worldcat)](https://search.worldcat.org/title/252039996)
-- Jashemski, *Gardens*, vol. II, p. 211 [(worldcat)](https://search.worldcat.org/title/1113367431)
-- Niccolini, *Le case ed i monumenti di Pompei designati e descritti*, vol. 2, "Descr. gen," p. 66 [(worldcat)](https://search.worldcat.org/title/906755593)

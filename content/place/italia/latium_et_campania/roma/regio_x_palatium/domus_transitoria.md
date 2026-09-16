@@ -14,30 +14,10 @@ draft: false
 
 1st century CE
 
-## Excavation Date
+## Excavation Dates
 
 1900-1901: G. Boni \
 1990-: M. Tomei and M.G. Filetici under the Sopraintendenza Archeologica di Roma.
-
-## Province
-
-- [Italia]({{<relref "../..">}})
-- {{< id vocab="Pleiades" id="1052" name="Italia" >}} \
-- {{< id vocab="Pleiades" id="441075550" name="Italia, Regio I" >}}
-
-## Location
-
-- {{< id vocab="Pleiades" id="423025" name="Roma" >}}
-
-## Sublocation
-
-[Palatine]({{<relref ".">}}) \
-Palatine Hill [Mons Palatinus](https://pleiades.stoa.org/places/971691208) \
-Esquiline Hill [Esquilinus Mons](https://pleiades.stoa.org/places/679976755)
-
-## Garden
-
-Garden of the Neronian Palace, Palatine
 
 ## Garden Description
 
@@ -88,6 +68,6 @@ RELATED PHASES ON THE PALATINE:
 - {{< keyword "terraces" >}}
 - [Suetonius](http://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1340)
 
+<!--
 ## Places
-
-- {{< id vocab="Pleiades" id="971691208" name="Palatine Hill" >}}
+-->

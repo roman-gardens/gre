@@ -35,13 +35,6 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 
 Domus de La Marseillaise
 
-## Keywords
-
-- {{< keyword "porticoes" >}}
-- {{< keyword "mosaics" >}}
-- {{< keyword "exedrae (site elements)" >}}
-- {{< keyword "pilasters" >}}
-
 ## House Description
 
 390 meters north of the Maison Carrée, salvage excavations in 1966 found this dwelling dating from the high Empire and in use for some two centuries.  The main entrance was probably on the south.  The building was organized around a courtyard with porticos, paved with white mosaics, on three sides.  From them, open the living spaces of the house.  Onto the northern wing opens the principal room (19.6 square meters) in the form of an exedra flanked by two pilasters.  It opens entirely onto the northern gallery. {What does "entirely" mean? }
@@ -59,6 +52,13 @@ At the time of the excavation, the central part of the courtyard (32.5 square me
 - P.Gros, J. Guyon, Ph. Leveau, dir.,*La maison urbaine d'époque romaine, Atlas des maisons de la Gaule narbonnaise*, t. II, Doc. d'Archéol. Vaucl, 6, 1996, Nîmes, fiche n°3 P. 194-195.[(worldcat)](https://search.worldcat.org/title/491576850)
 - M. Monteil, *Nîmes antique et sa proche campagne*, Monographie d'Archéologie Méditerranéenne, 3, 1999, P. 139-144.[(worldcat)](https://search.worldcat.org/title/643112972)
 - Garmy, Pierre, and Martial Monteil. *Le Quartier Antique Des Bénédictins À Nîmes (gard): Découvertes Anciennes Et Fouilles, 1966-1992*. Paris: Editions de la Maison des sciences de l'homme, 2000, P. 64-73.[(worldcat)](https://search.worldcat.org/title/45421533)
+
+## Keywords
+
+- {{< keyword "porticoes" >}}
+- {{< keyword "mosaics" >}}
+- {{< keyword "exedrae (site elements)" >}}
+- {{< keyword "pilasters" >}}
 
 ## Places
 

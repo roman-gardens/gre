@@ -11,26 +11,19 @@ date: 2021-04-21
 draft: false
 ---
 
-## Province
+<!-- ## Dates -->
 
-- [Italia]({{<relref "../../..">}})
-- {{< id vocab="Pleiades" id="1052" name="Italia" >}}
+## Excavation Dates
 
-## Location
+1915, 1985
 
-- [Pompeii]({{<relref "../..">}})
-- {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
+## House
 
-## Location Description
+House of Aemilius Primio and Aemiluis Saturninus
 
-An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in CE 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
+## Garden
 
-## Sublocation
-
-
-## Insula
-
-[Insula I]({{<relref ".">}})
+Small garden to the rear of a [taberna](http://vocab.getty.edu/page/aat/300005366)
 
 ## Garden Description
 
@@ -45,20 +38,6 @@ W. F. Jashemski, 1993, *Gardens of Pompeii: Herculaneum and the villas destroyed
 - {{< keyword "tabernae" >}}
 - {{< keyword "amphorae" >}}
 
-## House
-
-House of Aemilius Primio and Aemiluis Saturninus
-
-## Garden
-
-Small garden to the rear of a [taberna](http://vocab.getty.edu/page/aat/300005366)
-
+<!--
 ## Places
-
-- {{< id vocab="Pleiades" id="456321707" name="Regio II, Pompeii" >}}
-- {{< id vocab="TGN" id="7004658" name="Pompeii (deserted settlement)" >}}
-
-##  Excavation Dates
-
-1915, 1985
-
+-->

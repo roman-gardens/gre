@@ -38,4 +38,6 @@ Another small garden was found to the rear of the [caupona](http://vocab.getty.e
 - {{< keyword "tabernae" >}}
 - {{< keyword "triclinia (rooms)" >}}
 
-<!-- ## Places -->
+<!--
+## Places
+-->

@@ -11,26 +11,11 @@ date: 2021-04-21
 draft: false
 ---
 
-## Province
+<!-- ## Dates -->
 
-- [Italia]({{<relref "../../..">}})
-- {{< id vocab="Pleiades" id="1052" name="Italia" >}}
+## Excavation Dates
 
-## Location
-
-- [Pompeii]({{<relref "../..">}})
-- {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
-
-## Location Description
-
-An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in CE 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
-
-## Sublocation
-
-
-## Insula
-
-[Insula VII]({{<relref ".">}})
+Unspecified
 
 ## Garden Description
 
@@ -39,22 +24,6 @@ Behind shop no. 10 and the accompanying living quarters was a garden (a) enclose
 ## Plans
 
 {{< image file="fig.23.region_viii.insula_vii.1-15.png" caption="Fig.23, Plan of Region VIII, Insula VII" credit="" alt="" >}}
-
-## Keywords
-
-- {{< keyword "triclinia (rooms)" >}}
-- {{< keyword "pergolas" >}}
-- {{< keyword "alabastra" >}}
-- {{< keyword "opus signinum" >}}
-
-## Places
-
-- {{< id vocab="Pleiades" id="538911200" name="Regio VIII, Pompeii" >}}
-- {{< id vocab="TGN" id="2053030" name="Pompeii (inhabited place)" >}}
-
-##  Excavation Dates
-
-Unspecified
 
 ## Bibliography
 
@@ -66,3 +35,12 @@ Unspecified
 - Mau, *Bullettino dell'Instituto di Corrispondenza Archeologica* (1875), p. 168 [(worldcat)](https://search.worldcat.org/title/823239162)
 - Soprano, *I triclini all'aperto di Pompei* In Pompeiana, p. 302, no. 18 [(worldcat)](https://search.worldcat.org/title/78719058)
 - Spano, *Notizie degli scavi di Antichita* (1910), pp. 265-268 and fig. 5 (plan) on p. 263 [(worldcat)](https://search.worldcat.org/title/638883283)
+
+## Keywords
+
+- {{< keyword "triclinia (rooms)" >}}
+- {{< keyword "pergolas" >}}
+- {{< keyword "alabastra" >}}
+- {{< keyword "opus signinum" >}}
+
+## Places

@@ -38,4 +38,6 @@ A very small bath was located at the left rear of the [atrium](http://vocab.gett
 - {{< keyword "tabernae" >}}
 - {{< keyword "triclinia (rooms)" >}}
 
-<!-- ## Places -->
+<!--
+## Places
+-->

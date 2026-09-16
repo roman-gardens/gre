@@ -12,27 +12,11 @@ draft: false
 
 ## Dates
 
+unspecified
+
+## Excavation Dates
+
 Excavated 1926 and 1927.
-
-## Province
-
-- [Italia]({{<relref "../..">}})
-- {{< id vocab="Pleiades" id="1052" name="Italia" >}}
-
-## Location
-
-- {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
-
-## Location Description
-
-An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in CE 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
-
-## Sublocation
-
-[Region I]({{<relref ".">}})
-## Insula
-
-[Insula VI]({{<relref "#">}})
 
 ## Garden Description
 
@@ -78,8 +62,4 @@ At the rear of this house a masonry wall surrounded the small garden which was u
 
 House of Stallus Eros.
 
-## Places
-
-- {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
-- {{< id vocab="TGN" id="7004658" name="Pompeii (deserted settlement)" >}}
-
+<!-- Places -->

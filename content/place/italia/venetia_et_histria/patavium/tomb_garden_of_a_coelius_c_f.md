@@ -14,22 +14,9 @@ draft: true
 
 unspecified
 
-## Excavation Date
+## Excavation Dates
 
 unspecified
-
-## Location
-
-- [Patavium]({{<relref "../../..">}})
-- {{< id vocab="Pleiades" id="393473" name="Patavium" >}}
-
-## Sublocation
-
-[Region X]({{<relref "../..">}})
-
-## Garden
-
-Tomb garden of A. Coelius C. f.
 
 ## Garden Description
 

@@ -11,26 +11,11 @@ date: 2021-04-21
 draft: false
 ---
 
-## Province
+<!-- ## Dates -->
 
-- [Italia]({{<relref "../../..">}})
-- {{< id vocab="Pleiades" id="1052" name="Italia" >}}
+## Excavation Dates
 
-## Location
-
-- [Pompeii]({{<relref "../..">}})
-- {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
-
-## Location Description
-
-An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in CE 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
-
-## Sublocation
-
-
-## Insula
-
-[Insula II]({{<relref ".">}})
+Unspecified
 
 ## Garden Description
 
@@ -41,21 +26,6 @@ A colonnaded portico stood at the edge of the terrace (a) on the street level of
 {{< image file="fig._4_region_viii_insula_ii.jpg" caption="Plan of the Pompeii Region VIII, Insula II" credit="" alt="" >}}
 {{< image file="fig._4_region_viii_insula_ii_34.jpg" caption="Plan of the Pompeii Region VIII, Insula II, 29-39" credit="" alt="" >}}
 
-## Keywords
-
-- {{< keyword "porticoes" >}}
-- {{< keyword "Crocodylidae" >}}
-- {{< keyword "Hippopotamus" >}}
-
-## Places
-
-- {{< id vocab="Pleiades" id="538911200" name="Regio VIII, Pompeii" >}}
-- {{< id vocab="TGN" id="2053030" name="Pompeii (inhabited place)" >}}
-
-##  Excavation Dates
-
-Unspecified
-
 ## Bibliography
 
 - Jashemski, *Gardens*, vol. II, p. 209 [(worldcat)](https://search.worldcat.org/title/1113367431)
@@ -64,3 +34,11 @@ Unspecified
 - Noack and Lehmann-Hartleben,*Baugeschichtliche Untersuchungen am Stadtrand von Pompeji*, pp. 44-55 passim, and fig. 12 (plan) on p. 52 and pls. 22, 23 (reconstructions) [(worldcat)](https://search.worldcat.org/title/486835478)
 - Schefold, *Die Wände Pompejis*, p. 217 [(worldcat)][https://search.worldcat.org/title/1100462668)
 - Sogliano, *Notizie degli scavi di Antichita* (1885), p. 257 [(worldcat)](https://search.worldcat.org/title/46875519)
+
+## Keywords
+
+- {{< keyword "porticoes" >}}
+- {{< keyword "Crocodylidae" >}}
+- {{< keyword "Hippopotamus" >}}
+
+## Places

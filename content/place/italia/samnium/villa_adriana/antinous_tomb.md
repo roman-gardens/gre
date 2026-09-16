@@ -1,7 +1,7 @@
 ---
 slug: "2b95d34b85"
 type: garden
-title: Antinous' tomb (Fig. 1, n. 25)
+title: Antinous' Tomb
 latlon: [ 41.940874, 12.773730 ]
 author: Eugenia Salza Prina Ricotti
 contributor: Joshua Rosenheim
@@ -14,28 +14,13 @@ draft: true
 
 Built between 118 and 138 CE
 
-## Excavation Date
+## Excavation Dates
 
 unspecified
 
-## Province
-
-- [Italia]({{<relref "../..">}})
-- {{< id vocab="Pleiades" id="1052" name="Italia" >}}
-
-## Region
-
-Region IV
-<!-- find link to Italia, Regio IV: Samnium? -->
-
-## Location
-
-- {{< id vocab="Pleiades" id="423127" name="Hadrian's Villa" >}}
-
 ## Garden
 
-Antinous' tomb (Fig. 1, n. 25)\
-- {{< id vocab="Pleiades" id="652231746" name="Antinoeion at Hadrian's Villa" >}}
+Antinous' tomb (Fig. 1, n. 25)
 
 ## Garden Description
 
@@ -138,8 +123,3 @@ As we have said at the beginning the Temple-tomb was never completed. Antinous w
 ## Places
 
 - {{< id vocab="Pleiades" id="652231746" name="Antinoeion at Hadrian's Villa" >}}
-<!-- this is the Pleiades ID for the relevant location of this garden within Hadrian's Villa, not the ID for Villa Hadriani -->
-
-- {{< id vocab="TGN" id="7006983" name="Hadrian's Villa (ruins)" >}}
-<!-- this is the TGN ID for Hadrian's Villa, not for this particular garden -->
-

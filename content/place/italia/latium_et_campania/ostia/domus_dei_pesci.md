@@ -14,7 +14,7 @@ draft: false
 
 between the early 2nd and early 3rd century CE
 
-## Excavation Date
+## Excavation Dates
 
 unspecified
 

@@ -13,27 +13,11 @@ draft: false
 
 ## Dates
 
+unspecified
+
+## Excavation Dates
+
 Excavated 1814 to 1816, 1933, and 1935 to 1939.
-
-## Province
-
-- [Italia]({{<relref "../../..">}})
-- {{< id vocab="Pleiades" id="1052" name="Italia" >}}
-
-## Location
-
-- [Pompeii]({{<relref "../..">}})
-- {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
-
-## Location Description
-
-An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in CE 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
-
-## Sublocation
-
-## Insula
-
-[Insula VII]({{<relref ".">}})
 
 ## Garden Description
 
@@ -43,18 +27,17 @@ Colonnaded [porticoes](http://vocab.getty.edu/page/aat/300004145) encircled the 
 
 {{< image file="../../fig._61,_plan_of_region_ii,_insula_vii.png" caption="Fig. 61, Plan of Region II, insula vii, plan in Maiuri, NSc(1939), pl.9" credit="" alt="" >}} -->
 
-## Keywords
-
-- {{< keyword "porticoes" >}}
-- {{< keyword "palaestrae" >}}
-
-## Places
-
-- {{< id vocab="Pleiades" id="456321707" name="Regio II, Pompeii" >}}
-- {{< id vocab="TGN" id="7004658" name="Pompeii (deserted settlement)" >}}
-
 ## Bibliography
 
 - Jashemski, W. 1979. *Gardens of Pompeii*, vol.I, pp.160-161 and fig. 246 on p.161  [(worldcat)](https://search.worldcat.org/title/884024123)
 - Jashemski, W. 1993. *Gardens of Pompeii*, vol.II, p.92 [(worldcat)](https://search.worldcat.org/title/921816405)
 - Maiuri, A. 1939. *Notizie degli scavi di antichità*, pp.193-195 and pl.9 (plan shows only a part of the root cavities found).[(worldcat)](https://search.worldcat.org/title/1646037)
+
+## Keywords
+
+- {{< keyword "porticoes" >}}
+- {{< keyword "palaestrae" >}}
+
+<!--
+## Places
+-->

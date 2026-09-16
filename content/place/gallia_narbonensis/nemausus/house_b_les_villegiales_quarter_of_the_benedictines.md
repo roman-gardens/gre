@@ -36,13 +36,6 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 
 House B, Les Villégiales, quarter of the Benedictines
 
-## Keywords
-
-- {{< keyword "opus signinum" >}}
-- {{< keyword "reception rooms" >}}
-- {{< keyword "ditches" >}}
-- {{< keyword "water wells" >}}
-
 ## House Description
 
 This site is 300 meters east of the big spring de la Fontaine at the foot of Mt. Cavalier. The house, discovered during an emergency dig in 1991-92, is not well preserved.  Built in the middle of the first century, it seems to have existed until the middle of the second century.  Though not very luxurious, it had however some *opus signinum* with geometric patterns of tessera.  It is noteworthy, however, that in contrast to other houses in Nîmes of the same period, it seems to have had running water supplied by lead-lined canals in a utility tunnel in direct connection to the town water house.  Covering a little more than 170 square meters, the dwelling is organized around a garden, which has been explored in an area of 8 by 6 meters, but which must have been somewhat longer and probably had an area of about 72 square meters.  Along the east, west, and north sides ran galleries paved in *opus signinum* with inlays. On the north side, slightly off-center toward the west, there was a small reception room in the form of an exedra (4.8 by 3.8 m).
@@ -65,6 +58,13 @@ At the south of the garden there is a well which may have supplied the house bef
 - P.Gros, J. Guyon, Ph. Leveau, dir.,*La maison urbaine d'époque romaine, Atlas des maisons de la Gaule narbonnaise*, t. II, Doc. d'Archéol. Vaucl, 6, 1996, Nîmes, fiche n°6 P. 200-201.[(worldcat)](https://search.worldcat.org/title/491576850)
 - M. Monteil, *Nîmes antique et sa proche campagne*, Monographie d'Archéologie Méditerranéenne, 3, 1999, P. 130-135.[(worldcat)](https://search.worldcat.org/title/643112972)
 - Garmy, Pierre, and Martial Monteil. *Le Quartier Antique Des Bénédictins À Nîmes (gard): Découvertes Anciennes Et Fouilles, 1966-1992*. Paris: Editions de la Maison des sciences de l'homme, 2000, P. 74-90, P 173-181.[(worldcat)](https://search.worldcat.org/title/45421533)
+
+## Keywords
+
+- {{< keyword "opus signinum" >}}
+- {{< keyword "reception rooms" >}}
+- {{< keyword "ditches" >}}
+- {{< keyword "water wells" >}}
 
 ## Places
 

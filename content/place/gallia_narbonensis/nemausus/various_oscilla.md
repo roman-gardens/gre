@@ -23,10 +23,6 @@ Ancient Roman colony (founded 118 BCE) and senatorial province located in modern
 - [nemausus]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="148142" name="Nemausus" >}}
 
-## Keywords
-
-- {{< keyword "oscilla" >}}
-
 ## Element Description
 
 These were discovered out of context or the location of the find is not known:
@@ -42,6 +38,10 @@ These were discovered out of context or the location of the find is not known:
 ## Bibliography
 
 - J.L. Fiches, A. Veyrac, *Nîmes*, CAG, 30/1, 1996, P. 350, P. 512.
+
+## Keywords
+
+- {{< keyword "oscilla" >}}
 
 ## Places
 

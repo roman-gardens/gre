@@ -14,7 +14,7 @@ draft: true
 
 unspecified
 
-## Excavation Date
+## Excavation Dates
 
 16th century
 

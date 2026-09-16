@@ -14,16 +14,13 @@ draft: true
 
 unspecified
 
-## Excavation Date
+## Excavation Dates
 
 1801
 
 ## Location
 
 [Barbariga]({{<relref ".">}})
-
-## Sublocation
-
 
 ## Garden
 

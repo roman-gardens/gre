@@ -14,21 +14,9 @@ draft: true
 
 100 BCE
 
-## Excavation Date
+## Excavation Dates
 
 19th century
-
-## Location
-
-- [Tergeste]({{<relref ".">}})
-- {{< id vocab="Pleiades" id="187578" name="Tergeste" >}}
-
-## Sublocation
-
-
-## Garden
-
-Villa of the Statue
 
 ## Garden Description
 
@@ -66,7 +54,6 @@ North of the peristyle was the bath quarter (Fig. 1: G, H, I, M, P), but it is n
 - {{< keyword "garden pavilions" >}}
 - {{< keyword "apsed triclinium" >}}
 
+<!--
 ## Places
-
-- {{< id vocab="Pleiades" id="187578" name="Tergeste" >}}
-- {{< id vocab="TGN" id="7005539" name="Trieste (inhabited place)" >}}
+-->

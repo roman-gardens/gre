@@ -1,7 +1,7 @@
 ---
 slug: "260813cd75"
 type: garden
-title: Peristyle garden in house of Messius Ampliatus (II.ii.4)
+title: Peristyle garden in house of Messius Ampliatus (II.2.4)
 latlon: [ 0, 0 ]
 author: Wilhelmina Jashemski
 contributor: Yuyao Liu, Keith Jenkins
@@ -19,10 +19,6 @@ Unspecified
 
 1916, 1918 and 1921.
 
-## House
-
-Casa Dell'Augustale; Casa Della Corona di Alloro; Casa della Corona di Quercia; House of Messius Ampliatus
-
 ## Garden Description
 
 The [portico](http://vocab.getty.edu/page/aat/300004145) which bordered the peristyle garden on the north and east side was accessed from the entrance hall. This site had been extensively damaged prior to excavation.
@@ -37,6 +33,6 @@ The [portico](http://vocab.getty.edu/page/aat/300004145) which bordered the peri
 - {{< keyword "courtyards" >}}
 - {{< keyword "porticoes" >}}
 
+<!--
 ## Places
-
-- {{< id vocab="Pleiades" id="634179974" name="House of Messius Ampliatus" >}}
+-->

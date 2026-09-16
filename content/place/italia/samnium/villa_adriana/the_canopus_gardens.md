@@ -1,7 +1,7 @@
 ---
 slug: "7824cc66c9"
 type: garden
-title: The Canopus gardens (Fig. 1, n. 2)
+title: The Canopus
 latlon: [ 41.938472, 12.775940 ]
 author: Eugenia Salza Prina Ricotti
 contributor: Joshua Rosenheim
@@ -14,28 +14,13 @@ draft: true
 
 Built between 118 and 138 CE
 
-## Excavation Date
+## Excavation Dates
 
 unspecified
 
-## Province
-
-- [Italia]({{<relref "../..">}})
-- {{< id vocab="Pleiades" id="1052" name="Italia" >}}
-
-## Region
-
-Region IV
-<!-- find link to Italia, Regio IV: Samnium? -->
-
-## Location
-
-- {{< id vocab="Pleiades" id="423127" name="Hadrian's Villa" >}}
-
 ## Garden
 
-The Canopus gardens (Fig. 1, n. 2)\
-- {{< id vocab="Pleiades" id="856037447" name="Canopus at Hadrian's Villa" >}}
+The Canopus gardens (Fig. 1, n. 2)
 
 ## Garden Description
 
@@ -102,8 +87,3 @@ Then excavations in the valley showed the existence of two long flower beds that
 ## Places
 
 - {{< id vocab="Pleiades" id="856037447" name="Canopus at Hadrian's Villa" >}}
-<!-- this is the Pleiades ID for the relevant location of this garden within Hadrian's Villa, not the ID for Villa Hadriani -->
-
-- {{< id vocab="TGN" id="7006983" name="Hadrian's Villa (ruins)" >}}
-<!-- this is the TGN ID for Hadrian's Villa, not for this particular garden -->
-

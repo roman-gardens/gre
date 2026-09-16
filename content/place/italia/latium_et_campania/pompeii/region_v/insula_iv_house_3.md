@@ -18,42 +18,6 @@ Unspecified
 
 1899
 
-## Province
-
-- [Italia]({{<relref "../..">}})
-- {{< id vocab="Pleiades" id="1052" name="Italia" >}}
-
-## Province Description
-
-<!-- DESCRIPTION -->
-The Italian peninsula extending northward to the Alps as recognized by the Romans.
-
-## Location
-
-- {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
-
-## Location Description
-
-An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in CE 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
-
-<!-- LEAVE THIS BLANK FOR NOW -->
-
-## Sublocation
-
-Region V
-
-## Insula
-
-Insula iv
-
-## House
-
-House 3
-
-## Garden
-
-V.iv.3
-
 ## Garden Description
 
 At the rear of this house excavated in 1899 was a courtyard garden (a) with a *portico* on the south. This was supported by one column that was reinforced by a large pillar. The garden was enclosed by a low wall with an opening on the south. A gutter that encircled the edges had a settling basin (0.35 x 0.45 m.; 0.55 m. deep) in the southwest corner. There was no cistern, but a *puteal* stood in the southeast corner.
@@ -80,9 +44,6 @@ At the rear of this house excavated in 1899 was a courtyard garden (a) with a *p
 - {{< keyword "gutters" >}}
 - {{< keyword "basins" >}}
 
+<!--
 ## Places
-
-- {{< id vocab="Pleiades" id="1052" name="Italia" >}} \
-- {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
-
-
+-->

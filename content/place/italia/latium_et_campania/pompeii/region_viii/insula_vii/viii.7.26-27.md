@@ -11,26 +11,11 @@ date: 2021-04-21
 draft: false
 ---
 
-## Province
+<!-- ## Dates -->
 
-- [Italia]({{<relref "../../..">}})
-- {{< id vocab="Pleiades" id="1052" name="Italia" >}}
+## Excavation Dates
 
-## Location
-
-- [Pompeii]({{<relref "../..">}})
-- {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
-
-## Location Description
-
-An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in CE 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
-
-## Sublocation
-
-
-## Insula
-
-[Insula VII]({{<relref ".">}})
+Unspecified
 
 ## Garden Description
 
@@ -45,6 +30,13 @@ Beyond shop 26 and the living quarters behind it there was a very large garden (
 {{< image file="fig.29.viii.vii.27_9.21.59.jpg" caption="Fig.29, 9.21.59 (Stanley Jashemski, Jashemski Archives, University of Maryland)" credit="" alt="" >}}
 {{< image file="fig.30.viii.vii.27_9.27.59.jpg" caption="Fig.30, 9.27.59 (Stanley Jashemski, Jashemski Archives, University of Maryland)" credit="" alt="" >}}
 
+## Bibliography
+
+- Fiorelli, *Descrizione di Pompei*, p. 358 [(worldcat)](https://search.worldcat.org/title/1198324804)
+- Jashemski, *Gardens*, vol. II, p. 222 [(worldcat)](https://search.worldcat.org/title/1113367431)
+- Mazois, *Les ruines de Pompei dessinees et mesurees pendant les annees 1809-1810-1811*,2:55 and pl. 16 (plan) [(worldcat)](https://search.worldcat.org/title/457565631)
+- Niccolini, *Le case ed i monumenti di Pompei designati e descritti*, vol. 2, "Descr. gen," p. 69 [(worldcat)](https://search.worldcat.org/title/906755593)
+
 ## Keywords
 
 - {{< keyword "atriums" >}}
@@ -53,17 +45,3 @@ Beyond shop 26 and the living quarters behind it there was a very large garden (
 - {{< keyword "angiportus" >}}
 
 ## Places
-
-- {{< id vocab="Pleiades" id="538911200" name="Regio VIII, Pompeii" >}}
-- {{< id vocab="TGN" id="2053030" name="Pompeii (inhabited place)" >}}
-
-##  Excavation Dates
-
-Unspecified
-
-## Bibliography
-
-- Fiorelli, *Descrizione di Pompei*, p. 358 [(worldcat)](https://search.worldcat.org/title/1198324804)
-- Jashemski, *Gardens*, vol. II, p. 222 [(worldcat)](https://search.worldcat.org/title/1113367431)
-- Mazois, *Les ruines de Pompei dessinees et mesurees pendant les annees 1809-1810-1811*,2:55 and pl. 16 (plan) [(worldcat)](https://search.worldcat.org/title/457565631)
-- Niccolini, *Le case ed i monumenti di Pompei designati e descritti*, vol. 2, "Descr. gen," p. 69 [(worldcat)](https://search.worldcat.org/title/906755593)

@@ -4,20 +4,19 @@
 // build the search index from each visible garden page
 // TODO: include place pages? -- but how to differentiate in results?
 window.pageData = {
-{{ range $ri, $rv := where (sort .Site.Pages "Path") "Type" "garden" }}
-    {{ if partial "visible.html" . }}
-        {{/* add path (province, location) and frontmatter (author, contributor) to fulltext */}}
-        {{ $place := title (replaceRE "[\\W_]+" " " .Path) }}
-        {{ $content := print .Plain $place " Author: " .Params.Author " Contributor: " .Params.Contributor " " }}
-        "{{ $ri }}": {
-            "title": "{{ .Title }}",
-            "smallcrumbs": {{ partial "smallcrumbs.html" . }},
-            "content": {{ $content }},
-            "url": {{ .Permalink }},
-            "draft": {{ .Draft }},
-            "latlon": {{ .Params.latlon }}
-        },
-    {{ end }}
+{{ $pages := partial "pages-visible.html" (where .Site.Pages "Type" "garden") }}
+{{ range $ri, $rv := sort $pages "Path" }}
+    {{/* add path (province, location) and frontmatter (author, contributor) to fulltext */}}
+    {{ $place := title (replaceRE "[\\W_]+" " " .Path) }}
+    {{ $content := print .Plain $place " Author: " .Params.Author " Contributor: " .Params.Contributor " " }}
+    "{{ $ri }}": {
+        "title": "{{ .Title }}",
+        "smallcrumbs": {{ partial "smallcrumbs.html" . }},
+        "content": {{ $content }},
+        "url": {{ .Permalink }},
+        "draft": {{ .Draft }},
+        "latlon": {{ .Params.latlon }}
+    },
 {{ end }}
 }
 </script>

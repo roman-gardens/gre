@@ -39,14 +39,6 @@ Toulouse was one of the pilgrimage sites on route to the Cathedral of Santiago d
 
 Domus under the Hôtel d'Assézat
 
-## Keywords
-
-- {{< keyword "domus" >}}
-- {{< keyword "mosaics" >}}
-- {{< keyword "courtyards" >}}
-- {{< keyword "peristyles" >}}
-- {{< keyword "porticoes" >}}
-
 ## House Description
 
 The Hôtel d'Assézat is a Renaissance palace which now houses the  art collection of [Georges Bemberg](https://fr.wikipedia.org/wiki/Georges_Bemberg).  In the heart of Toulouse, it is about 150 meters east of the [Pont Neuf](https://en.wikipedia.org/wiki/Pont_Neuf), in [rue de Metz](https://fr.wikipedia.org/wiki/Rue_de_Metz_(Paris)). After original finds in 1979, further vestiges of a domus came to light during salvage excavations in 1993-1994 in connection with expansion of facilities. After a first phase dating from CE 1-15, of which remain some painted plaster found in the trenches, there developed in the reign of [Tiberius](https://en.wikipedia.org/wiki/Tiberius), between 15 and 30, a residence with rooms ornamented with carefully executed mosaics.  They were organized around a courtyard for household work, as indicated by a fireplace and a sinkhole for waste water. The surface was tamped earth repaired three times – to judge from the surviving strips – with a new layer of clay.
@@ -65,6 +57,14 @@ The domus must have continued to exist beyond the first century, but no precise 
 - Jean. Catalo, Urbanisme antique et médiéval au 4, rue Clémence Isaure In *Mémoire de la Société Archéologique du Midi de la France*, 56, 1996, p. 51-74.[(worldcat)](WORLDCAT_LINK_URL)
 - Jean. Catalo, Toulouse, 4, av. clémence Isaure/extension de l'hôtel d'Assézat (1993-1994), Archéologie toulousaine, catalogue d'exposition, Musée Saint-Raymond, Toulouse, 1995, p. 184-6.[(worldcat)](WORLDCAT_LINK_URL)
 - Jean-Marie Pailler, l'habitat privé *Mémoire de la Société Archéologique du Midi de la France*,coll. Ecole Française de Rome 281, 2003, p. 252-54.[(worldcat)](WORLDCAT_LINK_URL)
+
+## Keywords
+
+- {{< keyword "domus" >}}
+- {{< keyword "mosaics" >}}
+- {{< keyword "courtyards" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "porticoes" >}}
 
 ## Places
 

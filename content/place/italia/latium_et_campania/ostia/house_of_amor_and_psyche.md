@@ -13,7 +13,7 @@ draft: false
 
 unspecified
 
-## Excavation Date
+## Excavation Dates
 
 unspecified
 

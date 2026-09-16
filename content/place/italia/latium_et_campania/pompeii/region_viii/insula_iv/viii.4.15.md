@@ -11,26 +11,11 @@ date: 2021-04-21
 draft: false
 ---
 
-## Province
+<!-- ## Dates -->
 
-- [Italia]({{<relref "../../..">}})
-- {{< id vocab="Pleiades" id="1052" name="Italia" >}}
+## Excavation Dates
 
-## Location
-
-- [Pompeii]({{<relref "../..">}})
-- {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
-
-## Location Description
-
-An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in CE 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
-
-## Sublocation
-
-
-## Insula
-
-[Insula IV]({{<relref ".">}})
+Unspecified
 
 ## Garden Description
 
@@ -43,6 +28,16 @@ Eighteen partially fluted columns supported the large portico (a) surrounding th
 ## Images
 
 {{< image file="fig.13.viii.iv.15_11.10.59.jpg" caption="Fig. 13, 11.10.59 (Stanley Jashemski, Jashemski Archives, University of Maryland)" credit="" alt="" >}}
+
+## Bibliography
+
+- Breton, *Pompeia*, 3rd ed. pp. 471-472 [(worldcat)](https://search.worldcat.org/title/894211341)
+- Fiorelli, *Gli scavi di Pompei dal 1861 al 1872*, p. 6 [(worldcat)](https://search.worldcat.org/title/65043382)
+- Fiorelli, *Descrizione di Pompei*, p. 342 [(worldcat)](https://search.worldcat.org/title/252039996)
+- Jashemski, *Gardens*, vol. II, pp. 213-214 [(worldcat)](https://search.worldcat.org/title/1113367431)
+- Lugebil, *Bullettino dell'Instituto di Corrispondenza Archeologica* (1861), p. 238 [(worldcat)](https://search.worldcat.org/title/823239162)
+- Niccolini, *Le case ed i monumenti di Pompei designati e descritti*, vol. 2, "Descr. gen," p. 67 [(worldcat)](https://search.worldcat.org/title/906755593)
+- Pernice, *Hellenistische Tische, Zisternenmundungen, Beckenuntersatze, Altare und Truhen*, pp. 1, 24, 28, 37 and fig. 1 on p. 2. [(worldcat)](https://search.worldcat.org/title/680390526)
 
 ## Keywords
 
@@ -58,20 +53,3 @@ Eighteen partially fluted columns supported the large portico (a) surrounding th
 <!-- TODO: not sure which exedrae -->
 
 ## Places
-
-- {{< id vocab="Pleiades" id="538911200" name="Regio VIII, Pompeii" >}}
-- {{< id vocab="TGN" id="2053030" name="Pompeii (inhabited place)" >}}
-
-##  Excavation Dates
-
-Unspecified
-
-## Bibliography
-
-- Breton, *Pompeia*, 3rd ed. pp. 471-472 [(worldcat)](https://search.worldcat.org/title/894211341)
-- Fiorelli, *Gli scavi di Pompei dal 1861 al 1872*, p. 6 [(worldcat)](https://search.worldcat.org/title/65043382)
-- Fiorelli, *Descrizione di Pompei*, p. 342 [(worldcat)](https://search.worldcat.org/title/252039996)
-- Jashemski, *Gardens*, vol. II, pp. 213-214 [(worldcat)](https://search.worldcat.org/title/1113367431)
-- Lugebil, *Bullettino dell'Instituto di Corrispondenza Archeologica* (1861), p. 238 [(worldcat)](https://search.worldcat.org/title/823239162)
-- Niccolini, *Le case ed i monumenti di Pompei designati e descritti*, vol. 2, "Descr. gen," p. 67 [(worldcat)](https://search.worldcat.org/title/906755593)
-- Pernice, *Hellenistische Tische, Zisternenmundungen, Beckenuntersatze, Altare und Truhen*, pp. 1, 24, 28, 37 and fig. 1 on p. 2. [(worldcat)](https://search.worldcat.org/title/680390526)

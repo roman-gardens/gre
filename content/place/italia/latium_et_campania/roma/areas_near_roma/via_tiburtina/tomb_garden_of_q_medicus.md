@@ -14,19 +14,6 @@ draft: true
 
 Unspecified
 
-## Location
-
-- [via tiburtina]({{<relref ".">}})
-- {{< id vocab="Pleiades" id="272213281" name="Via Tiburtina" >}}
-
-## Sublocation
-
-## Sublocation Description
-
-## Garden
-
-Tomb Garden of Q(uintius) Medicus
-
 ## Garden Description
 
 An opisthographic marble slab found reused for a Christian tomb (ICUR 8842) in the catacombs of S. Cyriaca on the Via Tiburtina records the epitaph of an imperial freedman, Q(uintius) Medicus, who some time during the first or second century built a tomb garden (cepotafiu(m)) for himself and granted possession of it to his daughter, Quinta Vitalis.

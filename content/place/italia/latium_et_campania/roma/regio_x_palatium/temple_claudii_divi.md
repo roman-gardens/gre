@@ -14,26 +14,9 @@ draft: true
 
 1st century CE
 
-## Excavation Date
+## Excavation Dates
 
 unspecified
-
-## Province
-
-- [ITALIA]({{<relref "../..">}})
-
-## Location
-
-- {{< id vocab="Pleiades" id="423025" name="Roma" >}}
-
-## Sublocation
-
-Caelian Hill \
-- {{< id vocab="Pleiades" id="695491849" name="Caelius Mons" >}}
-
-## Garden
-
-Garden of the Temple of Divine Claudius, Palatine
 
 ## Garden Description
 
@@ -69,4 +52,3 @@ The temple is set within eight L-shaped [planting beds](http://vocab.getty.edu/p
 ## Places
 
 - {{< id vocab="Pleiades" id="695491849" name="Caelian Hill" >}}
-- {{< id vocab="TGN" id="7000874" name="Rome (inhabited place)" >}}

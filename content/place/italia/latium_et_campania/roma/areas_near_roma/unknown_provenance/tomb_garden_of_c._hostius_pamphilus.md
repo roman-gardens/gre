@@ -14,12 +14,6 @@ draft: true
 
 Unspecified
 
-## Location
-
-## Sublocation
-
-## Sublocation Description
-
 ## Garden
 
 Tomb Garden of C. Hostius Pamphilus
