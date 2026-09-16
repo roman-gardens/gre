@@ -38,8 +38,7 @@ draft: false
 - {{< keyword "Example keyword" >}}
 -->
 
-<!--
 ## Places
-- {{< id vocab="Pleiades" id="" name="" >}}
-- {{< id vocab="TGN" id="" name="" >}}
--->
+
+- {{< id vocab="Pleiades" id="256318" name="Munigua" >}}
+- {{< id vocab="TGN" id="7027137" name="Castillo de Mulva (deserted settlement)" >}}

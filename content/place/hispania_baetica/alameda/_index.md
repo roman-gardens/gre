@@ -2,7 +2,7 @@
 slug: "fb78b1ab86"
 type: place
 title: Alameda
-author: John Bodel
+author: Author Name
 contributor: Amelia Lamis, Keith Jenkins
 date: 2025-07-15
 
@@ -30,10 +30,12 @@ Ruins of large Roman baths, now surrounded by an interpretive center, and numero
 {{< image file="filename.jpg" caption="" credit="" alt="" >}}
 -->
 
-<!--
 ## Bibliography
-- BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
--->
+
+- F. Almohalla, M. J. Botos,*Villa romana del cortijo de los Vila (Alameda)*, (Malaga 1989), (unpublished memorandum deposited with the Diputacion de Malaga, Area de Urbanismo)
+- J. M. Blázquez,'Los jardines en la Hispania Romana,' *Historia de los Parques y Jardines en España*, C. Añón Feliu, ed. (Madrid 2001) 29. [(worldcat)](https://search.worldcat.org/title/1090911182)
+- Mª L. Loza Azuaga,'La escultura de fuentes en Hispania: ejemplos de la Bética,'*Actas de la I Reunión sobre escultura romana en Hispania*, T. Nogales Basarrate, ed. (Mérida 1993) 103. [(worldcat)](https://search.worldcat.org/title/884615852)
+- E. Arcos von Haartman, A. Alvarez Rubiera, 'Análisis de la naturaleza, estructura y tecnología del conjunto de mosaicos de la villa romana del Cortijo Auta (Riogordo), villa romana del Cortijo Vila (Alameda) y del ninfeo romano de Carnicería de los Moros (Antequera),' *Mainake  No. 10*, (Malaga 1988), 159-80. [(worldcat)](https://search.worldcat.org/title/806736187)
 
 <!--
 ## Keywords
