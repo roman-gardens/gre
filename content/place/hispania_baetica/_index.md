@@ -2,15 +2,16 @@
 slug: "41c1d3ea3c"
 type: place
 title: Hispania Baetica
-author:
-contributor: Lai Ching Tsui
+author: Author Name
+contributor: Lai Ching Tsui, Amelia Lamis
 date: 2021-04-21
 draft: true
 ---
 
 ## Province Description
 
-The province of Hispania Ulterior Baetica adapted very quickly to Roman ways, given the cultural substratum that existed, for it was strongly influenced prior to the conquest by the Carthaginian culture. Today it occupies part of what is now Andalusia, Ciudad Real, and Badajoz. Outstanding in this region was its mineral wealth with several important areas such as [Castulo](https://pleiades.stoa.org/places/265855), the Guadalquivir River and the territory supplied Rome with oil for the annona (a tax paid with foodstuffs for the army), as shown by the number of amphorae of Dressel 20 type found in the [Testaccio](https://pleiades.stoa.org/places/375710890) hill in Rome.  But not only olives grew in Baetica; artichokes, mentioned by Pliny HN 19.152. as cultivated near Cordoba, or or the figs referred to by Columella RR 11.2. 59-60 are among other crops from Baetica. The *ceteriae*, fish factories, were another source of wealth, as seen in the economic bases of the city of Baelo Claudia (Bolonia, Cádiz). Italica, reorganized by Hadrian in tribute to his ancestor, Trajan, who had been born there, is notable for its layout, equal in importance to the spectacular religious buildings of Munigua. Corduba, the provincial capital, is remarkable for its wealth of monuments and was decorated with marble, with outstanding iconography on its provincial forum that like the other two capitals in the peninsula, imitated the sculptural groups, clipeos and caryatides, etc, of the [Forum Augustum](https://pleiades.stoa.org/places/47606496) in Rome.
+
+The province of Hispania Ulterior Baetica adapted very quickly to Roman ways, given the cultural substratum that existed, for it was strongly influenced prior to the conquest by the Carthaginian culture. Today it occupies part of what is now Andalusia, Ciudad Real, <!-- TODO: Ciudad Real appears well with the Tarraconensis boundary on the map --> and Badajoz. Outstanding in this region was its mineral wealth with several important areas such as [Castulo](https://pleiades.stoa.org/places/265855), the Guadalquivir River and the territory supplied Rome with oil for the *annona* (a tax paid with foodstuffs for the army), as shown by the number of amphorae of Dressel 20 type found in the [Testaccio](https://pleiades.stoa.org/places/375710890) hill in Rome.  But not only olives grew in Baetica; artichokes, mentioned by Pliny (*HN* 19.152). as cultivated near Cordoba, or or the figs referred to by Columella (*RR* 11.2.59-60) are among other crops from Baetica. The *ceteriae*, fish factories, were another source of wealth, as seen in the economic bases of the city of Baelo Claudia (Bolonia, Cádiz). Italica, reorganized by Hadrian in tribute to his ancestor, Trajan, who had been born there, is notable for its layout, equal in importance to the spectacular religious buildings of Munigua. Corduba, the provincial capital, is remarkable for its wealth of monuments and was decorated with marble, with outstanding iconography on its provincial forum that like the other two capitals in the peninsula, imitated the sculptural groups, clipeos and caryatides, etc, of the [Forum Augustum](https://pleiades.stoa.org/places/47606496) in Rome.
 
 <!-- ## Maps -->
 
@@ -28,5 +29,3 @@ The province of Hispania Ulterior Baetica adapted very quickly to Roman ways, gi
 - {{< id vocab="Pleiades" id="862" name="Baetica" >}}
 - {{< id vocab="TGN" id="6000567" name="Baetica (province)" >}}
 - {{< id vocab="Pleiades" id="195101632" name="Andalusia" >}}
-- Ciudad Real
-- {{< id vocab="Pleiades" id="931117398" name="Badajoz" >}}

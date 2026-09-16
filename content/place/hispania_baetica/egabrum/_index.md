@@ -3,9 +3,8 @@ slug: "f516f8e9ce"
 type: place
 title: Egabrum
 author: Author Name
-contributor: Contributor Name
+contributor: Keith Jenkins
 date: 2025-07-15
-
 draft: false
 ---
 
@@ -38,8 +37,7 @@ draft: false
 - {{< keyword "Example keyword" >}}
 -->
 
-<!--
 ## Places
-- {{< id vocab="Pleiades" id="" name="" >}}
-- {{< id vocab="TGN" id="" name="" >}}
--->
+
+- {{< id vocab="Pleiades" id="265919" name="Igabrum/Egabrum" >}}
+- {{< id vocab="TGN" id="7007570" name="Cabra (inhabited place)" >}}

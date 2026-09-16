@@ -3,7 +3,7 @@ slug: "21d4c630c4"
 type: place
 title: Aguilafuente
 author: Author Name
-contributor: Contributor Name
+contributor: Keith Jenkins
 date: 2026-05-16
 
 draft: false
@@ -38,8 +38,6 @@ draft: false
 - {{< keyword "Example keyword" >}}
 -->
 
-<!--
 ## Places
-- {{< id vocab="Pleiades" id="" name="" >}}
-- {{< id vocab="TGN" id="" name="" >}}
--->
+
+- {{< id vocab="TGN" id="7348251" name="Aguilafuente (inhabited place)" >}}
