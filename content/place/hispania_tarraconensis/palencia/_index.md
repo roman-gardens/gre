@@ -3,13 +3,11 @@ slug: "43fbbaaff1"
 type: place
 title: Palencia
 author: Author Name
-contributor: Contributor Name
+contributor: Amelia Lamis
 date: 2026-05-16
 
 draft: false
 ---
-
-<!-- ## Dates -->
 
 <!-- ## Place Description -->
 
