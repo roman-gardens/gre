@@ -3,7 +3,7 @@ slug: "5d8f30d0fd"
 type: place
 title: Gallia Lugdunensis
 author: Author Name
-contributor: Contributor Name
+contributor: Amelia Lamis
 date: 2025-07-07
 draft: true
 ---
@@ -37,8 +37,7 @@ draft: true
 - {{< keyword "Example keyword" >}}
 -->
 
-<!--
 ## Places
-- {{< id vocab="Pleiades" id="" name="" >}}
-- {{< id vocab="TGN" id="" name="" >}}
--->
+
+- {{< id vocab="Pleiades" id="981528" name="Lugdunensis (province)" >}}
+- {{< id vocab="TGN" id="6003548" name="Gallia Lugdunensis (province)" >}}
