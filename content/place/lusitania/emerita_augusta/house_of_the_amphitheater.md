@@ -60,5 +60,3 @@ An equally important second nucleus of this house consisted of a complex of room
 ## Places
 
 - {{< id vocab="Pleiades" id="842400632" name="Amphitheater house (Mérida)" >}}
-- {{< id vocab="Pleiades" id="256155" name="Emerita Augusta" >}}
-- {{< id vocab="TGN" id="7007664" name="Mérida (inhabited place)" >}}

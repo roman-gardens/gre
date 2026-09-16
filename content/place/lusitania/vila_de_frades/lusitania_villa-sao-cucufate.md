@@ -57,4 +57,3 @@ The upper floor did not have a garden but offered splendid views of gardens, bot
 ## Places
 
 - {{< id vocab="Pleiades" id="256422" name="S. Cucufate" >}}
-- {{< id vocab="TGN" id="7764377" name="Vila de Frades" >}}

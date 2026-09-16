@@ -34,7 +34,4 @@ Very little is known about the characteristics of this intramurally situated dom
 - {{< keyword "mosaics" >}}
 - {{< keyword "mural paintings" >}}
 
-## Places
-
-- {{< id vocab="Pleiades" id="256155" name="Emerita Augusta" >}}
-- {{< id vocab="TGN" id="7007664" name="Mérida (inhabited place)" >}}
+<!-- ## Places -->

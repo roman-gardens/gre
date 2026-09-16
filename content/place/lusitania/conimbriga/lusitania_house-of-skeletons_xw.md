@@ -53,7 +53,4 @@ The houses were excavated around 1940, at a time when there was no thought of re
 - {{< keyword "peristyles" >}}
 - {{< keyword "axial plan" >}}
 
-## Places
-
-- {{< id vocab="Pleiades" id="236443" name="Conimbriga" >}}
-- {{< id vocab="TGN" id="7031751" name="Conimbriga, Ruinas de" >}}
+<!-- ## Places -->

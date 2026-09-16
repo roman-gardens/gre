@@ -3,7 +3,7 @@ slug: "e5e8c6759d"
 type: place
 title: La Cocosa
 author: Author Name
-contributor: Amelia Lamis
+contributor: Amelia Lamis, Keith Jenkins
 date: 2026-05-13
 
 draft: false
@@ -13,7 +13,7 @@ draft: false
 
 ## Place Description
 
-Rock is very scarce in this region, so it happened that sometime around 1940, workers removing stones from the ruined walls of this villa found the mosaic floor of the tepidarium.  The owner informed the authorities in Badajoz, archaeologists were brought in, and the villa was fully excavated. A few years later, José de C. Serra Ráfols was entrusted with the job of mapping the site and preparing documentation based on his own work and the notes of his predecessors.  His ample text of 173 pages plus 28 drawings and 37 photographs appeared in 1952.  The mosaic from the tepidarium with a hippocampus (marine centaur) surrounded by dolphins and fish is in the Museo de Bellas Artes in Badajoz.  This excavation, however, was done long before the interest in the archaeology of gardens, so it is hardly surprising that almost nothing is said about them.
+From the E-90 expressway around the south side of Badajoz take EX-310 south 15.9 km to a turnoff to the right. Follow this road north- west 3.3 km to the site in the midst of gently rolling plains stretching as far as the eye can see. There are two sites. The first, a chapel or mausoleum – with a remarkable four-lobed room comes up on the right looking like tall grass and a few trees surrounded by a fence. The second, much larger site lies about 260 meters further along and on the left, also recognizable by the fence around it. Whether the villa was in Lusitania or Baetica is not known for certain. We have put it in Lusitania because of its modern affiliation with Badajoz. The name seems to mean "damaged by fruit worms", but no one knows its origin.
 
 <!--
 ## Maps
@@ -40,8 +40,4 @@ Rock is very scarce in this region, so it happened that sometime around 1940, wo
 - {{< keyword "Example keyword" >}}
 -->
 
-<!--
-## Places
-- {{< id vocab="Pleiades" id="" name="" >}}
-- {{< id vocab="TGN" id="" name="" >}}
--->
+<!-- ## Places -->

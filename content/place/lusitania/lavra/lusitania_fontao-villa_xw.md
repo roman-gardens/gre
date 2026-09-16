@@ -38,6 +38,4 @@ The remains of a large villa were discovered in 1900 under an abandoned Benedict
 - {{< keyword "villas" >}}
 - {{< keyword "basins" >}}
 
-## Places
-
-- {{< id vocab="TGN" id="7748859" name="Lavra" >}}
+<!-- ## Places -->

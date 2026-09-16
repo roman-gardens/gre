@@ -44,5 +44,3 @@ Of the sculptural pieces found outside the temple, some have been situated in th
 ## Places
 
 - {{< id vocab="Pleiades" id="576329395" name="Temple of Diana" >}}
-- {{< id vocab="Pleiades" id="256155" name="Emerita Augusta" >}}
-- {{< id vocab="TGN" id="7007664" name="Mérida (inhabited place)" >}}

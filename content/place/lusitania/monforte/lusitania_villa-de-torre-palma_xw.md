@@ -61,4 +61,3 @@ The third phase distinguished by Maloney and Hale covered several building campa
 ## Places
 
 - {{< id vocab="Pleiades" id="256478" name="Torre de Palma" >}}
-- {{< id vocab="TGN" id="7748664" name="Monforte" >}}

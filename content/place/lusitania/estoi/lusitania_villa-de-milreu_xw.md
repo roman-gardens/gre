@@ -57,4 +57,3 @@ The archaeologists working on the site have not produced a detailed sequence of 
 ## Places
 
 - {{< id vocab="Pleiades" id="256299" name="Milreu" >}}
-- {{< id vocab="TGN" id="4003722" name="Estói" >}}

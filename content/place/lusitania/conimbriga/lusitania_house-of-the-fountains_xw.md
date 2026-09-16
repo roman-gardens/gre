@@ -48,7 +48,4 @@ The house has recently been the subject of a monograph by Isabelle Morand in whi
 - {{< keyword "planting beds" >}}
 - {{< keyword "sprinklers" >}}
 
-## Places
-
-- {{< id vocab="Pleiades" id="236443" name="Conimbriga" >}}
-- {{< id vocab="TGN" id="7031751" name="Conimbriga, Ruínas de" >}}
+<!-- ## Places -->

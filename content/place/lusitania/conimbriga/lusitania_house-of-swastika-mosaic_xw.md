@@ -41,7 +41,4 @@ Far more modest than the [House of Cantaber](/id/f5a5c648d6/) but following the 
 
 - {{< keyword "mosaics" >}}
 
-## Places
-
-- {{< id vocab="Pleiades" id="236443" name="Conimbriga" >}}
-- {{< id vocab="TGN" id="7031751" name="Conimbriga, Ruinas de" >}}
+<!-- ## Places -->

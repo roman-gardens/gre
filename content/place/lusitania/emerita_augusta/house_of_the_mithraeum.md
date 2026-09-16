@@ -59,5 +59,3 @@ The passage formed by the north colonnade gave access to three chambers, the mid
 ## Places
 
 - {{< id vocab="Pleiades" id="923612907" name="Mithraeum at Casa del Mitreo in Emerita Augusta" >}}
-- {{< id vocab="Pleiades" id="256155" name="Emerita Augusta" >}}
-- {{< id vocab="TGN" id="7007664" name="Mérida (inhabited place)" >}}

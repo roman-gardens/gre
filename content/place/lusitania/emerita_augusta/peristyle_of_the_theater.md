@@ -61,5 +61,3 @@ The present appearance of the peristyle is the result of restorations carried ou
 ## Places
 
 - {{< id vocab="Pleiades" id="683849730" name="Roman Theater at Mérida" >}}
-- {{< id vocab="Pleiades" id="256155" name="Emerita Augusta" >}}
-- {{< id vocab="TGN" id="7007664" name="Mérida (inhabited place)" >}}

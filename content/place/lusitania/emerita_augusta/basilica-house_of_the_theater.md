@@ -43,5 +43,3 @@ This late-imperial domus was discovered by J. Ramón Mélida while excavating th
 ## Places
 
 - {{< id vocab="Pleiades" id="683849730" name="Roman Theater at Mérida" >}}
-- {{< id vocab="Pleiades" id="256155" name="Emerita Augusta" >}}
-- {{< id vocab="TGN" id="7007664" name="Mérida (inhabited place)" >}}

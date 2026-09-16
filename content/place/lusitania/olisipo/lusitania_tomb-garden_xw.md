@@ -35,7 +35,4 @@ An inscription found immured in the corner of a house near Lisbon around 1735 re
 
 - {{< keyword "tombs" >}}
 
-## Places
-
-- {{< id vocab="Pleiades" id="256338" name="Olisipo" >}}
-- {{< id vocab="TGN" id="7010978" name="Olisipo" >}}
+<!-- ## Places -->

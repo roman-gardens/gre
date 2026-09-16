@@ -3,7 +3,7 @@ slug: "5be34d65ff"
 type: place
 title: Estoi
 author: Author Name
-contributor: Contributor Name
+contributor: Keith Jenkins
 date: 2026-05-13
 
 draft: false
@@ -38,8 +38,6 @@ draft: false
 - {{< keyword "Example keyword" >}}
 -->
 
-<!--
 ## Places
-- {{< id vocab="Pleiades" id="" name="" >}}
-- {{< id vocab="TGN" id="" name="" >}}
--->
+
+- {{< id vocab="TGN" id="4003722" name="Estói" >}}

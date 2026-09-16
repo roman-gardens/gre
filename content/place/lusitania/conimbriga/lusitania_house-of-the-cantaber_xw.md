@@ -53,7 +53,4 @@ The other garden area was slightly farther south and against the east wall of th
 - {{< keyword "porticoes" >}}
 - {{< keyword "semicircular" >}}
 
-## Places
-
-- {{< id vocab="Pleiades" id="236443" name="Conimbriga" >}}
-- {{< id vocab="TGN" id="7031751" name="Conimbriga, Ruinas de" >}}
+<!-- ## Places -->

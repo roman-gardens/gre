@@ -23,7 +23,7 @@ end of third or beginnning of fourth century CE
 
 ## Garden Description
 
-In the early 1970s, J. M. Álvarez Martinez began excavations at this site, whose report appeared in 1976.  The villa was built around a central open space (11.7 x 6.3 m), which the archaeologists initially assumed was a peristyle.  There was indeed a wall (0.70 meters high and 0.55 meters thick) around the central area, which was judged to a garden.  But there was no trace of columns or bases or capitals of even imprints of where they had been.  The passageways around the courtyard on the north, west, and south were definitely covered; and on the east, where the entrances to the walled area were, there was probably also a portico, for that wall had painted decoration which would hardly have been left exposed to the weather.  The garden gave light to the rooms around it.
+In the early 1970s, J. M. Álvarez Martinez began excavations at this site, whose report appeared in 1976.  The villa was built around a central open space (11.7 x 6.3 m), which the archaeologists initially assumed was a peristyle.  There was indeed a wall (0.70 meters high and 0.55 meters thick) around the central area, which was judged to be a garden.  But there was no trace of columns or bases or capitals of even imprints of where they had been.  The passageways around the courtyard on the north, west, and south were definitely covered; and on the east, where the entrances to the walled area were, there was probably also a portico, for that wall had painted decoration which would hardly have been left exposed to the weather.  The garden gave light to the rooms around it.
 
 Though it seems clear that the principal room [10], with a mosaic representing the hunting of wild boar, was intended to have a view of the garden through its large entranceway, there was no gate to the garden at that point and the view must have been at least partially blocked by the wall around the garden. Inside the garden area there were also some low walls, presumably the edges of planting beds.  A well was in the center of the garden, and a water conduit led off to the northwest where there were baths.  In an unusual arrangement, there appear to have been baths also in the northeastern corner.  Both areas had hypocausts and water-handling facilities.
 
@@ -50,6 +50,9 @@ The house appears to have been built at the end of the third or beginning of the
 - {{< keyword "hypocausts" >}}
 - {{< keyword "mosaics" >}}
 
+<!-- 
 ## Places
 
-- {{< id vocab="Pleiades" id="256155" name="Emerita Augusta" >}}
+{{< id vocab="Pleiades" id="213630148" name="Las Tiendas" >}} is likely a draft entry
+
+ -->
