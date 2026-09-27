@@ -5,7 +5,7 @@ title: Gallia Belgica
 author: Maureen Carroll
 contributor: Amelia Lamis
 date: 2025-07-07
-draft: true
+draft: false
 ---
 
 <!-- ## Dates -->
