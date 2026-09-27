@@ -3,7 +3,7 @@ slug: "f1728557d2"
 type: garden
 title: House of the Nymphs (Maison des Nymphes)
 latlon: [ 36.440688, 10.719419 ]
-author: Amina-Aïcha Malek
+author: Véronique Blanc-Bijon, Amina-Aïcha Malek
 contributor: Xue Xia
 date: 2021-04-21
 
@@ -20,19 +20,20 @@ This large house (1500m²) laid-out around a peristyle-garden is known for its m
 
 The peristyle was trapezoidal in shape (8.29 x 9 x 16. 15 m) and was bordered by 12 columns. Four porticos, 5m wide, enclosed the garden. The semicircular pool facing the *oecus-triclinium*, that projected into the garden was paved with a mosaic depicting a mask of Ocean among fishes and had an inscription "NYMFARUM DOMUS" quoting a passage from Virgil's Aeneid. According to the excavator, J.-P. Darmon, a row of broken amphoras that had served as planting pots were found along the central axis of the garden facing the *oecus* and the basin (Fig.2)
 
-<!-- ## Maps -->
+<!-- ## Maps 
 
 ## Plans
 
-{{< image file="afr_nea_hn_amalekfig2.jpg" caption="Fig.1: Plan of the House of the Nymphs." credit="(Darmon, J.P., 1980, p. 9, pp. 85-6 et p. 146.)" alt="">}}
+{{< image file="afr_nea_hn_amalekfig2.jpg" caption="Fig.1: Plan of the House of the Nymphs." credit="(Darmon, J.P., 1980, p. 9, pp. 85-6 et p. 146.)" alt="">}} -->
 
+<!-- 
 ## Images
 
 {{< image file="afr_nea_hn_amalekphotofig2.jpg" caption="Fig.2: Photographic view of the garden. (?)" credit="" alt="">}}
 
 {{< image file="Detail_of_the_pool_with_inscription.jpg" caption="Fig.3: View of the basin of the garden peristyle of the House of the Nymphs." credit="(Malek, A.-A., 2018, fig. 12.11A)" alt="">}}
 
-{{< image file="detail_of_the_basin.jpg" caption="Fig.4: Detail of the basin with the inscription Nymfarum Domus." credit="(Malek, A.-A., 2018, fig. 12.11B)" alt="">}}
+{{< image file="detail_of_the_basin.jpg" caption="Fig.4: Detail of the basin with the inscription Nymfarum Domus." credit="(Malek, A.-A., 2018, fig. 12.11B)" alt="">}} -->
 
 ## Bibliography
 

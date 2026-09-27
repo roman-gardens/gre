@@ -3,7 +3,7 @@ slug: "c60396b2aa"
 type: garden
 title: House of Nicentus (Maison de Nicentus)
 latlon: [ 36.40112, 9.904448 ]
-author: Wilhelmina Jashemski
+author: Wilhelmina Jashemski, Amina-Aïcha Malek
 contributor: Nicholas Gill
 date: 2021-04-21
 

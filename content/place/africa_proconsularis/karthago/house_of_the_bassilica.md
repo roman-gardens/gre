@@ -1,7 +1,7 @@
 ---
 slug: "4c3dd0c894"
 type: garden
-title: House of the Bassilica (Maison de la Bassilica)
+title: House of the Basilica (Maison de la Bassilica)
 latlon: [ 36.858123, 10.331001 ]
 author: Amina-Aïcha Malek
 contributor: Xue Xia
