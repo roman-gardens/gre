@@ -5,7 +5,7 @@ title: House of the Ram (La Maison au Bélier)
 latlon: [ 49.254081, 4.032937 ]
 author: Maureen Carroll
 contributor: Yvette Pollack, Amelia Lamis
-date: 2026-09-30
+date: 2026-09-28
 draft: false
 ---
 

@@ -5,7 +5,7 @@ title: Villa de Larry
 latlon: [ 49.118135, 6.174155 ]
 author: Jean-Denis Laffite
 contributor: Yvette Pollack, Amelia Lamis
-date: 2026-09-30
+date: 2026-09-28
 draft: false
 ---
 

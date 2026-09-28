@@ -5,7 +5,7 @@ title: House of the Arsenal (Maison de l'Arsenal)
 latlon: [ 49.118135, 6.174155 ]
 author: Maureen Carroll
 contributor: Yvette Pollack, Amelia Lamis
-date: 2026-09-30
+date: 2026-09-28
 draft: false
 ---
 

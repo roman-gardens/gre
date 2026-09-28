@@ -5,7 +5,7 @@ title: Rural Villa near Welschbillig
 latlon: [ 49.852977, 6.568709 ]
 author: Maureen Carroll
 contributor: Yvette Pollack, Amelia Lamis
-date: 2026-09-30
+date: 2026-09-28
 draft: false
 ---
 

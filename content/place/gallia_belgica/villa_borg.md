@@ -5,7 +5,7 @@ title: Villa Borg
 latlon: [ 49.496681, 6.457675 ]
 author: Bettina Birkenhagen, Julian Wiethold
 contributor: Yvette Pollack, Amelia Lamis
-date: 2026-09-30
+date: 2026-09-28
 draft: false
 ---
 

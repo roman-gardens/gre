@@ -5,7 +5,7 @@ title: Rural Villa in Veirherrenborn
 latlon: [49.6000, 6.6667]
 author: Maureen Carroll
 contributor: Yvette Pollack, Amelia Lamis
-date: 2026-09-30
+date: 2026-09-28
 draft: false
 ---
 

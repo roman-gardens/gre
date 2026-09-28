@@ -4,8 +4,8 @@ type: place
 title: Mauretania
 author: Author Name
 contributor: Keith Jenkins
-date: 2026-05-07
-draft: true
+date: 2026-09-28
+draft: false
 ---
 
 <!-- ## Dates -->

@@ -4,7 +4,7 @@ type: place
 title: Gallia Belgica
 author: Maureen Carroll
 contributor: Amelia Lamis
-date: 2025-07-07
+date: 2026-09-28
 draft: false
 ---
 

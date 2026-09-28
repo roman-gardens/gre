@@ -5,7 +5,7 @@ title: House of the Labors of Hercules (La maison des travaux d'Hercules)
 latlon: [ 34.0748792, -5.5545008 ]
 author: Amina-Aïcha Malek
 contributor: Brandon Wilson, Keith Jenkins
-date: 2026-09-30
+date: 2026-09-28
 draft: false
 ---
 

@@ -5,7 +5,7 @@ title: Rural Villa
 latlon: [ 49.528992, 6.384557 ]
 author: Maureen Carroll
 contributor: Yvette Pollack, Amelia Lamis
-date: 2026-09-30
+date: 2026-09-28
 draft: false
 ---
 

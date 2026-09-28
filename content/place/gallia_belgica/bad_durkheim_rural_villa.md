@@ -5,7 +5,7 @@ title: Villa Rustica near Bad Dürkheim
 latlon: [ 49.447612, 8.197689]
 author: Maureen Carroll
 contributor: Yvette Pollack, Keith Jenkins, Amelia Lamis
-date: 2026-09-30
+date: 2026-09-28
 draft: false
 ---
 

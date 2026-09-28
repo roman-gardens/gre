@@ -5,7 +5,7 @@ title: House with Garden, rue des Capucins
 latlon: [ 49.253877, 4.033055 ]
 author: Maureen Carroll
 contributor: Yvette Pollack, Amelia Lamis
-date: 2026-09-30
+date: 2026-09-28
 draft: false
 ---
 
