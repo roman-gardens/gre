@@ -5,8 +5,7 @@ title: House of Venus (Maison du cortège de Vénus)
 latlon: [ 34.074860, -5.552739 ]
 author: Amina-Aïcha Malek
 contributor: Brandon Wilson, Keith Jenkins
-date: 2020-11-16
-
+date: 2026-09-30
 draft: false
 ---
 

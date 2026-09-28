@@ -5,8 +5,7 @@ title: House of the Ephebe (Maison de l'Ephebe)
 latlon: [ 34.0743512, -5.5557035 ]
 author: Amina-Aïcha Malek
 contributor: Brandon Wilson, Keith Jenkins
-date: 2020-11-16
-
+date: 2026-09-30
 draft: false
 ---
 
