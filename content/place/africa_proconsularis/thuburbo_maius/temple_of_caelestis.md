@@ -3,7 +3,7 @@ slug: "9f5e65f46d"
 type: garden
 title: Temple of Caelestis (Temple de Caelestis)
 latlon: [ 36.40112, 9.904448 ]
-author: Wilhelmina Jashemski
+author: Wilhelmina Jashemski, Amina-Aïcha Malek
 contributor: Nicholas Gill
 date: 2021-04-21
 

@@ -3,7 +3,7 @@ slug: "00374bc287"
 type: garden
 title: House of the Protomes (Maison des Protomés)
 latlon: [ 36.40112, 9.904448 ]
-author: Wilhelmina Jashemski
+author: Wilhelmina Jashemski, Amina-Aïcha Malek
 contributor: Nicholas Gill
 date: 2021-04-21
 

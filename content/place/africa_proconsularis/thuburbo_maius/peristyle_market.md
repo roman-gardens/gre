@@ -3,7 +3,7 @@ slug: "88a590cc40"
 type: garden
 title: Peristyle Market (Marché)
 latlon: [ 36.40112, 9.904448 ]
-author: Wilhelmina Jashemski
+author: Wilhelmina Jashemski, Amina-Aïcha Malek
 contributor: Nicholas Gill
 date: 2021-04-21
 

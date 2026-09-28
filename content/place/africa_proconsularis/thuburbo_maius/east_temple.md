@@ -3,7 +3,7 @@ slug: "a491f6d729"
 type: garden
 title: East Temple (Temple de l'Est)
 latlon: [ 36.400355, 9.903990 ]
-author: Wilhelmina Jashemski
+author: Wilhelmina Jashemski, Amina-Aïcha Malek
 contributor: Nicholas Gill
 date: 2021-04-21
 

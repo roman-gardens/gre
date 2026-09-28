@@ -3,7 +3,7 @@ slug: "22018c097b"
 type: garden
 title: Building of the Three Basins (Edifice des trois bassins)
 latlon: [ 36.40112, 9.904448 ]
-author: Wilhelmina Jashemski
+author: Wilhelmina Jashemski, Amina-Aïcha Malek
 contributor: Nicholas Gill
 date: 2021-04-21
 

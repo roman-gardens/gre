@@ -5,9 +5,8 @@ title: The Gordian Palace (Le palais dit de Gordien)
 latlon: [ 34.0759233, -5.5534589 ]
 author: Amina-Aïcha Malek
 contributor: Brandon Wilson, Keith Jenkins
-date: 2020-11-16
-
-draft: true
+date: 2026-09-30
+draft: false
 ---
 
 ## Dates

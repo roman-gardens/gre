@@ -3,7 +3,7 @@ slug: "ce9ce2060f"
 type: garden
 title: House of the Salsamenta (Usine de salaison)
 latlon: [ 36.438789, 10.717447 ]
-author: Amina-Aïcha Malek, Véronique Blanc-Bijon
+author: Véronique Blanc-Bijon, Amina-Aïcha Malek 
 contributor: Xue Xia
 date: 2021-04-21
 

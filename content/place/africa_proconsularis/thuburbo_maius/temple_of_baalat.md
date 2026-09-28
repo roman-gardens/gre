@@ -3,7 +3,7 @@ slug: "01e7e75fa3"
 type: garden
 title: Temple of Baalat (Temple de Balaat)
 latlon: [ 36.400355, 9.903990 ]
-author: Wilhelmina Jashemski
+author: Wilhelmina Jashemski, Amina-Aïcha Malek
 contributor: Nicholas Gill
 date: 2021-04-21
 

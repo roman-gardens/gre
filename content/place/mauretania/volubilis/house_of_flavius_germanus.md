@@ -5,9 +5,8 @@ title: House of Flavius Germanus (La maison de Flavius Germanicus)
 latlon: [ 34.0750773, -5.5543848 ]
 author: Amina-Aïcha Malek
 contributor: Brandon Wilson, Keith Jenkins
-date: 2020-11-16
-
-draft: true
+date: 2026-09-30
+draft: false
 ---
 
 ## Dates

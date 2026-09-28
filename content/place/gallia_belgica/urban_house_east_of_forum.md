@@ -5,9 +5,8 @@ title: Urban House East of Forum
 latlon: [ 49.5, 4.5 ]
 author: Maureen Carroll
 contributor: Yvette Pollack, Amelia Lamis
-date: 2021-04-21
-
-draft: true
+date: 2026-09-30
+draft: false
 ---
 
 ## Dates

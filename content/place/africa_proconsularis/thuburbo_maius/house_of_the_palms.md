@@ -3,7 +3,7 @@ slug: "52804dc314"
 type: garden
 title: House of the Palms (Maison des Palmes)
 latlon: [ 36.400355, 9.903990 ]
-author: Wilhelmina Jashemski
+author: Wilhelmina Jashemski, Amina-Aïcha Malek
 contributor: Nicholas Gill
 date: 2021-04-21
 
