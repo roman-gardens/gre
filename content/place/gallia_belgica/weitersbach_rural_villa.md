@@ -5,8 +5,7 @@ title: Rural Villa near Weitersbach
 latlon: [49.8667, 7.3167]
 author: Maureen Carroll
 contributor: Yvette Pollack, Amelia Lamis
-date: 2021-04-21
-
+date: 2026-09-30
 draft: false
 ---
 <!--latlong is for Weitersbach from TGN-->

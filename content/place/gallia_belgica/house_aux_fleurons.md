@@ -5,8 +5,7 @@ title: The House aux Fleurons (boulevard de la Paix)
 latlon: [ 49.254613, 4.040522 ]
 author: Maureen Carroll
 contributor: Yvette Pollack, Amelia Lamis
-date: 2021-04-21
-
+date: 2026-09-30
 draft: false
 ---
 
