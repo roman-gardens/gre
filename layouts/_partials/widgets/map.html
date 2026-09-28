@@ -141,12 +141,13 @@
             {{ end }}
 
             {{ if or (eq hugo.Environment "development") (strings.Contains .Site.BaseURL "test-drafts") }}
-                // Build list of provinces (top-level places)
-                let provinceNames = [
-                    {{ range sort ( .Site.GetPage "place" ).Pages "Title" "asc" }}
+                // Build list of place names
+                let placeNames = [
+                    {{ range sort ( where .Site.Pages "Type" "place" ) "Title" "asc" }}
                         "{{ .Title }}",
                     {{ end }}
                 ]
+
 
                 // Add Roman Provinces
                 let provinces = L.geoJSON(provinceGeoJSON, {
@@ -159,12 +160,12 @@
                     }
                 }).bindPopup(function (layer) {
                     let p = layer.feature.properties
-                    if (p.id && provinceNames.includes(p.name)) {
+                    if (p.id && placeNames.includes(p.name)) {
                         let base = {{ site.BaseURL }}
                         let url = base + 'id/' + p.id
                         return `<a class='smallcrumbs' href='${url}'>${p.name}</a>`
                     } else {
-                        return `<b>${p.name}</b><br>(No gardens have been published)`
+                        return `<b>${p.name}</b><br>(No gardens have been published yet)`
                     }
                 }).on('click', (event) => {
                     captureCoords(event)
