@@ -35,6 +35,4 @@ draft: false
 - {{< keyword "Example keyword" >}}
 -->
 
-## Places
-
-- {{< id vocab="Pleiades" id="79485" name="Gorhambury Ancient Site" >}}
+<!-- ## Places -->

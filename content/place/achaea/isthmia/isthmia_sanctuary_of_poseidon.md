@@ -36,6 +36,4 @@ We know of a grove of trees in the precinct of the temple of Poseidon, thanks to
 
 ## Places
 
-- {{< id vocab="Pleiades" id="570316" name="Isthmia" >}}
 - {{< id vocab="Pleiades" id="107524051" name="Temple of Poseidon at Isthmia" >}}
-- {{< id vocab="TGN" id="5004291" name="Kirás Vrísi (inhabited place)" >}}

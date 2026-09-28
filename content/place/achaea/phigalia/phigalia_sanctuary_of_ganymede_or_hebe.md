@@ -32,7 +32,4 @@ The only indication that there was a garden at this sanctuary is a literary refe
 - [Pausanias](https://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1054.1)
 - {{< keyword "sacred groves" >}}
 
-## Places
-
-- {{< id vocab="Pleiades" id="570598" name="Phigaleia" >}}
-- {{< id vocab="TGN" id="5004240" name="Phigalia (inhabited place)" >}}
+<!-- ## Places -->

@@ -47,7 +47,4 @@ The Northern or Hanging Palace, the latest of Herod's constructions on the site,
 - {{< keyword "walled gardens" >}}
 - {{< keyword "agriculture" >}}
 
-## Places
-
-- {{< id vocab="Pleiades" id="687968" name="Masada" >}}
-- {{< id vocab="TGN" id="7001381" name="Masada (deserted settlement)" >}}
+<!-- ## Places -->

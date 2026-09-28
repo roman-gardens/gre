@@ -33,7 +33,4 @@ According to local legend, the Argive maiden, Hyrnetho, died in an ancestral str
 - [Pausanias](https://catalog.perseus.org/catalog/urn:cite:perseus:author.1054)
 - [wild olives (Olea oleaster)](http://powo.science.kew.org/taxon/610760-1)
 
-## Places
-
-- {{< id vocab="Pleiades" id="570228" name="Epidauros" >}}
-
+<!-- ## Places -->

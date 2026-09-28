@@ -40,3 +40,5 @@ Some years later, Shim'on ben Menahem transferred ownership of the property to h
 
 - {{< keyword "orchards" >}}
 - {{< keyword "irrigation ditches" >}}
+
+<!-- ## Places -->

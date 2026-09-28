@@ -5,23 +5,25 @@ title: Uzita
 latlon: [ 35.686972, 10.753957 ]
 author: Author Name
 translator: Translator Name
-contributor: Contributor Name
+contributor: Keith Jenkins
 date: 2026-05-15
 
 draft: true
 ---
 
 ## Dates
-<!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected.  If no date, use "unspecified" -->
+
+unspecified
 
 ## Excavation Dates
-<!-- format as YYYY, or YYYY-YYYY -->
+
+circa 1960
 
 ## Garden Description
 
 <!-- spelled "Uzitta" in the original .doc -->
 
-Uzita was mentioned by Caesar in the African War. The ruins are on a small hill surrounded by plains near Jemmal. A large sector of a residential district was uncovered around 1960. The site had many houses and some large villas with peristyle courtyards with possible gardens.
+A large sector of a residential district was uncovered around 1960. The site had many houses and some large villas with peristyle courtyards with possible gardens.
 
 <!--
 ## Maps

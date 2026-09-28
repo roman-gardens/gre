@@ -45,3 +45,5 @@ A few decades after a Nabataean shrine (Fig. 2) at Hauarra had been severely dam
 - {{< keyword "planters" >}}
 - {{< keyword "shrines" >}}
 - {{< keyword "temene" >}}
+
+<!-- ## Places -->

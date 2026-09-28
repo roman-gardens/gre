@@ -3,7 +3,7 @@ slug: "1872c4a665"
 type: place
 title: Aegina
 author: Author Name
-contributor: Contributor Name
+contributor: Keith Jenkins
 date: 2026-05-15
 
 draft: false
@@ -38,8 +38,7 @@ draft: false
 - {{< keyword "Example keyword" >}}
 -->
 
-<!--
 ## Places
-- {{< id vocab="Pleiades" id="" name="" >}}
-- {{< id vocab="TGN" id="" name="" >}}
--->
+
+- {{< id vocab="Pleiades" id="579844" name="Aegina (island)" >}}
+- {{< id vocab="TGN" id="7011087" name="Aegina (inhabited place)" >}}

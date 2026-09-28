@@ -37,7 +37,4 @@ This building southwest of the temple of Zeus was the largest guest house in the
 - {{< keyword "planting beds" >}}
 - {{< keyword "quatrefoils" >}}
 
-## Places
-
-- {{< id vocab="Pleiades" id="570531" name="Olympia" >}}
-- {{< id vocab="TGN" id="7011018" name="Olympia (deserted settlement)" >}}
+<!-- ## Places -->

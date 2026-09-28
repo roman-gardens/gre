@@ -42,4 +42,3 @@ It is possible that a garden might have been present in one of the inner courtya
 ## Places
 
 - {{< id vocab="Pleiades" id="807514119" name="Agora of Athens" >}}
-- {{< id vocab="TGN" id="5004159" name="Agorá (ancient site)" >}}

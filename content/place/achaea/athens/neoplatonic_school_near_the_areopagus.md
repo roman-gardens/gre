@@ -39,4 +39,3 @@ One of these buildings, the so-called "House C" or "Omega House", had two perist
 ## Places
 
 - {{< id vocab="Pleiades" id="969121823" name="Areopagus" >}}
-- {{< id vocab="TGN" id="5004159" name="Agorá (ancient site)" >}}

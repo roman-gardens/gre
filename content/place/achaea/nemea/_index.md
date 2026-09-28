@@ -38,8 +38,7 @@ draft: false
 - {{< keyword "Example keyword" >}}
 -->
 
-<!--
 ## Places
-- {{< id vocab="Pleiades" id="" name="" >}}
-- {{< id vocab="TGN" id="" name="" >}}
--->
+
+- {{< id vocab="Pleiades" id="570504" name="Nemea" >}}
+- {{< id vocab="TGN" id="7220732" name="Neméa (ancient site)" >}}

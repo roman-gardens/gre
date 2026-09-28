@@ -45,7 +45,4 @@ The grove of trees at the temple of Zeus is known through Pausanias' description
 - {{< keyword "pits" >}}
 - {{< keyword "sacred groves" >}}
 
-## Places
-
-- {{< id vocab="Pleiades" id="570504" name="Nemea" >}}
-- {{< id vocab="TGN" id="7220732" name="Neméa (ancient site)" >}}
+<!-- ## Places -->

@@ -57,7 +57,4 @@ The pots were placed along the outer stylobates of the porticos at a distance of
 - {{< keyword "Strabo" >}}
 - {{< keyword "trophies" >}}
 
-## Places
-
-- {{< id vocab="Pleiades" id="531013" name="Nicopolis" >}}
-- {{< id vocab="TGN" id="7011016" name="Nicopolis (deserted settlement)" >}}
+<!-- ## Places -->

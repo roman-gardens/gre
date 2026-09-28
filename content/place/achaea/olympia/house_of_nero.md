@@ -36,7 +36,4 @@ This house was built at the time of, and possibly for, the emperor Nero, who, on
 - {{< keyword "atriums" >}}
 - {{< keyword "peristyles" >}}
 
-## Places
-
-- {{< id vocab="Pleiades" id="570531" name="Olympia" >}}
-- {{< id vocab="TGN" id="7011018" name="Olympia (deserted settlement)" >}}
+<!-- ## Places -->

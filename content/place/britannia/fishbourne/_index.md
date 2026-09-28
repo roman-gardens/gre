@@ -38,4 +38,3 @@ draft: false
 ## Places
 
 - {{< id vocab="Pleiades" id="79466" name="Fishbourne" >}}
-- {{< id vocab="TGN" id="7032567" name="Fishbourne Roman Palace (historic site)" >}}
