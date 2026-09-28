@@ -35,6 +35,4 @@ A grove and shrine of Apollo in the mountaintop town of Kyrtones in Boeotia was 
 - {{< keyword "shrines" >}}
 - {{< keyword "springs" >}}
 
-## Places
-
-- {{< id vocab="Pleiades" id="540898" name="Kyrtones" >}}
+<!-- ## Places -->

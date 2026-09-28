@@ -47,4 +47,6 @@ The villa complex that preceded the winged corridor house is also of interest in
 - {{< keyword "piscinae" >}}
 - {{< keyword "villae rusticae" >}}
 
-<!-- ## Places -->
+## Places
+
+- {{< id vocab="Pleiades" id="79312" name="Bancroft Roman villa" >}}

@@ -34,7 +34,4 @@ In the first third of the 3rd century CE another guest house, so-called Guest Ho
 
 - {{< keyword "peristyles" >}}
 
-## Places
-
-- {{< id vocab="Pleiades" id="570531" name="Olympia" >}}
-- {{< id vocab="TGN" id="7011018" name="Olympia (deserted settlement)" >}}
+<!-- ## Places -->

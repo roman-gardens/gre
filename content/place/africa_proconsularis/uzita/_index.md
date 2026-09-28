@@ -1,17 +1,18 @@
 ---
-slug: "65af42d67f"
+slug: "d784aae425"
 type: place
-title: Pallene
+title: Uzita
 author: Author Name
-contributor: Contributor Name
-date: 2026-05-15
-
-draft: true
+contributor: Keith Jenkins
+date: 2026-09-28
+draft: false
 ---
 
 <!-- ## Dates -->
 
-<!-- ## Place Description -->
+## Place Description
+
+Uzita was mentioned by Caesar in the African War. The ruins are on a small hill surrounded by plains near Jemmal.
 
 <!--
 ## Maps
@@ -38,6 +39,4 @@ draft: true
 - {{< keyword "Example keyword" >}}
 -->
 
-## Places
-
-- {{< id vocab="Pleiades" id="580051" name="Pallene" >}}
+<!-- ## Places -->

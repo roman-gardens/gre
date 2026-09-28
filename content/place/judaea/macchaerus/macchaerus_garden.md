@@ -55,7 +55,4 @@ Water was supplied to the garden from cisterns built in the Herodian and Hasmone
 - {{< keyword "walled gardens" >}}
 
 
-<!--
-## Places
-- {{< id vocab="Pleiades" id="697700" name="Machairous" >}}
--->
+<!-- ## Places -->

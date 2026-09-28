@@ -35,6 +35,4 @@ draft: false
 - {{< keyword "Example keyword" >}}
 -->
 
-## Places
-
-- {{< id vocab="Pleiades" id="79312" name="Bancroft Roman villa" >}}
+<!-- ## Places -->

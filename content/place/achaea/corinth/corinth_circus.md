@@ -6,9 +6,9 @@ latlon: [ 37.900814, 22.895986 ]
 author: David Gilman Romano
 contributor: Jane Millar, Amartya Shri
 date: 2021-04-21
-
 draft: false
 ---
+<!-- TODO: check coordinates -->
 
 ## Dates
 
@@ -48,7 +48,4 @@ The so-called "hippodrome garden" type (see the Domus Flavia on the Palatine Hil
 - {{< keyword "circuses" >}}
 - {{< keyword "mosaics" >}}
 
-## Places
-
-- {{< id vocab="Pleiades" id="570182" name="Corinthus/Korinthos" >}}
-- {{< id vocab="TGN" id="7010734" name="Corinth (inhabited place)" >}}
+<!-- ## Places -->

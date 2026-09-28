@@ -38,4 +38,3 @@ draft: false
 ## Places
 
 - {{< id vocab="Pleiades" id="79383" name="Chedworth" >}}
-- {{< id vocab="TGN" id="7032560" name="Chedworth Roman Villa (historic site)" >}}

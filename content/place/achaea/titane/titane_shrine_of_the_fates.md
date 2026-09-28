@@ -38,8 +38,4 @@ BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
 - [Pausanias](https://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1054.1)
 - {{< keyword "sacred groves" >}}
 
-## Places
-
-- {{< id vocab="Pleiades" id="570741" name="Titane" >}}
-
-<!-- ## TGN ID -->
+<!-- ## Places -->

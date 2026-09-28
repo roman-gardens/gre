@@ -37,4 +37,3 @@ The extensive sanctuary at which Panhellenic athletic games took place, was situ
 ## Places
 
 - {{< id vocab="Pleiades" id="316294900" name="Temple of Zeus at Olympia" >}}
-- {{< id vocab="TGN" id="7011018" name="Olympia (deserted settlement)" >}}

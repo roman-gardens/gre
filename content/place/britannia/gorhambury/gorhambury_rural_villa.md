@@ -45,4 +45,6 @@ An avenue 20 meters wide led axially from the gate at the eastern end of the inn
 - {{< keyword "loam" >}}
 - {{< keyword "villae rusticae" >}}
 
-<!-- ## Places -->
+## Places
+
+- {{< id vocab="Pleiades" id="79485" name="Gorhambury Ancient Site" >}}

@@ -32,7 +32,4 @@ Pausanias mentioned a small grove of trees in the sanctuary of Zeus Philios that
 - [Pausanias](https://www.britannica.com/biography/Pausanias-Greek-geographer)
 - {{< keyword "sacred groves" >}}
 
-## Places
-
-- {{< id vocab="Pleiades" id="570467" name="Megalopolis" >}}
-- {{< id vocab="TGN" id="7010920" name="Megalopolis (deserted settlement)" >}}
+<!-- ## Places -->

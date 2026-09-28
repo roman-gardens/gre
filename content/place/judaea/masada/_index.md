@@ -38,8 +38,7 @@ Masada, originally a Hasmonean defensive post, was the refuge for Herod's family
 - {{< keyword "Example keyword" >}}
 -->
 
-<!--
 ## Places
-- {{< id vocab="Pleiades" id="" name="" >}}
-- {{< id vocab="TGN" id="" name="" >}}
--->
+
+- {{< id vocab="Pleiades" id="687968" name="Masada" >}}
+- {{< id vocab="TGN" id="7001381" name="Masada (deserted settlement)" >}}

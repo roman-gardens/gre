@@ -42,4 +42,3 @@ A grove of olive and laurel trees surrounding the Altar of the Twelve Gods in th
 ## Places
 
 - {{< id vocab="Pleiades" id="807514119" name="Agora of Athens" >}}
-- {{< id vocab="TGN" id="5004159" name="Agorá (ancient site)" >}}

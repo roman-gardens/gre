@@ -33,7 +33,4 @@ An inscription found near Chaeronea and known only from a transcription records 
 - {{< keyword "inscriptions" >}}
 - {{< keyword "funerary buildings" >}}
 
-## Places
-
-- {{< id vocab="Pleiades" id="540701" name="Chaeronea" >}}
-- {{< id vocab="TGN" id="7010731" name="Chaironeia (inhabited place)" >}}
+<!-- ## Places -->

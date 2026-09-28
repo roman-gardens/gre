@@ -35,7 +35,4 @@ A Roman guest house of the 2nd century CE, so-called Guest House I, was erected 
 - {{< keyword "balnea" >}}
 - {{< keyword "peristyles" >}}
 
-## Places
-
-- {{< id vocab="Pleiades" id="570531" name="Olympia" >}}
-- {{< id vocab="TGN" id="7011018" name="Olympia (deserted settlement)" >}}
+<!-- ## Places -->
