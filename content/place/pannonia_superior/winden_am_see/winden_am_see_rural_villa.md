@@ -6,9 +6,10 @@ latlon: [ 46.5, 15.5 ]
 author: Maureen Carroll
 contributor: June Dorsch, Keith Jenkins
 date: 2021-04-21
-
 draft: true
 ---
+
+<!-- TODO: Based on the province borders, this garden is in Noricum, not Pannonia Superior. KGJ -->
 
 ## Dates
 
