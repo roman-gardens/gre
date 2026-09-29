@@ -1,7 +1,7 @@
 ---
 slug: "345922dffe"
 type: place
-title: Galatia And Cappadocia
+title: Galatia et Cappadocia
 author: Catherine Kearns
 contributor: Amelia Lamis
 date: 2026-05-07

@@ -1,7 +1,7 @@
 ---
 slug: "e5e669d243"
 type: place
-title: Bithynia And Pontus
+title: Bithynia et Pontus
 author: Catherine Kearns
 contributor: Amelia Lamis
 date: 2026-05-07

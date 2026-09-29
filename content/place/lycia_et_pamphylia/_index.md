@@ -1,7 +1,7 @@
 ---
 slug: "ad4c9c3403"
 type: place
-title: Lycia And Pamphylia
+title: Lycia et Pamphylia
 author: Catherine Kearns
 contributor: Amelia Lamis
 date: 2026-05-07
