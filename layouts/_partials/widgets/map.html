@@ -140,16 +140,16 @@
                 osm_hi.addTo(map);
             {{ end }}
 
-            // Build a list of places with published gardens
-            let placenames = {
+            // Build a list of places with counts of published and draft gardens
+            let places = {
                 {{ range where .Site.Pages "Type" "place" }}
-                    {{ $count := len (where .RegularPagesRecursive "Draft" false) }}
-                    {{ if gt $count 0 }}
-                        "{{ .Title }}" : {{ $count }} , 
-                    {{ end }}
+                    {{ $pub := len (where .RegularPagesRecursive "Draft" false) }}
+                    {{ $draft := len (where .RegularPagesRecursive "Draft" true) }}
+                    {{ if gt (add $pub $draft) 0 }}
+                    "{{ .Title }}" : { pub:{{ $pub }}, draft:{{ $draft }} },
+                    {{ end }} 
                 {{ end }}
             }
-
 
             // Add Roman Provinces
             let provinces = L.geoJSON(provinceGeoJSON, {
@@ -163,10 +163,14 @@
             }).bindPopup(function (layer) {
                 let p = layer.feature.properties
                 let html = `<b>${p.name}</b><br>`
-                if (p.id && placenames[p.name]) {
+                if (p.id && places[p.name]) {
                     let base = {{ site.BaseURL }}
                     let url = base + 'id/' + p.id
-                    html += `<a href='${url}'>view ${placenames[p.name]} gardens</a>`
+                    html += `<a href='${url}'>view gardens (${places[p.name].pub})`
+                    if (places[p.name].draft) {
+                        html += `<br>and drafts (${places[p.name].draft})`
+                    }
+                    html += `</a>`
                 } else {
                     html += `<span class='smallcrumbs'>No gardens have been published yet</span>`
                 }
