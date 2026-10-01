@@ -45,10 +45,6 @@ Viola, L. 1879. *Gli scavi di Pompei dal 1873 al 1878*, p. 11
 - {{< keyword "pools" >}}
 - {{< keyword "triclinia (rooms)" >}}
 
-## Garden
-
-Garden at the rear of the House of L. Vousius Faustus and M. Volusius Faustus.
-
 <!--
 ## Places
 -->

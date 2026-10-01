@@ -58,8 +58,4 @@ At the rear of this house a masonry wall surrounded the small garden which was u
 - {{< keyword "fences" >}}
 - {{< keyword "lararia" >}}
 
-## Garden
-
-House of Stallus Eros.
-
 <!-- Places -->
