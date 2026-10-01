@@ -17,14 +17,6 @@ draft: false
 
 1954, 1957, 1963, 1985
 
-## House
-
-House of the Birii; House of the Sibyl
-
-## Garden
-
-Two gardens, one with root cavities and the remains of a new [cistern](http://vocab.getty.edu/page/aat/300052558).
-
 ## Garden Description
 
 The worship of the Thracian-Phrygian vegetation god, Sabazius, took place in this large [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971) garden which was entered through a wide [vestibule](http://vocab.getty.edu/page/aat/300083076) from the street. Crude paintings of Venus, Mercury, Bacchus, and Priapus with their accompanying symbols were located high on the sides of the entrance. The [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971) garden was large enough to accommodate a large assembly of worshippers who attended the sacrifices at the [altar](http://vocab.getty.edu/page/aat/300003725) directly across from the entrance.

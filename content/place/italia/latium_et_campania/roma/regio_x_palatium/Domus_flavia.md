@@ -14,15 +14,11 @@ draft: false
 
 1st c- 5th c CE
 
-<!-- ## Excavation Dates -->
+## Excavation Dates
 
-## Garden
-
-Upper Peristyle and Nymphaea of the Domus Flavia, Palatine
+unspecified
 
 ## Garden Description
-
-UPPER PERISTYLE AND NYMPHAEA
 
 The grandiose [Palace](https://en.wikipedia.org/wiki/Palace_of_Domitian) that the architect [Rabirius](https://en.wikipedia.org/wiki/Rabirius_(architect)) built for [Domitian](https://en.wikipedia.org/wiki/Domitian) when garden art was at its apex made an enormous impression on his contemporaries, as one gathers from the praises heaped upon it by the writers of the time- in particular [Statius](https://en.wikipedia.org/wiki/Statius) and [Martial](https://en.wikipedia.org/wiki/Martial). The latter refers to the trees and gardens of this palace, reporting that Domitian owned "entire woods of [laurels](https://en.wikipedia.org/wiki/Laurus_nobilis), [plane-trees](https://en.wikipedia.org/wiki/Platanus_orientalis) and [pines](https://en.wikipedia.org/wiki/Stone_pine)" ([Mart. XII, 50](http://data.perseus.org/citations/urn:cts:latinLit:phi1294.phi002.perseus-lat1:12.50) | [Trans.](http://www.tertullian.org/fathers/martial_epigrams_book12.htm). Further confirmation of gardens comes from numerous inscriptions that document the existence of a [*vilicus*](https://en.wiktionary.org/wiki/vilicus) ([CIL VI, 8650](https://cil.bbaw.de/hauptnavigation/das-cil/baende)) and *diaetarchus* ([CIL VI, 8643-8645](https://cil.bbaw.de/hauptnavigation/das-cil/baende)) within the Flavian palace.
 

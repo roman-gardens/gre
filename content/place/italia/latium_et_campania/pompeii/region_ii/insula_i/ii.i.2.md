@@ -1,7 +1,7 @@
 ---
 slug: "9a0462febf"
 type: garden
-title: II.i.2 (House of Aemilius Primio and Aemiluis Saturninus)
+title: II.i.2 House of Aemilius Primio and Aemiluis Saturninus
 latlon: [ 40.750870, 14.493866 ]
 author: Wilhelmina Jashemski
 contributor: Jessica Venner
@@ -16,14 +16,6 @@ draft: false
 ## Excavation Dates
 
 1915, 1985
-
-## House
-
-House of Aemilius Primio and Aemiluis Saturninus
-
-## Garden
-
-Small garden to the rear of a [taberna](http://vocab.getty.edu/page/aat/300005366)
 
 ## Garden Description
 

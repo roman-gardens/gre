@@ -15,10 +15,6 @@ draft: false
 
 1951-1953
 
-## Garden
-
-Commercial restaurant garden.
-
 ## Garden Description
 
 This garden restaurant was strategically located across from the Palaestra. This garden occupied most of the southern part of this *insula* and had a masonry [triclinium](http://vocab.getty.edu/page/aat/300004359) (l. medius, 4.90 m; l. imus and summus 4.50m), as well as a round table (1.00 m in diameter) and a square table (0.90m x 0.90m).

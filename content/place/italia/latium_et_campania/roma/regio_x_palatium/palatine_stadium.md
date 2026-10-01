@@ -18,10 +18,6 @@ draft: false
 
 unspecified
 
-## Garden
-
-Stadium Garden of the Flavian Palace, Palatine
-
 ## Garden Description
 
 An important garden area in the [Flavian Palace](https://en.wikipedia.org/wiki/Flavian_Palace) was the so-called ["Stadium"](https://en.wikipedia.org/wiki/Palace_of_Domitian#The_Garden_or_%22stadium%22), actually a [*hippodromus*](https://en.wikipedia.org/wiki/Hippodrome), as late authors in fact called it. This term, which is often used with regard to major [villas](http://vocab.getty.edu/page/aat/300005519), usually indicates an elongated rectangular space marked by a wide annular [avenue](http://vocab.getty.edu/page/aat/300178561), lesser avenues, and [flowerbeds](http://vocab.getty.edu/page/aat/300430426). These structures (the Palatine is one of the most representative examples) derive from the [*gymnasia*](https://en.wikipedia.org/wiki/Gymnasium_(ancient_Greece)) of the Greek world ([Vitr. V.11](http://data.perseus.org/citations/urn:cts:latinLit:phi1056.phi001.perseus-lat1:5.11.1)) and were characterized by a [portico-avenue](http://vocab.getty.edu/page/aat/300004145) intended for promenading and the viewing of a succession of panoramas.
