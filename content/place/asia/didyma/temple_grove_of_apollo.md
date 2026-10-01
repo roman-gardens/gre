@@ -5,9 +5,8 @@ title: Temple Grove of Apollo
 latlon: [ 37.384829, 27.256115 ]
 author: Kathryn Gleason
 contributor: Shamika Ghate, Amelia Lamis
-date: 2026-06-30
-
-draft: true
+date: 2026-10-01
+draft: false
 ---
 
 ## Dates
