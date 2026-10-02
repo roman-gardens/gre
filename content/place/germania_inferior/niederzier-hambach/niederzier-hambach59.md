@@ -7,7 +7,7 @@ author: Maureen Carroll
 contributor: David Ratzan, Jane Millar, Keith Jenkins
 date: 2021-04-21
 
-draft: true
+draft: false
 ---
 
 ## Dates
@@ -25,6 +25,7 @@ The farmyard was enclosed by a hedge (dotted lines on plan) and took up an area 
 ## Plans
 
 {{< image file="niederzier_hambach59_plan1_EUR_GI_Nie_RvH59_carroll.jpg" caption="Plan 1. Plan of the farm with hedges (dotted lines) and fences (solid lines) enclosing orchards, fields and the farmyard with its house (A)." credit="Plan adapted from Gaitzsch 1990, fig. on p. 238." alt="" >}}
+<!--No color block for garden -->
 
 <!-- ## Images -->
 
