@@ -6,9 +6,8 @@ latlon: [ 36.2585589217, 29.9854502009 ]
 author: John Bodel
 translator: Translator Name
 contributor: Amelia Lamis
-date: 2026-05-07
-
-draft: true
+date: 2026-10-01
+draft: false
 ---
 
 ## Dates
