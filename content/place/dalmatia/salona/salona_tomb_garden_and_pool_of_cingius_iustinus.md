@@ -5,9 +5,9 @@ title: Tomb Garden and Pool of Cingius Iustinus
 latlon: [ 43.539561, 16.483426 ]
 author: John Bodel
 contributor: Christian Casey, Keith Jenkins
-date: 2020-07-14
+date: 2026-10-01
 
-draft: true
+draft: false
 ---
 
 ## Dates

@@ -5,16 +5,17 @@ title: House in Insula 13 in Aventicum
 latlon: [ 46.88008, 7.040710 ]
 author: Maureen Carroll
 contributor: June Dorsch
-date: 2021-04-21
+date: 2026-10-01
 
-draft: true
+draft: false
 ---
 
 ## Dates
 
-Houses: Late 1st century - Middle of 3rd century
+Late 1st century to middle of 3rd century CE
+<!-- Dates for houses-->
 
-## Location
+<!-- ## Location
 
 - [Aventicum]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="177495" name="Aventicum" >}}
@@ -22,9 +23,11 @@ Houses: Late 1st century - Middle of 3rd century
 ## Location Description
 
 The town was established in the Augustan period as the civitas capital of the Helvetii. At this time the orthogonal street grid was laid out. Most probably in CE 71, it became Colonia Pia Flavia Constans Emerita Helvetiorum Foederata. The town was destroyed or badly damaged around CE 260, and it was progressively abandoned thereafter.
-## Garden
+-->
+<!-- ## Garden
 
 House in Insula 13 in Aventicum
+REDUNDANT - in garden description -->
 
 ## Garden Description
 
@@ -37,6 +40,7 @@ The most remarkable feature of the building was a T-shaped garden courtyard (G i
 ## Plans
 
 {{< image file="EUR_GS_AugRau_Hi13_carroll.jpg" caption="Fig. 1: Plan of a courtyard house in Insula 13 with a peristyle garden (G) and pool (grey)." credit="Plan adapted from Carroll 2001, fig. 20." alt="" >}}
+<!-- TO DO No color block for garden -->
 
 <!-- ## Images -->
 

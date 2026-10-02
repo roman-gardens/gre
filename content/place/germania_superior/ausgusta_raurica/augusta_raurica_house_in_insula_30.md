@@ -5,16 +5,17 @@ title: House in Insula 30 in Augusta Raurica
 latlon: [ 47.533241, 7.722118 ]
 author: Maureen Carroll
 contributor: June Dorsch
-date: 2021-04-21
+date: 2026-10-01
 
-draft: true
+draft: false
 ---
 
 ## Dates
 
-Insula: 200 CE
+200 CE
+<!-- Insula dates -->
 
-## Location
+<!-- ## Location
 
 - [Augusta Raurica]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="177494" name="Augusta Raurica" >}}
@@ -22,13 +23,11 @@ Insula: 200 CE
 ## Location Description
 
 The town on the Rhine River possessed colonial status since the late 1st century BCE. The street grid, as well as many public and residential buildings, are well known from excavations.
-## Garden
-
-House in Insula 30 in Augusta Raurica
+-->
 
 ## Garden Description
 
-Insula 30, east of the central baths, was taken up by a single house built around 200 CE. This replaced several earlier structures on the site. The insula, including the street colonnades, had an overall area of ca. 48 x 60 meters.
+Insula 30 in Augusta Raurica, east of the central baths, was taken up by a single house built around 200 CE. This house replaced several earlier structures on the site. The insula, including the street colonnades, had an overall area of ca. 48 x 60 meters.
 
 The house had a peristyle courtyard of rectangular shape which was surrounded on three sides by a low wall supporting stone columns. The courtyard was unpaved and almost certainly planted (G in Fig. 1). Entering the house from the east, one passed through a vestibule before arriving in the peristyle corridor around the courtyard. The courtyard wall, enclosing an area 14 x 23.50 meters in size, was fronted by a water channel. There was a well in the north. From the triclinium to the west of the courtyard, one had a view directly into the courtyard.
 
@@ -37,6 +36,7 @@ The house had a peristyle courtyard of rectangular shape which was surrounded on
 ## Plans
 
 {{< image file="EUR_GS_AugRau_Hi30_carroll.jpg" caption="Fig. 1: Plan of a house in Insula 30 with a garden courtyard (G)." credit="Plan adapted from Laur-Belart 1988, fig. 126." alt="" >}}
+<!-- TO DO No color block for garden>
 
 <!-- ## Images -->
 

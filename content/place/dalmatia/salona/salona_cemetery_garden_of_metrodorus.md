@@ -7,7 +7,7 @@ author: John Bodel
 contributor: Christian Casey, Keith Jenkins
 date: 2020-07-15
 
-draft: true
+draft: false
 ---
 
 ## Dates
