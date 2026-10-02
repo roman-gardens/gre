@@ -6,9 +6,8 @@ latlon: [ 38.738228, -6.99544 ]
 author: Clopper Almon
 contributor: Xingjian Wang, Amelia Lamis
 jashemski-catalogue: LUS 3.1
-date: 2021-04-21
-
-draft: true
+date: 2026-10-01
+draft: false
 ---
 
 ## Dates

@@ -6,9 +6,8 @@ latlon: [ 42.13342, 3.1145495 ]
 author: Author Name
 contributor: Qianli Jiang, Amelia Lamis
 jashemski-catalogue: TAR 1.6 R1
-date: 2021-04-21
-
-draft: true
+date: 2026-10-01
+draft: false
 ---
 
 ## Dates

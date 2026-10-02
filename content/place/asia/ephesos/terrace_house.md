@@ -5,9 +5,8 @@ title: Terrace House 2
 latlon: [ 37.944523, 27.351764 ]
 author: Kathryn Gleason
 contributor: Shamika Ghate, Amelia Lamis
-date: 2026-06-30
-
-draft: true
+date: 2026-10-01
+draft: false
 ---
 
 ## Dates

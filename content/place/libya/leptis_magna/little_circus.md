@@ -6,9 +6,8 @@ latlon: [32.709405, 14.177938]
 author: Salza Prina Ricotti
 translator: Translator Name
 contributor: Amelia Lamis
-date: 2026-05-07
-
-draft: true
+date: 2026-10-01
+draft: false
 ---
 <!--TODO: Insert Fig. 1. (plan) and Fig. 2. (drawing) from doc-->
 

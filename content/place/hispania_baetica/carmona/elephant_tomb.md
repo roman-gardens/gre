@@ -6,9 +6,8 @@ latlon: [ 37.468785, -5.65132 ]
 author: Eugenia Salza Prina Ricotti
 contributor: Lai Ching Tsui, Amelia Lamis
 jashemski-catalogue: 
-date: 2021-04-21
-
-draft: true
+date: 2026-10-01
+draft: false
 ---
 
 <!--this garden is not on the Hispania Baetica doc-->

@@ -4,7 +4,7 @@ type: place
 title: Halicarnassus
 author: Author Name
 contributor: Amelia Lamis
-date: 2026-07-09
+date: 2026-10-01
 draft: false
 ---
 

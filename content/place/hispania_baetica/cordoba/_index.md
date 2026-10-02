@@ -4,8 +4,7 @@ type: place
 title: Cordoba
 author: Author Name
 contributor: Contributor Name
-date: 2026-06-03
-
+date: 2026-10-01
 draft: false
 ---
 

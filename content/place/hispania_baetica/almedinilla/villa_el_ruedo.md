@@ -6,9 +6,8 @@ latlon: [ 37.443110, -4.089429 ]
 author: Clopper Almon, D. Vaquerizo
 contributor: Lai Ching Tsui, Amelia Lamis
 jashemski-catalogue: BAE 2.1
-date: 2021-04-21
-
-draft: true
+date: 2026-10-01
+draft: false
 ---
 
 ## Dates

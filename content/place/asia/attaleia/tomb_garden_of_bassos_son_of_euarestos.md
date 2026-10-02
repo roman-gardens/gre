@@ -5,9 +5,8 @@ title: Tomb Garden of Bassos son of Euarestos
 latlon: [ 39.071402, 27.891043 ]
 author: John Bodel
 contributor: Shamika Ghate, Amelia Lamis
-date: 2026-06-29
-
-draft: true
+date: 2026-10-01
+draft: false
 ---
 
 ## Dates

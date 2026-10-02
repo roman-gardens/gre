@@ -5,8 +5,8 @@ title: Tomb Garden of Cicero Thabudeiensis
 latlon: [ 35.48889, 6.46972 ]
 author: John Bodel
 contributor: Amelia Lamis
-date: 2026-05-07
-draft: true
+date: 2026-10-01
+draft: false
 ---
 
 ## Dates

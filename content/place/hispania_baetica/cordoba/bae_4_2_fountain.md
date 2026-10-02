@@ -7,8 +7,8 @@ author: Author Name
 translator: Translator Name
 contributor: Keith Jenkins
 jashemski-catalogue: BAE 4.2
-date: 2026-06-03
-draft: true
+date: 2026-10-01
+draft: false
 ---
 
 ## Dates

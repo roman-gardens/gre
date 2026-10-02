@@ -2,14 +2,16 @@
 slug: "a344820c6d"
 type: garden
 title: Funerary grove of T. Aemilius Vetus
-latlon: [37.200,4.650]
+latlon: [ 38.609385, -3.875528 ]
 author: John Bodel
 contributor: Qianli Jiang, Amelia Lamis
 jashemski-catalogue: TAR 20.1
-date: 2021-04-21
-
+date: 2026-10-01
 draft: true
 ---
+
+<!-- TODO: Keeping as draft for now, due to location confusion
+  See nearly identical garden in hispania_baetica/alameda KGJ-->
 
 ## Dates
 

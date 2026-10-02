@@ -5,9 +5,8 @@ title: House on the rue de la Harpe (Domus rue de la Harpe)
 latlon: [ 49.022812, 1.151169 ]
 author: Maureen Carroll
 contributor: Yvette Pollack, Amelia Lamis
-date: 2021-04-21
-
-draft: true
+date: 2026-10-01
+draft: false
 ---
 
 ## Dates

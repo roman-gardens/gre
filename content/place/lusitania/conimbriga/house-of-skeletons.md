@@ -6,9 +6,8 @@ latlon: [ 40.099, -8.4933 ]
 author: Jorge de Alarcão
 contributor: Xingjian Wang, Victoria Austen, Amelia Lamis
 jashemski-catalogue: LUS 6.4
-date: 2021-04-21
-
-draft: true
+date: 2026-10-01
+draft: false
 ---
 
 ## Dates

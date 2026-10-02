@@ -4,8 +4,8 @@ type: place
 title: Pisidia
 author: Catherine Kearns
 contributor: Keith Jenkins, Amelia Lamis
-date: 2026-05-07
-draft: true
+date: 2026-10-01
+draft: false
 ---
 
 <!-- ## Dates -->

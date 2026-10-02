@@ -2,13 +2,11 @@
 slug: "d67532e9dd"
 type: garden
 title: Tomb Garden Of Athenais
-latlon: [ 37.5, 32.5 ]
+latlon: [ 38.3574,34.4287 ]
 author: John Bodel
-translator: Translator Name
 contributor: Amelia Lamis
-date: 2026-05-07
-
-draft: true
+date: 2026-10-01
+draft: false
 ---
 
 ## Dates
@@ -50,7 +48,6 @@ A gravestone <!--[(SEG 12:510)](https://inscriptions.packhum.org/text/287326?hs=
 
 <!--
 ## Places
-places containing this garden will be listed automatically
-- {{< id vocab="Pleiades" id="" name="" >}}
-- {{< id vocab="TGN" id="" name="" >}}
+
+Perhaps https://www.trismegistos.org/place/63380
 -->

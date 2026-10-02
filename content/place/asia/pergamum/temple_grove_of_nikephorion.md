@@ -5,9 +5,8 @@ title: Temple Grove of Nikephorion
 latlon: [ 39.1325, 27.184167 ]
 author: Maureen Carroll, Kathryn Gleason
 contributor: Annette Guan, Amelia Lamis
-date: 2021-04-21
-
-draft: true
+date: 2026-10-01
+draft: false
 ---
 
 ## Dates

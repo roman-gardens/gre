@@ -6,9 +6,8 @@ latlon: [ 36.0912994186, 28.0882984729 ]
 author: Maureen Carroll
 translator: Translator Name
 contributor: Chiara Romano, Amelia Lamis
-date: 2026-05-07
-
-draft: true
+date: 2026-10-01
+draft: false
 ---
 
 ## Dates

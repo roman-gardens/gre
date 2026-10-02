@@ -5,9 +5,8 @@ title: Sainte-Marguerite-sur-Mer Roman Villa
 latlon: [ 49.9081, 0.9481]
 author: Maureen Carroll
 contributor: Yvette Pollack, Amelia Lamis
-date: 2021-04-21
-
-draft: true
+date: 2026-10-01
+draft: false
 ---
 
 ## Dates

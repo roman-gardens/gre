@@ -5,9 +5,8 @@ title: Tomb Garden of Anonymous 1
 latlon: [ 38.030473, 27.441238 ]
 author: John Bodel
 contributor: Shamika Ghate, Amelia Lamis
-date: 2026-06-29
-
-draft: true
+date: 2026-10-01
+draft: false
 ---
 
 ## Dates

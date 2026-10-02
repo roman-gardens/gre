@@ -6,9 +6,8 @@ latlon: [ 38.9199990642, 27.8362090649 ]
 author: Author Name
 translator: Translator Name
 contributor: Amelia Lamis
-date: 2026-05-07
-
-draft: true
+date: 2026-10-01
+draft: false
 ---
 
 ## Dates

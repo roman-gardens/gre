@@ -264,7 +264,7 @@
 
             if (bounds.isValid()) {
                 // instantly zoom to the current points
-                map.fitBounds(bounds.pad(0.05), {animate:false});
+                map.fitBounds(bounds.pad(0.1), {animate:false});
                 // don't automatically zoom beyond 17 (single points would otherwise be 19)
                 if (map.getZoom() > 17) {
                     map.setZoom(17, {animate:false});

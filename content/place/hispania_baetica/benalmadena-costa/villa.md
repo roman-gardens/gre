@@ -6,9 +6,8 @@ latlon: [36.5882649703, -4.53090385246]
 author: Author Name
 contributor: Lai Ching Tsui, Amelia Lamis
 jashemski-catalogue: BAE 6.1
-date: 2021-04-21
-
-draft: true
+date: 2026-10-01
+draft: false
 ---
 
 <!-- "Iberia Clopper.doc" omits the BAE 6.1, but this appears to be an oversight -->

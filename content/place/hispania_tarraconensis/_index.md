@@ -4,8 +4,8 @@ type: place
 title: Hispania Tarraconensis
 author: Margareta Orfia, J. M. Alvarez Martinez, Trinidad Nogales Basarrate, Clopper Almon
 contributor: Keith Jenkins, Amelia Lamis
-date: 2026-06-01
-draft: true
+date: 2026-10-01
+draft: false
 ---
 
 <!-- ## Dates -->

@@ -6,9 +6,8 @@ latlon: [ 38.223820, -7.845952 ]
 author: Author Name
 contributor: Xingjian Wang, Keith Jenkins, Amelia Lamis
 jashemski-catalogue: LUS 7.1
-date: 2021-04-21
-
-draft: true
+date: 2026-10-01
+draft: false
 ---
 
 ## Dates

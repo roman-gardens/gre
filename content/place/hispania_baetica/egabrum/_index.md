@@ -4,7 +4,7 @@ type: place
 title: Egabrum
 author: Author Name
 contributor: Keith Jenkins
-date: 2025-07-15
+date: 2026-10-01
 draft: false
 ---
 

@@ -6,9 +6,8 @@ latlon: [36.0897805874, -5.7745551439]
 author: Author Name
 contributor: Lai Ching Tsui, Amelia Lamis
 jashemski-catalogue: BAE 7.1
-date: 2021-04-21
-
-draft: true
+date: 2026-10-01
+draft: false
 ---
 
 ## Dates

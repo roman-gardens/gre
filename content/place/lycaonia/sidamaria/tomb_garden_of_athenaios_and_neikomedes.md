@@ -5,9 +5,8 @@ title: Tomb Garden of Athenaios and Neikomedes
 latlon: [ 37.450686, 33.600575 ]
 author: John Bodel
 contributor: Keith Jenkins, Amelia Lamis
-date: 2026-05-07
-
-draft: true
+date: 2026-10-01
+draft: false
 ---
 
 ## Dates

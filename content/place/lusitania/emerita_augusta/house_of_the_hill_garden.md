@@ -6,9 +6,8 @@ latlon: [ 38.917216, -6.341213 ]
 author:
 contributor: Yiyun Liu
 jashemski-catalogue: LUS 1.6
-date: 2021-04-21
-
-draft: true
+date: 2026-10-01
+draft: false
 ---
 
 ## Dates

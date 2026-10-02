@@ -4,8 +4,7 @@ type: place
 title: Leptis Magna
 author: Author Name
 contributor: Amelia Lamis
-date: 2026-05-07
-
+date: 2026-10-01
 draft: false
 ---
 <!--TODO: Author Name?-->

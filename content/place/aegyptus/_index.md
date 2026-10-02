@@ -4,11 +4,9 @@ type: place
 title: Aegyptus
 author: Roger Bagnall
 contributor: Keith Jenkins, Amelia Lamis
-date: 2026-05-06
-draft: true
+date: 2026-10-01
+draft: false
 ---
-
-<!-- ## Dates -->
 
 ## Province Description
 
