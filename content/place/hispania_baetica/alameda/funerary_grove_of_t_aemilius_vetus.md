@@ -2,13 +2,16 @@
 slug: "5f7b056781"
 type: garden
 title: Funerary Grove of T. Aemilius Vetus
-latlon: [ 0, 0 ]
+latlon: [ 37.20784, -4.658062 ]
 author: John Bodel
 contributor: Lai Ching Tsui, Amelia Lamis
 jashemski-catalogue: 
 date: 2026-10-01
-draft: false
+draft: true
 ---
+
+<!-- TODO: Keeping as draft for now, due to location confusion
+ See nearly identical garden in hispania_tarraconensis/la_alameda KGJ -->
 
 ## Dates
 

@@ -6,9 +6,8 @@ latlon: [ 39.678125, -0.277247 ]
 author: John Bodel
 contributor: Xingjian Wang, Amelia Lamis
 jashemski-catalogue: TAR 18.1
-date: 2021-04-21
-
-draft: true
+date: 2026-10-01
+draft: false
 ---
 
 ## Dates

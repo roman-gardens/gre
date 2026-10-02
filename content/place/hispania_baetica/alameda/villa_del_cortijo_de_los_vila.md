@@ -2,7 +2,7 @@
 slug: "d641fc022c"
 type: garden
 title: Villa del Cortijo de los Vila
-latlon: [ 37.216462, -4.657951 ]
+latlon: [ 37.215376, -4.658212 ]
 author: Author Name
 contributor: Lai Ching Tsui, Amelia Lamis
 jashemski-catalogue: BAE 5.1

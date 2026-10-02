@@ -6,9 +6,8 @@ latlon: [ 39.832594, -0.145780 ]
 author: Author Name
 contributor: Xingjian Wang, Amelia Lamis
 jashemski-catalogue: TAR 17.1
-date: 2021-04-21
-
-draft: true
+date: 2026-10-01
+draft: false
 ---
 
 ## Dates 
