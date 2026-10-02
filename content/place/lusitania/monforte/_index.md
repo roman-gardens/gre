@@ -4,8 +4,7 @@ type: place
 title: Monforte
 author: Author Name
 contributor: Contributor Name
-date: 2026-05-13
-
+date: 2026-10-01
 draft: false
 ---
 
