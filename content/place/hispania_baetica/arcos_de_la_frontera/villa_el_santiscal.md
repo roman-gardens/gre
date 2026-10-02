@@ -6,9 +6,8 @@ latlon: [ 36.765569, -5.771836 ]
 author: Marguerita Orfila, N. Doenges
 contributor: Lai Ching Tsui, Amelia Lamis
 jashemski-catalogue: BAE 8.1
-date: 2021-04-21
-
-draft: true
+date: 2026-10-01
+draft: false
 ---
 
 ## Dates

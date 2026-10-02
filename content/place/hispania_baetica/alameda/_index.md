@@ -4,8 +4,7 @@ type: place
 title: Alameda
 author: Author Name
 contributor: Amelia Lamis, Keith Jenkins
-date: 2025-07-15
-
+date: 2026-10-01
 draft: false
 ---
 
