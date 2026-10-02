@@ -14,14 +14,12 @@ draft: true
 
 2nd century
 
-## Location
+<!--## Location
 
 - [Oberentfelden]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="177596" name="Oberentfelden" >}}
 
-## Garden
-
-Rural Villa in Oberentfelden
+-->
 
 ## Garden Description
 
@@ -32,6 +30,7 @@ The enclosed area of this villa rustica was 160 meters wide and at least 460 met
 ## Plans
 
 {{< image file="EUR_GS_Obe_Rv_carroll.jpg" caption="Fig. 1: Plan of the rural villa (A) with a bath (B), a nymphaeum (D) and various outbuildings and houses (C)." credit="Plan adapted from Drack and Fellmann 1988, fig. 418." alt="" >}}
+<!-- TO DO No color block for garden -->
 
 <!-- ## Images -->
 
