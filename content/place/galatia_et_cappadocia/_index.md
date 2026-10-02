@@ -4,11 +4,9 @@ type: place
 title: Galatia et Cappadocia
 author: Catherine Kearns
 contributor: Amelia Lamis
-date: 2026-05-07
-draft: true
+date: 2026-10-01
+draft: false
 ---
-
-<!-- ## Dates -->
 
 ## Province Description
 

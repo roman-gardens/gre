@@ -4,8 +4,7 @@ type: place
 title: Nanzianus
 author: Author Name
 contributor: Contributor Name
-date: 2026-05-07
-
+date: 2026-10-01
 draft: false
 ---
 
@@ -41,5 +40,9 @@ draft: false
 <!--
 ## Places
 - {{< id vocab="Pleiades" id="" name="" >}}
-- {{< id vocab="TGN" id="" name="" >}}
+
+Is this the same as Nandianulus/Nazianzos?
+https://pleiades.stoa.org/places/619218
 -->
+
+
