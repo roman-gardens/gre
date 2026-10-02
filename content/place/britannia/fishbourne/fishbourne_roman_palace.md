@@ -65,4 +65,6 @@ Limited excavations to the south of the palace revealed an artificial terrace wh
 - {{< keyword "terrace gardens" >}}
 - {{< keyword "vegetable gardens" >}}
 
-<!-- ## Places -->
+## Places
+
+- {{< id vocab="TGN" id="7032567" name="Fishbourne Roman Palace (historic site)" >}}

@@ -38,8 +38,7 @@ draft: false
 - {{< keyword "Example keyword" >}}
 -->
 
-<!--
 ## Places
-- {{< id vocab="Pleiades" id="" name="" >}}
-- {{< id vocab="TGN" id="" name="" >}}
--->
+
+- {{< id vocab="Pleiades" id="570467" name="Megalopolis" >}}
+- {{< id vocab="TGN" id="7010920" name="Megalopolis (deserted settlement)" >}}

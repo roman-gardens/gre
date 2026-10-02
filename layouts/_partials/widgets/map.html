@@ -140,37 +140,68 @@
                 osm_hi.addTo(map);
             {{ end }}
 
-            {{ if or (eq hugo.Environment "development") (strings.Contains .Site.BaseURL "test-drafts") }}
-                // Build list of provinces (top-level places)
-                let provinceNames = [
-                    {{ range sort ( .Site.GetPage "place" ).Pages "Title" "asc" }}
-                        "{{ .Title }}",
-                    {{ end }}
-                ]
+            // Build a list of places with counts of published and draft gardens
+            let places = {
+                {{ range where .Site.Pages "Type" "place" }}
+                    {{ $pub := len (where .RegularPagesRecursive "Draft" false) }}
+                    {{ $draft := len (where .RegularPagesRecursive "Draft" true) }}
+                    {{ if gt (add $pub $draft) 0 }}
+                    "{{ .Title }}" : { pub:{{ $pub }}, draft:{{ $draft }} },
+                    {{ end }} 
+                {{ end }}
+            }
 
-                // Add Roman Provinces
-                let provinces = L.geoJSON(provinceGeoJSON, {
-                    style: {
-                        color: '#c22d30',
-                        weight: 1.7,
-                        opacity: 1,
-                        //fillColor: '#c22d30',
-                        fillOpacity: 0
+            // Add Roman Provinces
+            let provinces = L.geoJSON(provinceGeoJSON, {
+                style: {
+                    color: '#c22d30',
+                    weight: 1.7,
+                    opacity: function(){(9 - map.getZoom()) / 9},
+                    //fillColor: '#c22d30',
+                    fillOpacity: 0
+                }
+            }).bindPopup(function (layer) {
+                let p = layer.feature.properties
+                let html = `<b>${p.name}</b><br>`
+                if (p.id && places[p.name]) {
+                    let base = {{ site.BaseURL }}
+                    let url = base + 'id/' + p.id
+                    html += `<a href='${url}'>view gardens (${places[p.name].pub})`
+                    if (places[p.name].draft) {
+                        html += `<br>and drafts (${places[p.name].draft})`
                     }
-                }).bindPopup(function (layer) {
-                    let p = layer.feature.properties
-                    if (p.id && provinceNames.includes(p.name)) {
-                        let base = {{ site.BaseURL }}
-                        let url = base + 'id/' + p.id
-                        return `<a class='smallcrumbs' href='${url}'>${p.name}</a>`
-                    } else {
-                        return `<b>${p.name}</b><br>(No gardens have been published)`
-                    }
-                }).on('click', (event) => {
-                    captureCoords(event)
+                    html += `</a>`
+                } else {
+                    html += `<span class='smallcrumbs'>No gardens have been published yet</span>`
+                }
+                return html
+            }).on('click', (event) => {
+                captureCoords(event)
+            }).on('popupopen', (event) => {
+                // highlight the clicked polygon when the popup opens
+                event.layer.setStyle({
+                    fillOpacity: 0.5
                 })
-                provinces.addTo(map);
-            {{ end }}
+            }).on('popupclose', (event) => {
+                // turn off highlight when popup is closed
+                event.layer.setStyle({
+                    fillOpacity: 0
+                })
+            })
+            
+            provinces.addTo(map);
+
+            // hide province layer if zoomed in
+            map.on('zoomend', (event) => {
+                let z = map.getZoom()
+                // fade out by zoom level 9
+                let opacity = (9-z)/7
+                provinces.eachLayer((f) => {
+                    f.setStyle({
+                        opacity: opacity
+                    })
+                })
+            })
 
             // Add marker for each garden relevant to the current page
             markers = [];
@@ -233,7 +264,7 @@
 
             if (bounds.isValid()) {
                 // instantly zoom to the current points
-                map.fitBounds(bounds.pad(0.05), {animate:false});
+                map.fitBounds(bounds.pad(0.1), {animate:false});
                 // don't automatically zoom beyond 17 (single points would otherwise be 19)
                 if (map.getZoom() > 17) {
                     map.setZoom(17, {animate:false});

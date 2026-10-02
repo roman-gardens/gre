@@ -42,4 +42,3 @@ On the western edge of the Athenian Agora on Kolonos hill was the [Temple of Hep
 ## Places
 
 - {{< id vocab="Pleiades" id="558659669" name="Hephaisteion" >}}
-- {{< id vocab="TGN" id="5004159" name="Agorá (ancient site)" >}}

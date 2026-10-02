@@ -4,8 +4,7 @@ type: place
 title: Barcino
 author: Author Name
 contributor: Contributor Name
-date: 2026-05-16
-
+date: 2026-10-01
 draft: false
 ---
 

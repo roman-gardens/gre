@@ -38,8 +38,7 @@ draft: false
 - {{< keyword "Example keyword" >}}
 -->
 
-<!--
 ## Places
-- {{< id vocab="Pleiades" id="" name="" >}}
-- {{< id vocab="TGN" id="" name="" >}}
--->
+
+- {{< id vocab="Pleiades" id="570182" name="Corinthus/Korinthos" >}}
+- {{< id vocab="TGN" id="7010734" name="Corinth (inhabited place)" >}}

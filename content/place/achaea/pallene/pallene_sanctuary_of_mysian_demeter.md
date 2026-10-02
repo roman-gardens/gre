@@ -33,7 +33,4 @@ Pausanias described a grove of all kinds of trees with a natural spring sacred t
 - {{< keyword "sacred groves" >}}
 - {{< keyword "springs" >}}
 
-## Places
-
-- {{< id vocab="Pleiades" id="580051" name="Pallene" >}}
-- {{< id vocab="TGN" id="7002739" name="Argolís (regional division)" >}}
+<!-- ## Places -->

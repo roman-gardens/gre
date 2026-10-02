@@ -35,4 +35,3 @@ Pausanias gave directions on how to reach the grove called Pyraia, located near 
 ## Places
 
 - {{< id vocab="Pleiades" id="570668" name="Sicyon/Demetrias" >}}
-- {{< id vocab="TGN" id="7002741" name="Corinth (regional division)" >}}

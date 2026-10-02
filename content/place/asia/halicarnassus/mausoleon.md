@@ -6,9 +6,8 @@ latlon: [ 37.0378291499, 27.4241564117 ]
 author: Kathryn Gleason
 translator: Translator Name
 contributor: Amelia Lamis
-date: 2026-05-07
-
-draft: true
+date: 2026-10-01
+draft: false
 ---
 
 ## Dates

@@ -6,9 +6,8 @@ latlon: [26.5648875, 31.7451755]
 author: Roger Bagnall
 translator: Translator Name
 contributor: Amelia Lamis
-date: 2026-05-07
-
-draft: true
+date: 2026-10-01
+draft: false
 ---
 
 ## Dates

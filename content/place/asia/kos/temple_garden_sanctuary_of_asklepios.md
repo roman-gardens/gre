@@ -5,8 +5,8 @@ title: Temple Garden, Sanctuary of Asklepios
 latlon: [ 36.8757418771, 27.2573730442 ]
 author: Maureen Carroll
 contributor: Annette Guan, Amelia Lamis
-date: 2021-04-21
-draft: true
+date: 2026-10-01
+draft: false
 ---
 
 ## Dates

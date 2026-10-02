@@ -34,7 +34,4 @@ According to Pausanias, the ancient city of Onchestos in Boeotia lay in ruins by
 - {{< keyword "shrines" >}}
 - {{< keyword "statues" >}}
 
-## Places
-
-- {{< id vocab="Pleiades" id="540984" name="Onchestos" >}}
-- {{< id vocab="TGN" id="7002683" name="Boeotia (regional division)" >}}
+<!-- ## Places -->

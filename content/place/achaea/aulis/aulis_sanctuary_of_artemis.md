@@ -34,7 +34,4 @@ The Greeks in Homer's *Iliad* sacrificed to Artemis at Aulis in Boeotia in the h
 - [Pausanias](https://catalog.perseus.org/catalog/urn:cite:perseus:author.1054)
 - {{< keyword "statues" >}}
 
-## Places
-
-- {{< id vocab="Pleiades" id="579889" name="Aulis" >}}
-- {{< id vocab="TGN" id="5004252" name="Avlida (inhabited place)" >}}
+<!-- ## Places -->

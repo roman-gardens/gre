@@ -69,8 +69,4 @@ This small garden was located at the rear of the house and featured a [portico](
 - {{< keyword "porticoes" >}}
 - {{< keyword "storerooms" >}}
 
-## Garden
-
-House of L. Ceius Secundus; House of the Ceii; of Queen Elena; of Fabia and Tyrannus.
-
 <!-- Places -->

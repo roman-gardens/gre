@@ -5,9 +5,8 @@ title: Tomb Garden and Orchard of Aphrodisios and Flavia
 latlon: [ 37.941944, 27.339722 ]
 author: John Bodel
 contributor: Shamika Ghate, Amelia Lamis
-date: 2021-04-21
-
-draft: true
+date: 2026-10-01
+draft: false
 ---
 
 ## Dates

@@ -4,8 +4,7 @@ type: place
 title: Palencia
 author: Author Name
 contributor: Amelia Lamis
-date: 2026-05-16
-
+date: 2026-10-01
 draft: false
 ---
 

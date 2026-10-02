@@ -6,9 +6,8 @@ latlon: [41.556111, 0.318611]
 author:
 contributor: Qianli Jiang, Amelia Lamis
 jashemski-catalogue: TAR 6.1
-date: 2021-04-21
-
-draft: true
+date: 2026-10-01
+draft: false
 ---
 
 <!--TODO: check latlong (doc:These coordinates differ from those given by Gorges to be consistent with descriptions and maps showing the location of the villa) -->

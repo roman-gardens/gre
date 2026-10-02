@@ -15,17 +15,9 @@ draft: false
 
 1754 to 1757, 1952
 
-## House
-
-<!-- invalid
-- {{< id vocab="Pleiades" id="998787235" name="II.iii.4-6" >}}
--->
-
-## Garden
-
-Small domestic property with a garden to the rear.
-
 ## Garden Description
+
+<!-- TODO: split into 2 pages -->
 
 A. A small garden at the rear of this connected house and [caupona](http://vocab.getty.edu/page/aat/300005208) may have originally contained the two small statuettes found at this site in 1953. The two pieces were a headless ithyphallic tufa statuette (0.33 m. high with base; Pompeii inv. no. 10017) and a marble statuette of Venus (0.51 m. high without base; Pompeii inv. no. 9926) with much of the red color preserved in the drapery. The inventory books list this house as II.vi.4.
 
@@ -48,4 +40,3 @@ B. The small garden to the rear of house 4 had an entrance into this large open 
 ## Places
 
 <!-- {{< id vocab="Pleiades" id="998787235" name="998787235" >}} is invalid -->
-

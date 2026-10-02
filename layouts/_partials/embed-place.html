@@ -4,8 +4,8 @@
 {{ $content := .Content }}
 {{ range .Ancestors }}
     {{ $placedesc := partial "html-section.html" ( dict "html" .Content "header" "(Province|Place) Description" ) }}
-    {{/* Only embed the description if it really contains text */}}
-    {{ if gt ($placedesc | len) 2 }}
+    {{/* DON'T EMBED FOR NOW....   Only embed the description if it really contains text */}}
+    {{ if 0 }} {{/* gt ($placedesc | len) 2 */}}
         {{ $dev := "" }}
         {{ if eq hugo.Environment "development" }}
             {{ $dev = print ` <span class='dev'>from ` .Title ` page</span></h2>` }}

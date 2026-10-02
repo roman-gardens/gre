@@ -5,8 +5,7 @@ title: La Villa des Rouaux
 latlon: [ 49.118135, 6.174155 ]
 author: Marc Feller
 contributor: Yvette Pollack, Amelia Lamis
-date: 2021-04-21
-
+date: 2026-09-28
 draft: false
 ---
 

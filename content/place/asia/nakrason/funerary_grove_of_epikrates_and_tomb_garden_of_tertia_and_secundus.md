@@ -5,9 +5,8 @@ title: Funerary Grove of Epikrates and Tomb Garden of Tertia and Secundus
 latlon: [ 39.0823041333, 27.7403034667 ]
 author: John Bodel
 contributor: Annette Guan, Amelia Lamis
-date: 2021-04-21
-
-draft: true
+date: 2026-10-01
+draft: false
 ---
 
 ## Dates

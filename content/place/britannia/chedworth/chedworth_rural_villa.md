@@ -48,4 +48,6 @@ Parts of the villa may date to the early 3rd century CE at the latest, but exten
 - {{< keyword "sherds" >}}
 - {{< keyword "villae rusticae" >}}
 
-<!-- ## Places -->
+## Places
+
+- {{< id vocab="TGN" id="7032560" name="Chedworth Roman Villa (historic site)" >}}

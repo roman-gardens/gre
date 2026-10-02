@@ -45,5 +45,3 @@ In the center of the building was a large open peristyle courtyard with a long p
 ## Places
 
 - {{< id vocab="Pleiades" id="728329644" name="Library of Hadrian at Athens" >}}
-- {{< id vocab="TGN" id="5004159" name="Agorá (ancient site)" >}}
-

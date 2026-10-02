@@ -44,4 +44,3 @@ Another only partially excavated house of the mid-4th century CE, built into the
 ## Places
 
 - {{< id vocab="Pleiades" id="969121823" name="Areopagus" >}}
-- {{< id vocab="TGN" id="7001393" name="Athens (inhabited place)" >}}

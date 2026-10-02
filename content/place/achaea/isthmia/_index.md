@@ -38,8 +38,7 @@ draft: false
 - {{< keyword "Example keyword" >}}
 -->
 
-<!--
 ## Places
-- {{< id vocab="Pleiades" id="" name="" >}}
-- {{< id vocab="TGN" id="" name="" >}}
--->
+
+- {{< id vocab="Pleiades" id="570316" name="Isthmia" >}}
+- {{< id vocab="TGN" id="5004291" name="Kirás Vrísi (inhabited place)" >}}

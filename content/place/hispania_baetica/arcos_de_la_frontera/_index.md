@@ -4,8 +4,7 @@ type: place
 title: Arcos De La Frontera
 author: Author Name
 contributor: Contributor Name
-date: 2025-07-15
-
+date: 2026-10-01
 draft: false
 ---
 

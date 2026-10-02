@@ -20,10 +20,12 @@ Example usage (in a garden article):
 {{- end -}}
 
 
-{{/* Link the name*/}}
+{{/* Link the name -- DISABLED FOR NOW since the search results have issues */}}
 {{- with $name -}}
-  <a href="{{ site.BaseURL }}search/?q={{ $name }}" title='search for "{{ $name }}" within GRE'>{{ $name }}</a>
+  <!--<a href="{{ site.BaseURL }}search/?q={{ $name }}" title='search for "{{ $name }}" within GRE'>{{ $name }}</a>-->
+  {{ $name }}
 {{- end -}}
+
 
 {{ $url := "" }}
 {{ $vocabname := "" }}

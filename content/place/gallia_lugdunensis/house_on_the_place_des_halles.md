@@ -5,9 +5,8 @@ title: House on the Place des Halles (La maison des Halles)
 latlon: [ 48.007160, 0.198493 ]
 author: Maureen Carroll
 contributor: Yvette Pollack, Amelia Lamis
-date: 2021-04-21
-
-draft: true
+date: 2026-10-01
+draft: false
 ---
 
 ## Dates

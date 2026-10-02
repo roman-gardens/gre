@@ -5,9 +5,8 @@ title: House with Pilasters (Clos du Verbe Incarné)
 latlon: [ 45.758866, 4.819481 ]
 author: Author Name
 contributor: Yvette Pollack, Amelia Lamis
-date: 2021-04-21
-
-draft: true
+date: 2026-10-01
+draft: false
 ---
 
 ## Dates
