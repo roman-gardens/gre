@@ -2,7 +2,7 @@
 slug: "5b1b3c0848"
 type: garden
 title: Neronian Palace
-latlon: [ 41.900013, 12.461381 ]
+latlon: [ 41.889947, 12.489967 ]
 author: Maria Anntonietta Tomei
 contributor: Rhiannon Paré
 date: 2021-05-03
