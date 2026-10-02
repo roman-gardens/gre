@@ -5,23 +5,20 @@ title: Rural Villa in Winkel-Seeb
 latlon: [ 47.493253, 8.548345 ]
 author: Maureen Carroll
 contributor: June Dorsch
-date: 2021-04-21
+date: 2026-10-01
 
-draft: true
+draft: false
 ---
 
 ## Dates
 
 First half of 1st century CE - 250
 
-## Location
+<!-- ## Location
 
 - [Winkel-Seeb]({{<relref ".">}})
 - {{< id vocab="Pleiades" id="177667" name="Winkel-Seeb" >}}
-
-## Garden
-
-Rural Villa in Winkel-Seeb
+-->
 
 ## Garden Description
 
@@ -32,6 +29,7 @@ The residential and service parts of this *villa rustica* occupied an area of ca
 ## Plans
 
 {{< image file="EUR_GS_WinSe_Rv_carroll.jpg" caption="Fig. 1: Plan of the rural villa with porticoes enclosing a possible garden (G) in front of the house." credit="Plan adapted from Drack and Fellmann 1988, fig. 511." alt="" >}}
+<!-- TO DO No color block for garden -->
 
 <!-- ## Images -->
 
