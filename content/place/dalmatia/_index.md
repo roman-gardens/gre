@@ -4,8 +4,8 @@ type: place
 title: Dalmatia
 author: Author Name
 contributor: Contributor Name
-date: 2026-05-15
-draft: true
+date: 2026-10-01
+draft: false
 ---
 
 <!-- ## Dates -->
