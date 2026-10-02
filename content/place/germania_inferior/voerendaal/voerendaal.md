@@ -5,7 +5,7 @@ title: Rural villa at Voerendaal
 latlon: [ 50.883207, 5.918982 ]
 author: Maureen Carroll
 contributor: David Ratzan, Jane Millar, Keith Jenkins
-date: 2021-04-21
+date: 2026-10-01
 
 draft: false
 ---
@@ -25,7 +25,7 @@ In front of the house to the south was a large area (17 x 37 m.), enclosed by a 
 ## Plans
 
 {{< image file="voerendaal_plan1_EUR_GI_Voe_Rv_carroll.jpg" caption="Plan of the rural villa with a possible walled garden (G) and its pool (P) south of the house (A). Hedges (rows of dots) enclosed the farmyard." credit="Adapted from Willems 1992, Fig. 307." alt="" >}}
-<!--No color block for garden -->
+<!-- TO DO No color block for garden -->
 
 ## Images
 

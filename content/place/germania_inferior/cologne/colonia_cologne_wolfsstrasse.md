@@ -5,7 +5,7 @@ title: Urban House on Wolfsstrasse
 latlon: [ 50.940671, 6.959908 ]
 author: Maureen Carroll
 contributor: David Ratzan, Jane Millar
-date: 2021-04-21
+date: 2026-10-01
 
 draft: false
 ---
@@ -25,7 +25,7 @@ The peristyle courtyard was ca. 7 m. wide and 11.30 m. long. Both faces of the w
 ## Plans
 
 {{< image file="cologne_wolfstrasse__plan1_EUR_GI_ColClaAA_Uhw_carroll.jpg" caption="Plan 1: Plan of the partially excavated courtyard house with a possible garden (G) containing a well (W) on Wolfsstraße." credit="Adapted from Carroll-Spillecke 1997, fig. 7." alt="">}}
-<!--No color block for garden -->
+<!-- TO DO No color block for garden -->
 
 <!-- ## Images -->
 

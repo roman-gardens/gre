@@ -5,7 +5,7 @@ title: Urban House on Lungenstrasse
 latlon: [ 50.940671, 6.959908 ]
 author: Maureen Carroll
 contributor: David Ratzan, Jane Millar
-date: 2021-04-21
+date: 2026-10-01
 
 draft: false
 ---
@@ -27,7 +27,7 @@ In the leveled remains of the 1st century house were fragments of painted wall p
 ## Images
 
 {{< image file="cologne_lungenstrasse_image1_EUR_GI_ColClaAA_HL_carroll.jpg" caption="Fragments of garden paintings from the peristyle courtyard house on Lungengasse (Colonia Claudia Ara Agrippinensium)." credit="Photo courtesy of M. Carroll." alt="" >}}
-<!--No color block for garden -->
+<!-- TO DO No color block for garden -->
 
 <!--
 ## Bibliography

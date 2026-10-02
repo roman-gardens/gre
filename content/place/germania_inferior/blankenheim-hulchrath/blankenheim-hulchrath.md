@@ -35,7 +35,7 @@ To the northeast of the house was an open courtyard flanked by outbuildings and 
 ## Plans
 
 {{< image file="blankenheim-hulchrath-plan1-EUR_GI_BlaHul_Rv_carroll.jpg" caption="Plan 1:  Plan of the rural villa (A) with possible gardens (G) in the courtyard adjacent to the house and in the enclosed area southwest of it." credit="Adapted from Horn 1987, fig. 306." alt="">}}
-<!--TO DO No color block for garden -->
+<!-- TO DO No color block for garden -->
 
 <!-- ## Images -->
 

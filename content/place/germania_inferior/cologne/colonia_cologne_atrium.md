@@ -5,7 +5,7 @@ title: Atrium House
 latlon: [ 50.940671, 6.959908 ]
 author: Maureen Carroll
 contributor: David Ratzan, Jane Millar
-date: 2021-04-21
+date: 2026-10-01
 
 draft: false
 ---
@@ -25,7 +25,7 @@ Entering from the colonnaded street at the west, one passed through a room recon
 ## Plans
 
 {{< image file="cologne_atrium_plan1_EUR_GI_ColClaAA_Ah_carroll.jpg" caption="Plan 1: Plan of the Atrium House at Colonia Claudia Ara Agrippinensium with an apsidal pool (P) in its garden courtyard (G)." credit="Adapted from Precht 1971, fig. 2." alt="">}}
-<!--No color block for garden -->
+<!-- TO DO No color block for garden -->
 
 <!-- ## Images -->
 

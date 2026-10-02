@@ -5,7 +5,7 @@ title: Niederzier Hambach 69
 latlon: [ 50.897592, 6.445 ]
 author: Maureen Carroll
 contributor: David Ratzan, Jane Millar, Keith Jenkins
-date: 2021-04-21
+date: 2026-10-01
 
 draft: false
 ---
@@ -25,7 +25,7 @@ To the east of the house was an area marked off by a narrow ditch (B on plan). T
 ## Plans
 
 {{< image file="niederzier-hambach69_plan1_EUR_GI_Nie_RvH_69_carroll.jpg" caption="Plan of the farm house (A) and the farmyard enclosed by a hedge (grey line). A vegetable garden (G) may have lain within another hedge (B)." credit="Adapted from Gaitzsch 1986, fig. 5." alt="" >}}
-<!--No color block for garden -->
+<!-- TO DO No color block for garden -->
 
 <!-- ## Images -->
 
