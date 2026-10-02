@@ -2,12 +2,11 @@
 slug: "84fc60f497"
 type: garden
 title: Ramat Hanadiv
-latlon: [ 32.547145, 34.9361 ]
+latlon: [ 32.543651, 34.935618 ]
 author: Yitzar Hirschfeld
 contributor: Yaniv Korman, Keith Jenkins, Amelia Lamis
-date: 2021-04-21
-
-draft: true
+date: 2026-10-01
+draft: false
 ---
 
 ## Dates
