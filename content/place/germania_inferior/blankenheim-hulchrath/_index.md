@@ -3,9 +3,8 @@ slug: "0536fc27ec"
 type: place
 title: Blankenheim-Hulchrath
 author: Author Name
-contributor: Contributor Name
-date: 2026-05-16
-
+contributor: Keith Jenkins
+date: 2026-10-01
 draft: false
 ---
 
@@ -38,8 +37,7 @@ draft: false
 - {{< keyword "Example keyword" >}}
 -->
 
-<!--
 ## Places
-- {{< id vocab="Pleiades" id="" name="" >}}
-- {{< id vocab="TGN" id="" name="" >}}
--->
+
+- {{< id vocab="Pleiades" id="108810" name="Blankenheim" >}}
+- {{< id vocab="TGN" id="1038549" name="Blankenheim (inhabited place)" >}}

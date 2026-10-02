@@ -3,9 +3,8 @@ slug: "c2098578f2"
 type: place
 title: Bad Kreuznach
 author: Author Name
-contributor: Contributor Name
-date: 2026-05-16
-
+contributor: Keith Jenkins
+date: 2026-10-01
 draft: false
 ---
 
@@ -38,8 +37,7 @@ draft: false
 - {{< keyword "Example keyword" >}}
 -->
 
-<!--
 ## Places
-- {{< id vocab="Pleiades" id="" name="" >}}
-- {{< id vocab="TGN" id="" name="" >}}
--->
+
+- {{< id vocab="Pleiades" id="981525" name="Bad Kreuznach" >}}
+- {{< id vocab="TGN" id="7012371" name="Bad Kreuznach (inhabited place)" >}}

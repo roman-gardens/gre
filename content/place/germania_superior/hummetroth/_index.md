@@ -3,9 +3,8 @@ slug: "c29fb65145"
 type: place
 title: Hummetroth
 author: Author Name
-contributor: Contributor Name
-date: 2026-05-16
-
+contributor: Keith Jenkins
+date: 2026-10-01
 draft: false
 ---
 
@@ -38,8 +37,7 @@ draft: false
 - {{< keyword "Example keyword" >}}
 -->
 
-<!--
 ## Places
-- {{< id vocab="Pleiades" id="" name="" >}}
-- {{< id vocab="TGN" id="" name="" >}}
--->
+
+- {{< id vocab="Pleiades" id="981525" name="Hummetroth" >}}
+- {{< id vocab="TGN" id="7165467" name="Hummetroth (inhabited place)" >}}

@@ -4,7 +4,7 @@ type: place
 title: Germania Superior
 author: Maureen Carroll
 contributor: June Dorsch, Keith Jenkins
-date: 2021-04-21
+date: 2026-10-01
 draft: true
 ---
 

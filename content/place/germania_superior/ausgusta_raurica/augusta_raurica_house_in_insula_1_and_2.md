@@ -6,7 +6,6 @@ latlon: [ 47.533241, 7.722118 ]
 author: Maureen Carroll
 contributor: June Dorsch, Divya Kumar-Dumas
 date: 2026-10-01
-
 draft: false
 ---
 
@@ -15,15 +14,7 @@ draft: false
 150 CE to ca. 170 CE
 <!-- Dates for House -->
 
-<!-- ## Location
-
-- [Augusta Raurica]({{<relref ".">}})
-- {{< id vocab="Pleiades" id="177494" name="Augusta Raurica" >}}
-
-## Location Description
-
-The town on the Rhine River possessed colonial status since the late 1st century BCE. The street grid, as well as many public and residential buildings, are well known from excavations.
--->
+<!-- ## Excavation Dates -->
 
 ## Garden Description
 
@@ -49,15 +40,9 @@ The northern part of the house facing the street included an open terrace which 
 
 ## Keywords
 
-<!-- archaeological garden -->
-
 - {{< keyword "insulae" >}}
 - {{< keyword "peristyles" >}}
 - {{< keyword "porticoes" >}}
 - {{< keyword "terrace gardens" >}}
 
-## Places
-
-- {{< id vocab="Pleiades" id="177494" name="Col. Augusta Raurica" >}}
-- {{< id vocab="TGN" id="7017586" name="Augusta Rauricorum (deserted settlement)" >}}
-
+<!-- ## Places -->

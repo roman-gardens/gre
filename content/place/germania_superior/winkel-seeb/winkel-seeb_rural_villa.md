@@ -6,19 +6,12 @@ latlon: [ 47.493253, 8.548345 ]
 author: Maureen Carroll
 contributor: June Dorsch
 date: 2026-10-01
-
 draft: false
 ---
 
 ## Dates
 
 First half of 1st century CE - 250
-
-<!-- ## Location
-
-- [Winkel-Seeb]({{<relref ".">}})
-- {{< id vocab="Pleiades" id="177667" name="Winkel-Seeb" >}}
--->
 
 ## Garden Description
 
@@ -49,8 +42,4 @@ The residential and service parts of this *villa rustica* occupied an area of ca
 - {{< keyword "villae rusticae" >}}
 - {{< keyword "well houses" >}}
 
-## Places
-
-- {{< id vocab="Pleiades" id="177667" name="Winkel-Seeb" >}}
-- {{< id vocab="TGN" id="6002235" name="Germania Superior (province)" >}}
-
+<!-- ## Places -->

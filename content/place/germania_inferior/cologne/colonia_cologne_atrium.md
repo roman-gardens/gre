@@ -6,7 +6,6 @@ latlon: [ 50.940671, 6.959908 ]
 author: Maureen Carroll
 contributor: David Ratzan, Jane Millar
 date: 2026-10-01
-
 draft: false
 ---
 
@@ -45,6 +44,4 @@ Entering from the colonnaded street at the west, one passed through a room recon
 - {{< keyword "apsed pools" >}}
 - {{< keyword "piscinae" >}}
 
-## Places
-
-- {{< id vocab="Pleiades" id="108751" name="Ara Ubiorum/Col. Claudia Ara Agrippinensium" >}}
+<!-- ## Places -->

@@ -6,7 +6,6 @@ latlon: [ 50.883207, 5.918982 ]
 author: Maureen Carroll
 contributor: David Ratzan, Jane Millar, Keith Jenkins
 date: 2026-10-01
-
 draft: false
 ---
 
@@ -51,3 +50,4 @@ Original text mentioned a figure 2, which I take to be an image of the garden; r
 <!--
 ## Places
 -->
+

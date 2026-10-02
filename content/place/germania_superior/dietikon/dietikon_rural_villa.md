@@ -6,7 +6,6 @@ latlon: [ 49.214670, 8.015747 ]
 author: Christa Ebnöther, Maureen Carroll
 contributor: June Dorsch
 date: 2026-10-01
-
 draft: false
 ---
 
@@ -18,12 +17,6 @@ First buildings: Early 1st century CE - Middle of 1st century CE
 
 Stone-built villa: Middle of the 1st century CE
 
-<!-- ## Location
-
-- [Dietikon]({{<relref ".">}})
-- {{< id vocab="Pleiades" id="981525" name="Dietikon" >}}
-
--->
 
 ## Garden Description
 
@@ -67,7 +60,4 @@ In the late 1st century, around CE 70, the timber-lined pool in the west was rep
 - {{< keyword "porticoes" >}}
 - {{< keyword "villae rusticae" >}}
 
-## Places
-
-- {{< id vocab="Pleiades" id="981525" name="Germania Superior" >}}
-- {{< id vocab="TGN" id="7007345" name="Dietikon (inhabited place)" >}}
+<!-- ## Places -->

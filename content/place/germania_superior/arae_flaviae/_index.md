@@ -3,15 +3,16 @@ slug: "d2910421fa"
 type: place
 title: Arae Flaviae
 author: Author Name
-contributor: Contributor Name
-date: 2026-05-16
-
+contributor: Keith Jenkins
+date: 2026-10-01
 draft: false
 ---
 
 <!-- ## Dates -->
 
-<!-- ## Place Description -->
+## Place Description
+
+This town on the Neckar river was granted municipal status around 84 CE or slightly later. In modern terms, it lies about halfway between Zurich and Stuttgart.
 
 <!--
 ## Maps
@@ -38,8 +39,6 @@ draft: false
 - {{< keyword "Example keyword" >}}
 -->
 
-<!--
 ## Places
-- {{< id vocab="Pleiades" id="" name="" >}}
-- {{< id vocab="TGN" id="" name="" >}}
--->
+
+- {{< id vocab="Pleiades" id="118572" name="Arae Flaviae" >}}

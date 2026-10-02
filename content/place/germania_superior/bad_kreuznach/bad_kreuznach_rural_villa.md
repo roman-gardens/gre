@@ -6,7 +6,6 @@ latlon: [ 49.214670, 8.015747 ]
 author: Maureen Carroll
 contributor: June Dorsch
 date: 2026-10-01
-
 draft: false
 ---
 
@@ -14,11 +13,7 @@ draft: false
 
 Second half of 2nd century - around 275 CE
 
-<!--## Location
-
-- [Bad Kreuznach]({{<relref ".">}})
-- {{< id vocab="Pleiades" id="981525" name="Bad Kreuznach" >}}
--->
+<!-- ## Excavation Dates -->
 
 ## Garden Description
 
@@ -56,8 +51,4 @@ At the northeast of the villa was a garden (G in Fig. 1) with a lararium. On the
 - {{< keyword "porticoes" >}}
 - {{< keyword "villae rusticae" >}}
 
-## Places
-
-- {{< id vocab="Pleiades" id="981525" name="Germania Superior" >}}
-- {{< id vocab="TGN" id="7012371" name="Bad Kreuznach (inhabited place)" >}}
-
+<!-- ## Places -->

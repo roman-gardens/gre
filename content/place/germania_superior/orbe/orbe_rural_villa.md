@@ -6,7 +6,6 @@ latlon: [ 46.744280, 6.536848 ]
 author: Maureen Carroll
 contributor: June Dorsch
 date: 2026-10-01
-
 draft: false
 ---
 
@@ -14,13 +13,6 @@ draft: false
 
 mid-1st century CE - 4th century
 <!-- dates of house -->
-
-<!--## Location
-
-- [Orbe]({{<relref ".">}})
-- {{< id vocab="Pleiades" id="177598" name="Orbe" >}}
-
--->
 
 ## Garden Description
 
@@ -53,5 +45,4 @@ This large palatial house belonged to a villa rustica revealed by excavation and
 ## Places
 
 - {{< id vocab="Pleiades" id="177598" name="Orbe Gallo-Roman Villa" >}}
-- {{< id vocab="TGN" id="7007438" name="Orbe (inhabited place)" >}}
 

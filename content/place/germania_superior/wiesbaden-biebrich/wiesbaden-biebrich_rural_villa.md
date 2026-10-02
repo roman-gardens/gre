@@ -6,23 +6,12 @@ latlon: [ 50.044849, 8.241041 ]
 author: Maureen Carroll
 contributor: June Dorsch
 date: 2026-10-01
-
 draft: false
 ---
 
 ## Dates
 
 unspecified
-
-<!-- ## Location
-
-- [Wiesbaden-Biebrich]({{<relref ".">}})
-- {{< id vocab="Pleiades" id="109461" name="Wiesbaden-Biebrich" >}}
-
-## Location Description
-
-Biebrich, now part of Wiesbaden, is directly on the right bank of the Rhein south of the center of Wiesbaden.
--->
 
 ## Garden Description
 
@@ -48,8 +37,4 @@ Only the residential part of this farm has been excavated. The house with a widt
 - {{< keyword "kitchen gardens" >}}
 - {{< keyword "villae rusticae" >}}
 
-## Places
-
-- {{< id vocab="Pleiades" id="109461" name="Wiesbaden-Biebrich" >}}
-- {{< id vocab="TGN" id="6002235" name="Germania Superior (province)" >}}
-
+<!-- ## Places -->

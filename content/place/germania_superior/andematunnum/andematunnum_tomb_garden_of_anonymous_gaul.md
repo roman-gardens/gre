@@ -6,23 +6,12 @@ latlon: [ 47.864221, 5.335214 ]
 author: John Bodel
 contributor: June Dorsch
 date: 2026-10-01
-
 draft: false
 ---
 
 ## Dates
 
 unspecified
-
-<!-- ## Location
-
-- [Andematunnum]({{<relref ".">}})
-- {{< id vocab="Pleiades" id="177441" name="Andematunnum" >}}
--->
-
-## Garden
-
-Tomb Garden of Anonymous Gaul in Andematunnum
 
 ## Garden Description
 
@@ -50,9 +39,4 @@ A famous inscription from the territory of the Lingonian Gauls (Langres) known o
 - {{< keyword "orchards" >}}
 - {{< keyword "tombs" >}}
 
-## Places
-
-- {{< id vocab="Pleiades" id="177441" name="Andematunnum" >}}
-- {{< id vocab="TGN" id="6002235" name="Germania Superior (province)" >}}
-
-
+<!-- ## Places -->

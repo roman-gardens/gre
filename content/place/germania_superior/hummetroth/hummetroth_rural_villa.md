@@ -6,19 +6,12 @@ latlon: [ 49.214670, 8.015747 ]
 author: Maureen Carroll
 contributor: June Dorsch
 date: 2026-10-01
-
 draft: false
 ---
 
 ## Dates
 
-2nd century
-
-<!--## Location
-
-- [Hummetroth]({{<relref ".">}})
-- {{< id vocab="Pleiades" id="981525" name="Hummetroth" >}}
--->
+2nd century CE
 
 ## Garden Description
 
@@ -51,8 +44,4 @@ The courtyard was divided into two zones by a terrace(?) wall, and in both zones
 - {{< keyword "terrace gardens" >}}
 - {{< keyword "villae rusticae" >}}
 
-## Places
-
-- {{< id vocab="Pleiades" id="981525" name="Germania Superior" >}}
-- {{< id vocab="TGN" id="7165467" name="Hummetroth (inhabited place)" >}}
-
+<!-- ## Places -->

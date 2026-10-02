@@ -6,7 +6,6 @@ latlon: [ 46.88008, 7.040710 ]
 author: Maureen Carroll
 contributor: June Dorsch
 date: 2026-10-01
-
 draft: false
 ---
 
@@ -15,18 +14,7 @@ draft: false
 Middle of 3rd century
 <!-- Several Period -->
 
-<!-- ## Location
-
-- [Aventicum]({{<relref ".">}})
-- {{< id vocab="Pleiades" id="177495" name="Aventicum" >}}
-
-## Location Description
-
-The town was established in the Augustan period as the civitas capital of the Helvetii. At this time the orthogonal street grid was laid out. Most probably in CE 71, it became Colonia Pia Flavia Constans Emerita Helvetiorum Foederata. The town was destroyed or badly damaged around CE 260, and it was progressively abandoned thereafter.
-## Garden
-
-Palatial House in Insula 7 in Aventicum
--->
+<!-- ## Excavation Dates -->
 
 ## Garden Description
 
@@ -61,8 +49,4 @@ The courtyard was on two levels, divided on the north by a terrace wall with two
 - {{< keyword "piscinae" >}}
 - {{< keyword "presence chambers" >}}
 
-## Places
-
-- {{< id vocab="Pleiades" id="177495" name="Aventicum" >}}
-- {{< id vocab="TGN" id="6002235" name="Germania Superior (province)" >}}
-
+<!-- ## Places -->

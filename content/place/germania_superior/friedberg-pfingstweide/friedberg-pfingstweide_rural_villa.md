@@ -6,7 +6,6 @@ latlon: [ 49.214670, 8.015747 ]
 author: Maureen Carroll
 contributor: June Dorsch
 date: 2026-10-01
-
 draft: false
 ---
 
@@ -17,7 +16,6 @@ Early 2nd century to first half of 3rd century CE
 <!-- ## Location
 
 - [Friedberg Pfingstweide]({{<relref ".">}})
-- {{< id vocab="Pleiades" id="981525" name="Friedberg Pfingstweide" >}}
 -->
 
 ## Garden Description
@@ -44,8 +42,4 @@ Built in the early 2nd century, the house was of the winged corridor type with a
 - {{< keyword "balnea" >}}
 - {{< keyword "villae rusticae" >}}
 
-## Places
-
-- {{< id vocab="Pleiades" id="981525" name="Germania Superior" >}}
-- {{< id vocab="TGN" id="6002235" name="Germania Superior (province)" >}}
-
+<!-- ## Places -->

@@ -5,23 +5,13 @@ title: Rural Villa in Ferpicloz
 latlon: [ 49.214670, 8.015747 ]
 author: Maureen Carroll
 contributor: June Dorsch
-date: 2021-04-21
-
+date: 2026-10-01
 draft: true
 ---
 
 ## Dates
 
 unspecified
-
-## Location
-
-- [Ferpicloz]({{<relref ".">}})
-- {{< id vocab="Pleiades" id="981525" name="Ferpicloz" >}}
-
-## Garden
-
-Rural Villa in Ferpicloz
 
 ## Garden Description
 
@@ -47,8 +37,4 @@ The house of this *villa rustica* was of the winged corridor type (A in Fig. 1) 
 - {{< keyword "porticoes" >}}
 - {{< keyword "villae rusticae" >}}
 
-## Places
-
-- {{< id vocab="Pleiades" id="981525" name="Germania Superior" >}}
-- {{< id vocab="TGN" id="6002235" name="Germania Superior (province)" >}}
-
+<!--## Places -->

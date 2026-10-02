@@ -6,7 +6,6 @@ latlon: [ 50.940671, 6.959908 ]
 author: Maureen Carroll
 contributor: David Ratzan, Jane Millar
 date: 2026-10-01
-
 draft: false
 ---
 
@@ -25,7 +24,7 @@ The original house, erected after CE 50, was rebuilt under [Vespasian](https://w
 ## Plans
 
 {{< image file="cologne_dionysius_plan1_EUR_GI_ColClaAA_HoD_carroll.jpg" caption="Plan 1: Plan of the House of Dionysos, built around a central courtyard garden (G) with a pool (grey)." credit="Plan adapted from Fremersdorf 1956, fig. 27." alt="">}}
-<!-- TO DO No color block for garden -->
+<!-- TODO: No color block for garden -->
 
 <!-- ## Images -->
 
@@ -44,6 +43,4 @@ The original house, erected after CE 50, was rebuilt under [Vespasian](https://w
 - {{< keyword "axial plan" >}}
 - {{< keyword "piscinae" >}}
 
-## Places
-
-- {{< id vocab="Pleiades" id="108751" name="Ara Ubiorum/Col. Claudia Ara Agrippinensium" >}}
+<!-- ## Places -->
