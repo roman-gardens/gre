@@ -5,9 +5,8 @@ title: Urban House on Gertrudenstrasse
 latlon: [ 50.940671, 6.959908 ]
 author: Maureen Carroll
 contributor: David Ratzan, Jane Millar
-date: 2021-04-21
-
-draft: true
+date: 2026-10-01
+draft: false
 ---
 
 ## Dates
@@ -25,6 +24,7 @@ The courtyard was unpaved, and the presence of a source of water suggests that i
 ## Plans
 
 {{< image file="cologne_gertrudenstrasse_plan1_EUR_GI_ColClaAA_Hg_carroll.jpg" caption="Plan 1. Plan of the partially preserved house with a peristyle courtyard garden (G) and pool (P) on Gertrudenstraße." credit="Adapted from Thomas 1993, fig. 3." alt="">}}
+<!-- TODO: No color block for garden -->
 
 <!-- ## Images -->
 
@@ -39,8 +39,4 @@ The courtyard was unpaved, and the presence of a source of water suggests that i
 - {{< keyword "apsed pools" >}}
 - {{< keyword "piscinae" >}}
 
-## Places
-
-- {{< id vocab="Pleiades" id="108751" name="Ara Ubiorum/Col. Claudia Ara Agrippinensium" >}}
-- {{< id vocab="TGN" id="7004446" name="Cologne (inhabited place)" >}}
-
+<!-- ## Places -->

@@ -5,23 +5,13 @@ title: Legionary Houses at Castra Vetera
 latlon: [ 51.646389, 6.469989 ]
 author: Maureen Carroll
 contributor: David Ratzan, Jane Millar
-date: 2021-04-21
-
-draft: true
+date: 2026-10-01
+draft: false
 ---
 
 ## Dates
 
 Unspecified
-
-## Location
-
-- [Castra Vetera]({{<relref ".">}})
-- {{< id vocab="Pleiades" id="108867" name="Castra Vetera" >}}
-
-## Garden
-
-Legionary houses at Castra Vetera (Germania inferior)
 
 ## Garden Description
 
@@ -34,6 +24,7 @@ The partially excavated eastern villa was 78.50 m. wide and 109 m. in length. It
 ## Plans
 
 {{< image file="castra_vetera_plan1_EUR_GI_VetCas_Lh_carroll.jpg" caption="Plan 1. Plan of the western *praetorium* in the double legionary base with its long apsidal garden (G)." credit="Adapted from Lehner 1930, fig. 39." alt="" >}}
+<!-- TODO: No color block for garden -->
 
 <!-- ## Images -->
 
@@ -51,7 +42,4 @@ The partially excavated eastern villa was 78.50 m. wide and 109 m. in length. It
 - {{< keyword "pedestals" >}}
 - [Pliny the Younger](https://catalog.perseus.org/catalog/urn:cts:latinLit:phi1318)
 
-## Places
-
-- {{< id vocab="Pleiades" id="108867" name="Castra Vetera" >}}
-- {{< id vocab="TGN" id="7004944" name="Vetera Castra (deserted settlement)" >}}
+<!-- ## Places -->

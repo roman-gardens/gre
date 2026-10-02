@@ -5,30 +5,20 @@ title: House in Insula 13 in Aventicum
 latlon: [ 46.88008, 7.040710 ]
 author: Maureen Carroll
 contributor: June Dorsch
-date: 2021-04-21
-
-draft: true
+date: 2026-10-01
+draft: false
 ---
 
 ## Dates
 
-Houses: Late 1st century - Middle of 3rd century
+Late 1st century to middle of 3rd century CE
+<!-- Dates for houses-->
 
-## Location
-
-- [Aventicum]({{<relref ".">}})
-- {{< id vocab="Pleiades" id="177495" name="Aventicum" >}}
-
-## Location Description
-
-The town was established in the Augustan period as the civitas capital of the Helvetii. At this time the orthogonal street grid was laid out. Most probably in CE 71, it became Colonia Pia Flavia Constans Emerita Helvetiorum Foederata. The town was destroyed or badly damaged around CE 260, and it was progressively abandoned thereafter.
-## Garden
-
-House in Insula 13 in Aventicum
+<!-- ## Excavation Dates -->
 
 ## Garden Description
 
-Recent excavations in Insula 13 on the northwestern edge of the town have uncovered the remains of two large and luxurious houses separated from each other by a narrow corridor. They date to the late 1st century and were occupied until the middle of the 3rd century. Both buildings had a length of 60 meters, spanning the length of the insula. The eastern house included a private bath suite and an apsed reception room on the southwest.
+Recent excavations in Insula 13 on the northwestern edge of the town of Aventicum have uncovered the remains of two large and luxurious houses separated from each other by a narrow corridor. They date to the late 1st century and were occupied until the middle of the 3rd century. Both buildings had a length of 60 meters, spanning the length of the insula. The eastern house included a private bath suite and an apsed reception room on the southwest.
 
 The most remarkable feature of the building was a T-shaped garden courtyard (G in Fig. 1) surrounded by a peristyle on all sides (Fig. 1). A ground line gutter ran around the edge of the courtyard. In the southern part of the garden was a large pool paved with limestone slabs and measuring 6 x 12 meters On the northern edge of the pool was a rectangular fountain. To the north of this was a square structure measuring 5.40 x 5.40 meters which may have been a garden pavilion.
 
@@ -37,6 +27,7 @@ The most remarkable feature of the building was a T-shaped garden courtyard (G i
 ## Plans
 
 {{< image file="EUR_GS_AugRau_Hi13_carroll.jpg" caption="Fig. 1: Plan of a courtyard house in Insula 13 with a peristyle garden (G) and pool (grey)." credit="Plan adapted from Carroll 2001, fig. 20." alt="" >}}
+<!-- TO DO No color block for garden -->
 
 <!-- ## Images -->
 
@@ -58,8 +49,4 @@ The most remarkable feature of the building was a T-shaped garden courtyard (G i
 - {{< keyword "piscinae" >}}
 - {{< keyword "reception rooms" >}}
 
-## Places
-
-- {{< id vocab="Pleiades" id="177495" name="Aventicum" >}}
-- {{< id vocab="TGN" id="6002235" name="Germania Superior (province)" >}}
-
+<!-- ## Places -->

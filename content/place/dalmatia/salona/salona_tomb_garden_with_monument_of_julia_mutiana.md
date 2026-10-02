@@ -5,9 +5,8 @@ title: Tomb Garden with Monument of Julia Mutiana
 latlon: [ 43.539561, 16.483426 ]
 author: John Bodel
 contributor: Christian Casey, Keith Jenkins
-date: 2020-07-14
-
-draft: true
+date: 2026-10-01
+draft: false
 ---
 
 ## Dates

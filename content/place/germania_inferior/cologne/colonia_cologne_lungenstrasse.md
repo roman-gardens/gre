@@ -5,9 +5,8 @@ title: Urban House on Lungenstrasse
 latlon: [ 50.940671, 6.959908 ]
 author: Maureen Carroll
 contributor: David Ratzan, Jane Millar
-date: 2021-04-21
-
-draft: true
+date: 2026-10-01
+draft: false
 ---
 
 ## Dates
@@ -20,13 +19,14 @@ In the second half of the 1st century CE a large peristyle house was constructed
 
 In the leveled remains of the 1st century house were fragments of painted wall plaster, including fragments of scenes depicting gardens (Image 1). These show trees against a sky-blue background. It is uncertain which rooms of the house were decorated in this way.
 
-## Maps
+<!-- ## Maps -->
 
 <!-- ## Plans -->
 
 ## Images
 
 {{< image file="cologne_lungenstrasse_image1_EUR_GI_ColClaAA_HL_carroll.jpg" caption="Fragments of garden paintings from the peristyle courtyard house on Lungengasse (Colonia Claudia Ara Agrippinensium)." credit="Photo courtesy of M. Carroll." alt="" >}}
+<!-- TODO: No color block for garden -->
 
 <!--
 ## Bibliography
@@ -39,6 +39,4 @@ None
 - {{< keyword "peristyles" >}}
 - {{< keyword "mural paintings" >}}
 
-## Places
-
-- {{< id vocab="Pleiades" id="108751" name="Ara Ubiorum/Col. Claudia Ara Agrippinensium" >}}
+<!-- ## Places -->

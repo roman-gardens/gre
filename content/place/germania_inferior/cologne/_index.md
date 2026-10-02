@@ -4,8 +4,7 @@ type: place
 title: Cologne
 author: Maureen Carroll
 contributor: Keith Jenkins
-date: 2026-05-16
-
+date: 2026-10-01
 draft: false
 ---
 
@@ -40,4 +39,5 @@ Known as Ara Ubiorum, or Colonia Claudia Ara Agrippinensium, this large town on 
 
 ## Places
 
-- {{< id vocab="Pleiades" id="108751" name="Cologne" >}}
+- {{< id vocab="Pleiades" id="108751" name="Ara Ubiorum/Col. Claudia Ara Agrippinensium" >}}
+- {{< id vocab="TGN" id="7004446" name="Cologne (inhabited place)" >}}

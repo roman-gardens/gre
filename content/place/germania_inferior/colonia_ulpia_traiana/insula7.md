@@ -5,9 +5,8 @@ title: The Houses of Insula 7
 latlon: [ 51.667934, 6.448177 ]
 author: Maureen Carroll
 contributor: David Ratzan, Jane Millar, Keith Jenkins
-date: 2021-04-21
-
-draft: true
+date: 2026-10-01
+draft: false
 ---
 
 ## Dates
@@ -25,6 +24,7 @@ Between the buildings were open areas, some paved and equipped with ovens and po
 ## Plans
 
 {{< image file="xanten_insula7_plan1_EUR_GI_ColUlpTra_Hi7_carroll.jpg" caption="Plan 1. Plan of the houses in Insula 7 with paved (stippled) and unpaved courtyards. The black dots are wells." credit="Adapted from Precht and Rüger 1991." alt="" >}}
+<!-- TODO: No color block for garden -->
 
 ## Images
 

@@ -5,9 +5,9 @@ title: Tomb Garden of Iul(ia) Victorin(a) in Scarbantia
 latlon: [ 47.684893, 16.583036 ]
 author: John Bodel
 contributor: June Dorsch, Keith Jenkins
-date: 2021-04-21
+date: 2026-10-01
 
-draft: true
+draft: false
 ---
 
 ## Dates

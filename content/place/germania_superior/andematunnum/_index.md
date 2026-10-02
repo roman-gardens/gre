@@ -3,9 +3,8 @@ slug: "3b0161d435"
 type: place
 title: Andematunnum
 author: Author Name
-contributor: Contributor Name
-date: 2026-05-16
-
+contributor: Keith Jenkins
+date: 2026-10-01
 draft: false
 ---
 
@@ -38,8 +37,6 @@ draft: false
 - {{< keyword "Example keyword" >}}
 -->
 
-<!--
 ## Places
-- {{< id vocab="Pleiades" id="" name="" >}}
-- {{< id vocab="TGN" id="" name="" >}}
--->
+
+- {{< id vocab="Pleiades" id="177441" name="Andematunnum" >}}

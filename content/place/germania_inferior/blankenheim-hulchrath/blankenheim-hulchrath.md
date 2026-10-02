@@ -5,23 +5,13 @@ title: Rustic villa at Blankenheim-Hülchrath
 latlon: [ 51.606474, 5.794368 ]
 author: Maureen Carroll
 contributor: David Ratzan, Jane Millar
-date: 2021-04-21
-
-draft: true
+date: 2026-10-01
+draft: false
 ---
 
 ## Dates
 
 Unspecified
-
-## Location
-
-- [Blankenheim-Hülchrath]({{<relref ".">}})
-- {{< id vocab="Pleiades" id="981524" name="Blankenheim-Hülchrath" >}}
-
-## Garden
-
-Rustic villa at Blankenheim-Hülchrath
 
 ## Garden Description
 
@@ -34,6 +24,7 @@ To the northeast of the house was an open courtyard flanked by outbuildings and 
 ## Plans
 
 {{< image file="blankenheim-hulchrath-plan1-EUR_GI_BlaHul_Rv_carroll.jpg" caption="Plan 1:  Plan of the rural villa (A) with possible gardens (G) in the courtyard adjacent to the house and in the enclosed area southwest of it." credit="Adapted from Horn 1987, fig. 306." alt="">}}
+<!-- TODO: No color block for garden -->
 
 <!-- ## Images -->
 
@@ -47,7 +38,4 @@ To the northeast of the house was an open courtyard flanked by outbuildings and 
 - {{< keyword "courtyards" >}}
 - {{< keyword "villae rusticae" >}}
 
-## Places
-
-- {{< id vocab="Pleiades" id="108810" name="Blankenheim-Hülchrath" >}}
-- {{< id vocab="TGN" id="1038549" name="Blankenheim (inhabited place)" >}}
+<!-- ## Places -->

@@ -3,9 +3,8 @@ slug: "f5a7b679da"
 type: place
 title: Winden Am See
 author: Author Name
-contributor: Contributor Name
-date: 2026-05-14
-
+contributor: Keith Jenkins
+date: 2026-10-01
 draft: false
 ---
 

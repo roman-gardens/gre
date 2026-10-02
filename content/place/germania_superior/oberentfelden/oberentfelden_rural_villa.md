@@ -5,23 +5,13 @@ title: Rural Villa in Oberentfelden
 latlon: [ 47.356477, 8.046769 ]
 author: Maureen Carroll
 contributor: June Dorsch
-date: 2021-04-21
-
+date: 2026-10-01
 draft: true
 ---
 
 ## Dates
 
-2nd century
-
-## Location
-
-- [Oberentfelden]({{<relref ".">}})
-- {{< id vocab="Pleiades" id="177596" name="Oberentfelden" >}}
-
-## Garden
-
-Rural Villa in Oberentfelden
+2nd century CE
 
 ## Garden Description
 
@@ -32,6 +22,7 @@ The enclosed area of this villa rustica was 160 meters wide and at least 460 met
 ## Plans
 
 {{< image file="EUR_GS_Obe_Rv_carroll.jpg" caption="Fig. 1: Plan of the rural villa (A) with a bath (B), a nymphaeum (D) and various outbuildings and houses (C)." credit="Plan adapted from Drack and Fellmann 1988, fig. 418." alt="" >}}
+<!-- TO DO No color block for garden -->
 
 <!-- ## Images -->
 
@@ -49,8 +40,4 @@ The enclosed area of this villa rustica was 160 meters wide and at least 460 met
 - {{< keyword "peristyles" >}}
 - {{< keyword "villae rusticae" >}}
 
-## Places
-
-- {{< id vocab="Pleiades" id="177596" name="Oberentfelden" >}}
-- {{< id vocab="TGN" id="8703779" name="Oberentfelden (inhabited place)" >}}
-
+<!-- ## Places -->

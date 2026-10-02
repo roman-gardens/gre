@@ -5,23 +5,13 @@ title: Rural Villa in Hummetroth
 latlon: [ 49.214670, 8.015747 ]
 author: Maureen Carroll
 contributor: June Dorsch
-date: 2021-04-21
-
-draft: true
+date: 2026-10-01
+draft: false
 ---
 
 ## Dates
 
-2nd century
-
-## Location
-
-- [Hummetroth]({{<relref ".">}})
-- {{< id vocab="Pleiades" id="981525" name="Hummetroth" >}}
-
-## Garden
-
-Rural Villa in Hummetroth
+2nd century CE
 
 ## Garden Description
 
@@ -34,6 +24,7 @@ The courtyard was divided into two zones by a terrace(?) wall, and in both zones
 ## Plans
 
 {{< image file="EUR_GS_Hum_Rv_carroll.jpg" caption="Fig. 1: Plan of the rural villa with a large terraced courtyard garden (G) to the south." credit="Plan adapted from Baatz and Herrmann 1989, fig. 303a." alt="" >}}
+<!-- TO DO No color block for garden -->
 
 <!-- ## Images -->
 
@@ -53,8 +44,4 @@ The courtyard was divided into two zones by a terrace(?) wall, and in both zones
 - {{< keyword "terrace gardens" >}}
 - {{< keyword "villae rusticae" >}}
 
-## Places
-
-- {{< id vocab="Pleiades" id="981525" name="Germania Superior" >}}
-- {{< id vocab="TGN" id="7165467" name="Hummetroth (inhabited place)" >}}
-
+<!-- ## Places -->

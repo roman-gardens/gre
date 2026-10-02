@@ -4,32 +4,21 @@ type: garden
 title: House in Insula 1 and 2 in Augusta Raurica
 latlon: [ 47.533241, 7.722118 ]
 author: Maureen Carroll
-contributor: June Dorsch
-date: 2021-04-21
-
-draft: true
+contributor: June Dorsch, Divya Kumar-Dumas
+date: 2026-10-01
+draft: false
 ---
 
 ## Dates
 
-House: CE 150 - ca. 170
+150 CE to ca. 170 CE
+<!-- Dates for House -->
 
-## Location
-
-- [Augusta Raurica]({{<relref ".">}})
-- {{< id vocab="Pleiades" id="177494" name="Augusta Raurica" >}}
-
-## Location Description
-
-The town on the Rhine River possessed colonial status since the late 1st century BCE. The street grid, as well as many public and residential buildings, are well known from excavations.
-
-## Garden
-
-House in Insula 1 and 2 in Augusta Raurica
+<!-- ## Excavation Dates -->
 
 ## Garden Description
 
-This house, built on sloping terrain on the northern edge of the city around CE 150, was enlarged twenty years later to incorporate at least two certain gardens (Fig. 1). It bordered north and south on streets and was flanked on the east and west by other houses. In this last phase after ca. 170, the house covered an area of about 2000 square meters. In the center of the building was an irregular peristyle courtyard, at the north end of which was a private bath complex.
+This house in Insula 1 and 2 in Augusta Raurica, built on sloping terrain on the northern edge of the city around CE 150, was enlarged twenty years later to incorporate at least two certain gardens (Fig. 1). It bordered north and south on streets and was flanked on the east and west by other houses. In this last phase after ca. 170 CE, the house covered an area of about 2000 square meters. In the center of the building was an irregular peristyle courtyard, at the north end of which was a private bath complex.
 
 East of the house was a long rectangular area open to the sky and divided into plots by a wall. In the northernmost plot a layer of humic soil 20-40 centimeters thick was excavated that the excavators interpret as evidence for a garden (G on plan).
 
@@ -40,6 +29,7 @@ The northern part of the house facing the street included an open terrace which 
 ## Plans
 
 {{< image file="EUR_GS_AUG_RAU_Hi1_2_carroll.jpg" caption="Fig. 1: Augusta Raurica., House in insula 1 and 2." credit="Adapted from Hufschidt." alt="" >}}
+<!-- TO DO No color block for garden -->
 
 <!-- ## Images -->
 
@@ -50,15 +40,9 @@ The northern part of the house facing the street included an open terrace which 
 
 ## Keywords
 
-<!-- archaeological garden -->
-
 - {{< keyword "insulae" >}}
 - {{< keyword "peristyles" >}}
 - {{< keyword "porticoes" >}}
 - {{< keyword "terrace gardens" >}}
 
-## Places
-
-- {{< id vocab="Pleiades" id="177494" name="Col. Augusta Raurica" >}}
-- {{< id vocab="TGN" id="7017586" name="Augusta Rauricorum (deserted settlement)" >}}
-
+<!-- ## Places -->

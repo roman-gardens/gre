@@ -3,9 +3,8 @@ slug: "24def34ea1"
 type: place
 title: Friedberg Pfingstweide
 author: Author Name
-contributor: Contributor Name
-date: 2026-05-16
-
+contributor: Keith Jenkins
+date: 2026-10-01
 draft: false
 ---
 
@@ -38,8 +37,6 @@ draft: false
 - {{< keyword "Example keyword" >}}
 -->
 
-<!--
 ## Places
-- {{< id vocab="Pleiades" id="" name="" >}}
-- {{< id vocab="TGN" id="" name="" >}}
--->
+
+- {{< id vocab="Pleiades" id="981525" name="Friedberg Pfingstweide" >}}

@@ -5,23 +5,18 @@ title: Rural Villa in Friedberg Pfingstweide
 latlon: [ 49.214670, 8.015747 ]
 author: Maureen Carroll
 contributor: June Dorsch
-date: 2021-04-21
-
-draft: true
+date: 2026-10-01
+draft: false
 ---
 
 ## Dates
 
-Early 2nd century - first half of 3rd century
+Early 2nd century to first half of 3rd century CE
 
-## Location
+<!-- ## Location
 
 - [Friedberg Pfingstweide]({{<relref ".">}})
-- {{< id vocab="Pleiades" id="981525" name="Friedberg Pfingstweide" >}}
-
-## Garden
-
-Rural Villa in Friedberg Pfingstweide
+-->
 
 ## Garden Description
 
@@ -34,6 +29,7 @@ Built in the early 2nd century, the house was of the winged corridor type with a
 ## Plans
 
 {{< image file="EUR_GS_FriPfi_Rv_carroll.jpg" caption="Fig. 1: Plan of the villa (H) with a bath building (B) and with two possible garden enclosures (G) joined to the house at the north." credit="Adapted from Baatz and Herrmann 1989, fig. 246." alt="" >}}
+<!-- TO DO No color block for garden -->
 
 <!-- ## Images -->
 
@@ -46,8 +42,4 @@ Built in the early 2nd century, the house was of the winged corridor type with a
 - {{< keyword "balnea" >}}
 - {{< keyword "villae rusticae" >}}
 
-## Places
-
-- {{< id vocab="Pleiades" id="981525" name="Germania Superior" >}}
-- {{< id vocab="TGN" id="6002235" name="Germania Superior (province)" >}}
-
+<!-- ## Places -->

@@ -5,8 +5,7 @@ title: Villa in Vallon (Sur Dompierre, Canton de Fribourg, Switzerland)
 latlon: [ 49.214670, 8.015747 ]
 author: Michel Fuchs, Jacques Monnier
 contributor: June Dorsch
-date: 2021-04-21
-
+date: 2026-10-01
 draft: true
 ---
 
@@ -17,15 +16,6 @@ Beginning of the 1st century CE - beginning of the 5th century
 ## Excavation Dates
 
 1985-2000, 2006/2010
-
-## Location
-
-- [Vallon]({{<relref ".">}})
-- {{< id vocab="Pleiades" id="981525" name="Vallon" >}}
-
-## Garden
-
-Villa in Vallon (Sur Dompierre, Canton de Fribourg, Switzerland)
 
 ## Garden Description
 
@@ -92,7 +82,4 @@ No bibliography listed
 - {{< keyword "villae rusticae" >}}
 - {{< keyword "water supply systems" >}}
 
-## Places
-
-- {{< id vocab="Pleiades" id="981525" name="Germania Superior" >}}
-- {{< id vocab="TGN" id="6002235" name="Germania Superior (province)" >}}
+<!-- ## Places -->

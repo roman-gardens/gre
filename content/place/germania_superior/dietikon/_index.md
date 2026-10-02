@@ -4,8 +4,7 @@ type: place
 title: Dietikon
 author: Author Name
 contributor: Contributor Name
-date: 2026-05-16
-
+date: 2026-10-01
 draft: false
 ---
 
@@ -38,8 +37,7 @@ draft: false
 - {{< keyword "Example keyword" >}}
 -->
 
-<!--
 ## Places
-- {{< id vocab="Pleiades" id="" name="" >}}
-- {{< id vocab="TGN" id="" name="" >}}
--->
+
+- {{< id vocab="Pleiades" id="981525" name="Dietikon" >}}
+- {{< id vocab="TGN" id="7007345" name="Dietikon (inhabited place)" >}}

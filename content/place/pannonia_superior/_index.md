@@ -4,7 +4,7 @@ type: place
 title: Pannonia Superior
 author: Maureen Carroll
 contributor: June Dorsch, Keith Jenkins
-date: 2021-04-21
+date: 2026-10-01
 draft: true
 ---
 
@@ -41,5 +41,4 @@ Under Trajan in 106/107 CE, the province was separated into two parts: [Pannonia
 
 ## Places
 
-- {{< id vocab="Pleiades" id="197425" name="Pannonia" >}}
-- {{< id vocab="TGN" id="4008442" name="Pannonia (general region)" >}}
+- {{< id vocab="Pleiades" id="991356" name="Pannonia Superior" >}}

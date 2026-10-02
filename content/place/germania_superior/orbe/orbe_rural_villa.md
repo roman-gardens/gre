@@ -5,23 +5,14 @@ title: Rural Villa in Orbe
 latlon: [ 46.744280, 6.536848 ]
 author: Maureen Carroll
 contributor: June Dorsch
-date: 2021-04-21
-
-draft: true
+date: 2026-10-01
+draft: false
 ---
 
 ## Dates
 
-House: mid-1st century CE - 4th century
-
-## Location
-
-- [Orbe]({{<relref ".">}})
-- {{< id vocab="Pleiades" id="177598" name="Orbe" >}}
-
-## Garden
-
-Rural Villa in Orbe
+mid-1st century CE - 4th century
+<!-- dates of house -->
 
 ## Garden Description
 
@@ -32,6 +23,7 @@ This large palatial house belonged to a villa rustica revealed by excavation and
 ## Plans
 
 {{< image file="EUR_GS_Orb_Rv_carroll.jpg" caption="Fig. 1: Plan of the rural villa (A) with two large courtyard gardens (G) and a possible walled garden (G) to the east of the main house. The dotted lines are structures known only from aerial photography." credit="Adapted from Drack and Fellmann 1988, fig. 423." alt="" >}}
+<!-- TO DO No color block for garden -->
 
 <!-- ## Images -->
 
@@ -53,5 +45,4 @@ This large palatial house belonged to a villa rustica revealed by excavation and
 ## Places
 
 - {{< id vocab="Pleiades" id="177598" name="Orbe Gallo-Roman Villa" >}}
-- {{< id vocab="TGN" id="7007438" name="Orbe (inhabited place)" >}}
 

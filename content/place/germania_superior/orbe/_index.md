@@ -3,9 +3,8 @@ slug: "ae14cee0fc"
 type: place
 title: Orbe
 author: Author Name
-contributor: Contributor Name
-date: 2026-05-16
-
+contributor: Keith Jenkins
+date: 2026-10-01
 draft: false
 ---
 
@@ -38,8 +37,7 @@ draft: false
 - {{< keyword "Example keyword" >}}
 -->
 
-<!--
 ## Places
-- {{< id vocab="Pleiades" id="" name="" >}}
-- {{< id vocab="TGN" id="" name="" >}}
--->
+
+- {{< id vocab="Pleiades" id="177598" name="Orbe" >}}
+- {{< id vocab="TGN" id="7007438" name="Orbe (inhabited place)" >}}

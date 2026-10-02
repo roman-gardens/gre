@@ -2,10 +2,9 @@
 slug: "89b93a50e5"
 type: place
 title: Colonia Ulpia Xanten
-author: Keith Jenkins
-contributor: Contributor Name
-date: 2026-05-16
-
+author: Author Name
+contributor: Keith Jenkins
+date: 2026-10-01
 draft: false
 ---
 

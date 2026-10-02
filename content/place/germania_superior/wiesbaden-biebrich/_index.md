@@ -3,15 +3,16 @@ slug: "2574a2bc99"
 type: place
 title: Wiesbaden Biebrich
 author: Author Name
-contributor: Contributor Name
-date: 2026-05-16
-
+contributor: Keith Jenkins
+date: 2026-10-01
 draft: false
 ---
 
 <!-- ## Dates -->
 
-<!-- ## Place Description -->
+## Place Description
+
+Biebrich, now part of Wiesbaden, is directly on the right bank of the Rhein south of the center of Wiesbaden.
 
 <!--
 ## Maps
@@ -38,8 +39,6 @@ draft: false
 - {{< keyword "Example keyword" >}}
 -->
 
-<!--
 ## Places
-- {{< id vocab="Pleiades" id="" name="" >}}
-- {{< id vocab="TGN" id="" name="" >}}
--->
+
+- {{< id vocab="Pleiades" id="109461" name="Wiesbaden-Biebrich" >}}

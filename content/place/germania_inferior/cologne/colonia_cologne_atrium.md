@@ -5,9 +5,8 @@ title: Atrium House
 latlon: [ 50.940671, 6.959908 ]
 author: Maureen Carroll
 contributor: David Ratzan, Jane Millar
-date: 2021-04-21
-
-draft: true
+date: 2026-10-01
+draft: false
 ---
 
 ## Dates
@@ -25,6 +24,7 @@ Entering from the colonnaded street at the west, one passed through a room recon
 ## Plans
 
 {{< image file="cologne_atrium_plan1_EUR_GI_ColClaAA_Ah_carroll.jpg" caption="Plan 1: Plan of the Atrium House at Colonia Claudia Ara Agrippinensium with an apsidal pool (P) in its garden courtyard (G)." credit="Adapted from Precht 1971, fig. 2." alt="">}}
+<!-- TO DO No color block for garden -->
 
 <!-- ## Images -->
 
@@ -44,6 +44,4 @@ Entering from the colonnaded street at the west, one passed through a room recon
 - {{< keyword "apsed pools" >}}
 - {{< keyword "piscinae" >}}
 
-## Places
-
-- {{< id vocab="Pleiades" id="108751" name="Ara Ubiorum/Col. Claudia Ara Agrippinensium" >}}
+<!-- ## Places -->

@@ -5,9 +5,8 @@ title: Rustic villa at Rheinbach-Flerzheim
 latlon: [ 51.606474, 5.794368 ]
 author: Maureen Carroll
 contributor: David Ratzan, Jane Millar, Keith Jenkins
-date: 2021-04-21
-
-draft: true
+date: 2026-10-01
+draft: false
 ---
 
 ## Dates
@@ -25,6 +24,7 @@ Enclosing the farm complex was a hedge or row of trees, the planting trenches of
 ## Plans
 
 {{< image file="rheinbach-flerzheim_plan1_EUR_GI_RheFle_Rv_carroll.jpg" caption="Plan of the farmyard with its house (A) and bath (B) enclosed by a hedge (grey line). The open circles are wells." credit="Adapted from Carroll 2001, fig. 38." alt="" >}}
+<!-- TODO: No color block for garden -->
 
 <!-- ## Images -->
 
