@@ -3,9 +3,9 @@ slug: "ff315beaab"
 type: place
 title: Pannonia Inferior
 author: Author Name
-contributor: Contributor Name
-date: 2026-09-29
-draft: true
+contributor: Keith Jenkins
+date: 2026-10-01
+draft: false
 ---
 
 ## Province Description
@@ -39,8 +39,5 @@ Under Trajan in 106/107 CE, the province was separated into two parts: [Pannonia
 - {{< keyword "Example keyword" >}}
 -->
 
-<!--
 ## Places
-- {{< id vocab="Pleiades" id="" name="" >}}
-- {{< id vocab="TGN" id="" name="" >}}
--->
+- {{< id vocab="Pleiades" id="991355" name="Pannonia Inferior" >}}

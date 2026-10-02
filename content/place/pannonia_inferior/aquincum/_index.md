@@ -4,8 +4,7 @@ type: place
 title: Aquincum
 author: Author Name
 contributor: Keith Jenkins
-date: 2026-05-14
-
+date: 2026-10-01
 draft: false
 ---
 
