@@ -5,7 +5,7 @@ title: Rural Villa near Echternach
 latlon: [ 49.804053, 6.411923 ]
 author: Maureen Carroll
 contributor: Yvette Pollack, Amelia Lamis
-date: 2026-09-28
+date: 2026-10-01
 draft: false
 ---
 

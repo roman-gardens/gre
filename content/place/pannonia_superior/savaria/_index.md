@@ -4,7 +4,7 @@ type: place
 title: Savaria
 author: Author Name
 contributor: Contributor Name
-date: 2026-05-14
+date: 2026-10-01
 
 draft: false
 ---

@@ -5,7 +5,7 @@ title: House on rue de la Fraternité
 latlon: [ 50.292741, 2.778580 ]
 author: Maureen Carroll
 contributor: Yvette Pollack, Amelia Lamis
-date: 2026-09-28
+date: 2026-10-01
 draft: false
 ---
 
