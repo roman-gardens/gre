@@ -4,8 +4,7 @@ type: place
 title: Pergamum
 author: Maureen Carroll, Kathryn Gleason
 contributor: Amelia Lamis
-date: 2025-09-21
-
+date: 2026-10-01
 draft: false
 ---
 

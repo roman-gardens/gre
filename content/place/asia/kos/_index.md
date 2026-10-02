@@ -4,7 +4,7 @@ type: place
 title: Kos
 author: Author Name
 contributor: Contributor Name
-date: 2026-07-09
+date: 2026-10-01
 draft: false
 ---
 
