@@ -5,9 +5,8 @@ title: Villa de Richebourg (Yvelines)
 latlon: [ 48.445658, 1.485617 ]
 author: Maureen Carroll
 contributor: Yvette Pollack, Amelia Lamis
-date: 2021-04-21
-
-draft: true
+date: 2026-10-01
+draft: false
 ---
 
 ## Dates
