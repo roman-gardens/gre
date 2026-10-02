@@ -6,7 +6,7 @@ latlon: [ 49.214670, 8.015747 ]
 author: Michel Fuchs, Jacques Monnier
 contributor: June Dorsch
 date: 2026-10-01
-draft: true
+draft: false
 ---
 
 ## Dates

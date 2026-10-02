@@ -5,7 +5,7 @@ title: Pannonia Superior
 author: Maureen Carroll
 contributor: June Dorsch, Keith Jenkins
 date: 2026-10-01
-draft: true
+draft: false
 ---
 
 ## Province Description

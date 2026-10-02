@@ -5,7 +5,7 @@ title: Germania Inferior
 author: Maureen Carroll
 contributor: David Ratzan, Jane Millar, Keith Jenkins
 date: 2026-10-01
-draft: true
+draft: false
 ---
 
 ## Province Description

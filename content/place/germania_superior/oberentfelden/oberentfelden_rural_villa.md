@@ -6,7 +6,7 @@ latlon: [ 47.356477, 8.046769 ]
 author: Maureen Carroll
 contributor: June Dorsch
 date: 2026-10-01
-draft: true
+draft: false
 ---
 
 ## Dates
