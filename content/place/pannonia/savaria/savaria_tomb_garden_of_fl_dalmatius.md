@@ -5,9 +5,9 @@ title: Tomb Garden of Fl(avius) Dalmatius in Savaria
 latlon: [ 47.233009, 16.631521 ]
 author: John Bodel
 contributor: June Dorsch, Keith Jenkins
-date: 2021-04-21
+date: 2026-10-01
 
-draft: true
+draft: false
 ---
 
 ## Dates

@@ -5,14 +5,14 @@ title: Rural Villa in Eisenstadt
 latlon: [ 47.8333, 16.5333 ]
 author: Maureen Carroll
 contributor: June Dorsch, Keith Jenkins
-date: 2021-04-21
+date: 2026-10-01
 
-draft: true
+draft: false
 ---
 
 ## Dates
 
-Early 2nd century - 4th century
+Early 2nd century to 4th century 
 
 ## Garden Description
 
@@ -20,9 +20,10 @@ The residence of this *villa rustica* was entered on the southeast by a portico 
 
 <!-- ## Maps -->
 
-## Plans
+<!-- ## Plans
 
 {{< image file="PAN_EIS_Villa_M Carroll.jpg" caption="Fig. 1: Plan of the rural villa with a peristyle courtyard (G) and a podium (P) for sculpture." credit="Adapted from Thomas 1964, fig. 73." alt="" >}}
+TO DO Plan delinked -->
 
 <!-- ## Images -->
 

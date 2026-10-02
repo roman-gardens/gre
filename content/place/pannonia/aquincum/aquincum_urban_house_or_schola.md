@@ -5,9 +5,9 @@ title: Urban House or Schola in Aquincum
 latlon: [ 47.563402, 19.049911 ]
 author: Maureen Carroll
 contributor: June Dorsch, Keith Jenkins
-date: 2021-04-21
+date: 2026-10-01
 
-draft: true
+draft: false
 ---
 
 ## Dates
@@ -20,13 +20,14 @@ Very few houses of Mediterranean type have been discovered, and only one can be 
 
 <!-- ## Maps -->
 
-## Plans
+<!-- ## Plans
 
 {{< image file="PAN_AQU_House_1_M_Carroll.jpg" caption="Fig. 1: Plan of a building with a peristyle garden courtyard (G) and a pool in its center." credit="Adapted from Polenz and Póczy 1986, fig. 47." alt="" >}}
 
 ## Images
 
 {{< image file="PAN_AQU.jpg" caption="Fig. 2: The excavated courtyard building with its peristyle garden." credit="Photo courtesy of M. Carroll." alt="" >}}
+TO DO Plan and Image delinked -->
 
 ## Bibliography
 

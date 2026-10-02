@@ -5,14 +5,14 @@ title: Rural Villa in Winden Am See
 latlon: [ 46.5, 15.5 ]
 author: Maureen Carroll
 contributor: June Dorsch, Keith Jenkins
-date: 2021-04-21
+date: 2026-10-01
 
-draft: true
+draft: false
 ---
 
 ## Dates
 
-100 CE - 4th century
+100 CE to 4th century CE
 
 ## Garden Description
 
@@ -22,9 +22,10 @@ On the southeast of the house was a vestibule, from which a central corridor dep
 
 <!-- ## Maps -->
 
-## Plans
+<!-- ## Plans
 
 {{< image file="PAN_WID_Villa_M_Carroll.jpg" caption="Fig. 1: Plan of the farmhouse with a garden plot (G) enclosed by walls." credit="Adapted from Thomas 1964, fig. 107." alt="" >}}
+TO DO Plan delinked -->
 
 <!-- ## Images -->
 
