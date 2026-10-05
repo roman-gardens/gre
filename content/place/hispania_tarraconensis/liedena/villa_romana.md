@@ -3,8 +3,8 @@ slug: "ab8009da1e"
 type: garden
 title: Villa Romana
 latlon: [42.6225, -1.3038888]
-author: Amelia Lamis
-contributor: Qianli Jiang, Amelia Lamis
+author: Author Name
+contributor: Qianli Jiang, Amelia Lamis, Keith Jenkins
 jashemski-catalogue: TAR 7.1
 date: 2026-10-01
 draft: false
@@ -55,4 +55,3 @@ The *oecus* or principal reception room is the room with an apse facing the sout
 ## Places
 
 - {{< id vocab="Pleiades" id="250027" name="Villa at Foz de Lumbier" >}}
-- {{< id vocab="TGN" id="7027125" name="Clunia (deserted settlement)" >}}

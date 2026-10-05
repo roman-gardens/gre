@@ -376,6 +376,8 @@ Another team has worked with Keith Jenkins on the GIS mapping projects since 201
 
 Special thanks to the 2020 ISAW digital scholarly communications summer interns, who helped us to develop the basic templates and workflows: June Dorsch and Amartya Sen.
 
+Extra special thanks to [Amelia Lamis](amelia-lamis) for processing and reviewing over 130 gardens in the summer of 2026.
+
 The current version of *Gardens of the Roman Empire* is built on the hard work of many professionals and students who prepared the original manuscript and illustrations since the 1990s.
 
 *Manuscript and graphics editors*\
