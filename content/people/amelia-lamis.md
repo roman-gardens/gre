@@ -12,11 +12,9 @@ Graduate student in the Classics department, University of Illinois Urbana-Champ
 
 -->
 
-<!--
 ## Website
 
 https://classics.illinois.edu/directory/profile/alamis2
--->
 
 <!--
 {{< id vocab="ORCID" id="" >}}
