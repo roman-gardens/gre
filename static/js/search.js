@@ -27,8 +27,14 @@ function displayResults (qterms, results, pageData) {
       q1 = q1.replace(/es$/, '(?:es)?')
       q1 = q1.replace(/s$/, 's?')
       let re = new RegExp(`^.*?(.{0,140})(${q1})(.{0,140}).*?$`, 'is')
+      
       // extract and highlight first term
       let snippet = content.replace(re, '$1<em>$2</em>$3')
+
+      // keep snippet small when highlighting fails
+      if (snippet === content) {
+        snippet = snippet.substring(0,280)
+      }
       // highlight any other terms found within the snippet
       if (qterms.length > 1) {
         for (let i = 1 ; i < qterms.length; i++) {
@@ -81,14 +87,15 @@ if (q) {
 
   // Only return results that contain ALL query terms
   let qterms = q.normalize("NFD").replace(/[\u0300-\u036f]/g, "").replace(/\W+/g, ' ').trim().split(' ')
-  let qall = '+' + qterms.join(' +')
+  // (Note that we don't modify q because it still needs to go into the search box)
+  let q2 = '+' + qterms.join(' +')
 
   // remove some stopwords -- TODO: can lunr do this for us?
-  qall = qall.replaceAll(/\s?\\+(at|in|of|the)/g, '')
+  q2 = q2.replaceAll(/\s?\\+(at|in|of|the)/g, '')
 
   try {
     // Perform the search
-    window.results = searchIndex.search(qall)
+    window.results = searchIndex.search(q2)
     //window.results = results
     // Update the list with results
     displayResults(qterms, window.results, window.pageData)
