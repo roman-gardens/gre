@@ -8,18 +8,6 @@ window.pageData = {
 {{ range $ri, $rv := sort $pages "Path" }}
     {{/* add path (province, location) and frontmatter (author, contributor) to fulltext */}}
     {{ $place := title (replaceRE "[\\W_]+" " " .Path) }}
-
-
-
-
-
-
-
-
-
-
-    
-    {{/* .Plain gives us the full text from the markdown, not the rendered text, so no keyword/place ids */}}
     {{ $content := print .Plain $place " Author: " .Params.Author " Contributor: " .Params.Contributor " " }}
     "{{ $ri }}": {
         "title": "{{ .Title }}",
