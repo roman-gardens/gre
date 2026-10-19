@@ -40,10 +40,10 @@ The peristyle comprises a portico supported by nine by eleven columns. Following
 ## Bibliography
 
 - Bonucci, C. 1835. *Le due Sicilie: Ercolano*. Naples: dalla stamperia e cartiera del Fibreno [(worldcat)](https://search.worldcat.org/it/title/1046008803)
-- Maiuri, A. 1989. *Herculaneum*. Rome: La libreria dello stato. [(worldcat)](https://search.worldcat.org/title/1107784297)
 - Maiuri, A. 1958. *Ercolano. I nuovi scavi (1927-1958)*. Rome: Istituto poligrafico dello Stato.  [(worldcat)](https://search.worldcat.org/it/title/859591551)
+- Maiuri, A. 1989. *Herculaneum*. Rome: La libreria dello stato. [(worldcat)](https://search.worldcat.org/title/1107784297)
 - Jashemski, W. 1993. *The Gardens of Pompeii, Herculaneum and the Villas destroyed by Vesuvius*. 2 vols. New Rochelle: A.D. Caratzas Pub. [(worldcat)](https://search.worldcat.org/it/title/29043557)
-- Pesando, F., and M.P. Guidobaldi 2006. *Pompei, Oplontis, Ercolano, Stabiae*. Bari: GLF Laterza [(worldcat)](https://search.worldcat.org/it/title/1045104432?oclcNum=1045104432)
+- Pesando, F., and M.P. Guidobaldi. 2006. *Pompei, Oplontis, Ercolano, Stabiae*. Bari: GLF Laterza [(worldcat)](https://search.worldcat.org/it/title/1045104432?oclcNum=1045104432)
 - Romano, C. 2025. “Els jardins de la ciutat romana d’Herculà. La Casa dell’Albergo (III, 19, 18; 1-2), un cas d’estudi.” *Quaderns Agraris (Institució Catalana d’Estudis Agraris)* 56-57: 199-216.
 - Ruggiero, M. 1885. *Storia degli scavi di Ercolano*. Naples: Tipografia dell'Accademia Reale delle Scienze [(worldcat)](https://search.worldcat.org/title/18405521)
 - Trotter, A. 1937. “Identificazione di un tronco d'albero carbonizzato rinvenuto nei recenti scavi di Ercolano.” *Annali dell’Istituto Agrario di Portici* 5: 1-6.
