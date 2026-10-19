@@ -6,12 +6,14 @@
 window.pageData = {
 {{ $pages := partial "pages-visible.html" (where .Site.Pages "Type" "garden") }}
 {{ range $ri, $rv := sort $pages "Path" }}
-    {{/* add path (province, location) and frontmatter (author, contributor) to fulltext */}}
-    {{ $place := title (replaceRE "[\\W_]+" " " .Path) }}
-    {{ $content := print .Plain $place " Author: " .Params.Author " Contributor: " .Params.Contributor " " }}
+    {{/* add path (province, location) and frontmatter (author, contributor) to fulltext */}}    
+    {{ $smallcrumbs := partial "smallcrumbs.html" . }}
+    {{/* .Plain gives us the full text from the markdown, not the rendered text, so no keyword/place ids */}}
+    {{ $content := print .Title " " .Plain " " $smallcrumbs " Author: " .Params.Author " Contributor: " .Params.Contributor " " }}
+
     "{{ $ri }}": {
         "title": "{{ .Title }}",
-        "smallcrumbs": {{ partial "smallcrumbs.html" . }},
+        "smallcrumbs": {{ $smallcrumbs }},
         "content": {{ $content }},
         "url": {{ .Permalink }},
         "draft": {{ .Draft }},
