@@ -84,7 +84,7 @@ if (q) {
   let qall = '+' + qterms.join(' +')
 
   // remove some stopwords -- TODO: can lunr do this for us?
-  qall = q.replaceAll(/\s?\\+(at|in|of|the)/g, '')
+  qall = qall.replaceAll(/\s?\\+(at|in|of|the)/g, '')
 
   try {
     // Perform the search
