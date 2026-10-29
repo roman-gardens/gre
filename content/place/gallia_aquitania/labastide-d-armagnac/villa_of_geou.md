@@ -48,7 +48,7 @@ TODO: add file
 -->
 
 ## Bibliography
-- BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
+
 Bost, J.-P., P. Debord, R. Monturet, H. Rivière, and G. Fabre. 1984. “La Villa Gallo-Romaine de Géou à Labastide-d’Armagnac (Landes). II: L’Architecture.” *Bulletin de la Société de Borda (Dax)* 109(396):651-703. [(worldcat)] ()
 Boyrie-Fénié, B. 1994. *Carte Archéologique de la Gaule* 40(131):96–9. [(worldcat)](https://search.worldcat.org/title/1507004430)
 Coupry, M.J. 1961. “Circonscription de Bordeaux,” 392. *Gallia* 19(2):369–98. [(worldcat)] (https://search.worldcat.org/title/732430329)
