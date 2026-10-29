@@ -44,4 +44,4 @@ During the excavation, traces of a violent fire on the walls of the basin and am
 ## Places
 places containing this garden will be listed automatically
 <!-- {{< id vocab="Pleiades" id="" name="" >}}-->
-- {{< id vocab="TGN" id="" name="" >}}
+<!-- {{< id vocab="TGN" id="" name="" >}}-->
