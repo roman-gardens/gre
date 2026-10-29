@@ -1,5 +1,5 @@
 {
-    "chat.disableAIFeatures": true,
+    "chat.disableAIFeatures": false,
     "chat.agent.codeBlockProgress": false,
     "chat.agent.enabled": false,
     "chat.agent.thinking.collapsedTools": "off",
