@@ -3,16 +3,17 @@ slug: "d72f673ab1"
 type: garden
 title: Villa Of Lassalles
 latlon: 43.2202904764, 0.640976043224
-<!-- TO DO: compare with document's given coordinates of N 43° 12.987'  E 0° 38.745' Elev 1027 feet -->
 latlon: jashemski-catalogue:AQU 20.1
-author: Eric Morvillez, Clopper Almon
-<!-- TO DO: authorship unclear -->
+author: Eric Morvillez, Clopper Almon 
 translator: Translator Name
 contributor: Eliza Bevington
 date: 2026-10-27
 
 draft: true
 ---
+<!-- Comments for above: 
+Latlon: TO DO: compare with document's given coordinates of N 43° 12.987'  E 0° 38.745' Elev 1027 feet
+Author: TO DO: authorship unclear -->
 
 ## Dates
 According to Fouet, after a period of abandon between 285 and 325, there followed two phases of work,  the first in the time of Constantine and the second around the middle of the fourth century. The agricultural buildings, however, do not seem to have been used in the late period. Note that, in this chronology proposed by Fouet, the villa reached its final phase around the year 350... The general result of this work has been to recognize that the date given by Fouet for the second phase of the villa as “about 350” is considerably too early; an early fifth century date would be more plausible.
@@ -70,13 +71,15 @@ On his plan, Fouet indicates “exterior gardens” accessible by the corridor [
 
 <!--
 ## Images
-{{< image file="filename.jpg" caption="Montmaurin Room 27, looking northwest.  The much-discussed "planters" are visible in the foreground.  In the right center of the picture is the north apse, which at the time of the photograph in 1976, had been re-planted as a garden; in 2005, the plantings were gone.  On the far left side are the columns of the nymphaeum.  The area in the foreground, now planted in grass, was originally paved but later converted into a garden. In the foreground, a drain leads off to the north." credit="Photograph, S.A.J. 1976" alt="" >}} 
-{{< image file="filename.jpg" caption="Montmaurin, south apse with garden seen from the northeast." credit="Photograph, S.A.J. 1976" alt="" >}} 
-{{< image file="filename.jpg" caption="Montmaurin Room 55, showing the heating ducts for this room flanking the entrance porch, Room 62, visible at the top center.  The square room 61 can be seen at the top left." credit="Photograph C.A. 2005" alt="" >}} 
-{{< image file="filename.jpg" caption="Montmaurin Space 19 at the eastern tip of the residence." credit="Photograph C.A. 2005" alt="" >}} 
-{{< image file="filename.jpg" caption="Montmaurin Nymphaeum (spaces [116] and [117]. Whether or not the area was a nymphaeum, the farther space, [116] was certainly for swimming and beyond it,  a garden." credit="Photograph  S.A.J. 1976" alt="" >}} 
-{{< image file="filename.jpg" caption="Montmaurin, the marble-lined apse of room 117 and, on beyond,  the space of the presumed exterior gardens." credit="Photograph C.A. 2005" alt="" >}} 
-{{< image file="filename.jpg" caption="Tuscan columns just east of the garden of the nymphaeum. They have become the symbol of the villa of Montmaurin." credit="Photograph C.A. 2005" alt="" >}} 
+{{< image file="filename.jpg" caption="Montmaurin Room 27, looking northwest.  The much-discussed "planters" are visible in the foreground.  In the right center of the picture is the north apse, which at the time of the photograph in 1976, had been re-planted as a garden; in 2005, the plantings were gone.  On the far left side are the columns of the nymphaeum.  The area in the foreground, now planted in grass, was originally paved but later converted into a garden. In the foreground, a drain leads off to the north." credit="Photograph, S.A.J. 1976" alt="a photograph of the stone ruins of walls and planter-like fixtures of the villa with trees in the background" >}} 
+{{< image file="filename.jpg" caption="Montmaurin, south apse with garden seen from the northeast." credit="Photograph, S.A.J. 1976" alt="photograph of the stone ruins of walls lining a walkway and border of the garden with some plants in them" >}} 
+{{< image file="filename.jpg" caption="Montmaurin Room 55, showing the heating ducts for this room flanking the entrance porch, Room 62, visible at the top center.  The square room 61 can be seen at the top left." credit="Photograph C.A. 2005" alt="photograph of the ruins of the heating ducts with a pile of some sort of fruit on top of the stone in the bottom right corner." >}} 
+{{< image file="filename.jpg" caption="Montmaurin Space 19 at the eastern tip of the residence." credit="Photograph C.A. 2005" alt="photograph of a small curved stone wall ruin surrounded by shrubs" >}} 
+{{< image file="filename.jpg" caption="Montmaurin Nymphaeum (spaces [116] and [117]. Whether or not the area was a nymphaeum, the farther space, [116] was certainly for swimming and beyond it,  a garden." credit="Photograph  S.A.J. 1976" alt="photograph of the stone ruins in the garden with pillars and columns and some grass on the inside." >}} 
+{{< image file="filename.jpg" caption="Montmaurin, the marble-lined apse of room 117 and, on beyond,  the space of the presumed exterior gardens." credit="Photograph C.A. 2005" alt="photograph of a small portion of the stone ruins of the outer curve of the garden walls" >}} 
+{{< image file="filename.jpg" caption="Tuscan columns just east of the garden of the nymphaeum. They have become the symbol of the villa of Montmaurin." credit="Photograph C.A. 2005" alt="photograph of stone or marble collumns/pillars lining a wlakway in the garden" >}} 
+{{< image file="filename.jpg" caption="TO DO: add caption" credit="TO DO: determine credit" alt="an image of a 3D model recreation of the villa" >}} 
+{{< image file="filename.jpg" caption="TO DO: add caption" credit="TO DO: determine credit" alt="a black and white image of a 3D model recreation of the villa" >}} 
 -->
 <!-- TO DO: Add image files -->
 
