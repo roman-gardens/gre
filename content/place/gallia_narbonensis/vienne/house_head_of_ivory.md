@@ -4,7 +4,7 @@ type: garden
 title: House of the Head of Ivory
 latlon: [ 45.524184, 4.876771 ]
 author: Eric Morvillez, Clopper Almon 
-translator: Translator Name
+translator: Katelyn Fullerton
 contributor: Katelyn Fullerton
 date: 2026-06-03
 
@@ -34,7 +34,7 @@ In the nineteenth century, two houses were found in the course of creating the r
 
 <!--
 ## Plans
-{{< image file="filename.jpg" caption="" credit="" alt="" >}}
+{{< image file="filename.jpg" caption="Fig. 270 - Vienne, Victor Hugo Road, House of the Head of Ivory: general plan of the ruins." credit="according to Pelletier, 1982." alt="Plan of a villa. Shows three porticoes and the road to the top right." >}}
 -->
 
 <!--
