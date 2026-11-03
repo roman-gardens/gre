@@ -2,7 +2,7 @@
 slug: "a0bccecae9"
 type: garden
 title: Villa Of Geou
-latlon: [ 0, 0 ]
+latlon: [43°57'27" N, 0°17'20" W]
 jashemski-catalogue: AQU 10.1.1
 author: Eric Morvillez, Clopper Almon
 <!-- TODO: authorship unclear–>
@@ -68,10 +68,8 @@ Gauthier, M. 1977. “Circonscription d'Aquitaine,” 465. *Gallia* 35(2):449–
 - {{< keyword "polychrome" >}}
 
 
-
-<!--
 ## Places
-places containing this garden will be listed automatically
-- {{< id vocab="Pleiades" id="" name="" >}}
-- {{< id vocab="TGN" id="" name="" >}}
+
+<!-- I did have to approximate a latitude/longitude since there were no Pleaides links about my garden, only about the overarching region. I used the coordinates of
+Notre-Dame des Cyclistes, which after research, I found was built on top of the site of the decayed villa, so I think it is a pretty good estimate. I didn't need to choose between similar editions of books on WorldCat, because all of the ones I needed had exact matches down to the page number. However, for the Demeures entry, I was unable to locate a WorldCat source. I chose my keywords based on words that stood out in the corpus document description of my garden. Some potential issues/questions are marked with TODO in the entry above.
 -->
