@@ -1,8 +1,8 @@
 ---
 slug: "bccfd5398c"
 type: garden
-title: Villa La Hillère
-latlon: [ 43.22555, 0.64939 ]
+title: Villa in La Hillère
+latlon: [ 43.22555, 0.64939 ] 
 jashemski-catalogue: AQU 1.2
 author: Eric Morvillez, Clopper Almon
 translator: 
@@ -16,6 +16,7 @@ draft: true
 ## Dates
 <!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected.  If no date, use "unspecified" -->
 "unspecified"
+<!--I wonder when this garden was built, there are no dates included in the description. Research estimates it around 300-350AD, but there is no exact time-->
 
 ## Excavation Dates
 <!-- format as YYYY, or YYYY-YYYY -->
@@ -45,16 +46,19 @@ The villa has been known since 1865 and was excavated between 1963 and 1965 by G
 
 ## Bibliography
 - Demeures  p. 384-385, plan p. 384.
+<!--I still wonder what this annotation could be referencing, I could not find anything about it after doing some research on it-->
 
 - Fouet, G. 1972. “Le Sanctuaire des Eaux de ‘La Hillere’ a Montmaurin (Haute-Garonne).” *Gallia* 30(1):83–126
- [(worldcat)](https://search.worldcat.org/title/9977436036)
+ [(worldcat)](https://search.worldcat.org/title/9977436036) 
+ <!--When searching for the book on WorldCat, there were two versions of the same book. After looking into it further, I believe they were exactly the same, but one was through the Jstor library, and one was through the french collection Persèe. I chose to link the Jstor  version because it was clearer and easier to read-->
 
 ## Keywords
 - {{< keyword "basin" >}}
 - {{< keyword "villas" >}}
 - {{< keyword "springs" >}}
+<!--I chose these keywords because they were physically mentioned in the description, and thus relevant to my garden. The words basin and springs are specific to my garden, and could be used to identify it apart from other villas. There were other keywords such as cemetary and chapel that I also would have included, but were not in the list of linked keywords-->
 
 ## Places
 - {{< id vocab="Pleiades" id="" name="" >}}
 - {{< id vocab="TGN" id="" name="" >}}
-
+<!--The latitude and longitude should be pretty exact. I was able to find, what I think, was the exact location of the site. The aerial view looks somewhat accurate to the layout of the villa-->
