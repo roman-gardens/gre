@@ -6,7 +6,7 @@ latlon: [43°57'27" N, 0°17'20" W]
 jashemski-catalogue: AQU 10.1.1
 author: Eric Morvillez, Clopper Almon
 <!-- TODO: authorship unclear–>
-translator: Translator Name
+translator:
 contributor: Shayla Chelliah
 date: 2026-10-27
 
