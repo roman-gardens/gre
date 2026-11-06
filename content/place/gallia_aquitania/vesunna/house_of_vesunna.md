@@ -48,33 +48,46 @@ To exhibit the remains to best advantage, the Museum of Vesunna has to show a co
 ## Maps
 {{< image file="filename.jpg" caption="" credit="" alt="" >}}
 -->
-
 <!--
 ## Plans
-{{< image file="filename.jpg" caption="" credit="" alt="" >}}
+{{< image file="filename.jpg" caption="AQU 18.1.2: Périgueux, House of Vesunna, phase 1." credit="" alt="Map of domus plans, phase 1" >}}
+{{< image file="filename.jpg" caption="AQU 18.1.3: Périgueux, House of Vesunna, phase 2." credit="" alt="Map of domus plans, plase 2" >}}
+{{< image file="filename.jpg" caption="AQU 18.1.5: Perigueux, House of Vesunna, as displayed in the museum." credit="Photo C.A. 2006." alt="Map of domus plans, as displayed in the museum" >}}
+{{< image file="filename.jpg" caption="Périguex: *domus* de Vésone (ou de la rue des Bouquets)" credit="" alt="Plans for the domus as a whole" >}}
+{{< image file="filename.jpg" caption="*Fig. 23: Plan de la* domus *au deuxiéme état*" credit="Dessin C.Girardy-Caillat" alt="Domus plans, phase 2" >}}
+{{< image file="filename.jpg" caption="*Fig. 24. Plan de la* domus *au troisième état
+et parterre du jardin*" credit="Dessin C. Gueny Caillat et relevé A. Barbet, dessin J.-F. Lefèvre" alt="Domus and garden plans, phase 3" >}}
+{{< image file="filename.jpg" caption="Fig. 26a. Jardin, peinture du mur sud, côté ouest" credit="relevé A. Barbet, dessin J.-F. Lefèvre" alt="Garden plans for the West portion of the South wall" >}}
+{{< image file="filename.jpg" caption="Fig. 26b. Restitution partielle de la peinture du mur sud du jardin." credit="dessin J.-F. Lefèvre, F. Ory" alt="Partial reconstruction of the South wall mural" >}}
+-->
+
+<!--
+## Images
+{{< image file="filename.jpg" caption="AQU 18.1.4: Périgueux, House of Vesunna, phase 3." credit="" alt="Photo of domus remains, as displayed in the museum" >}}
+{{< image file="filename.jpg" caption="Pl. E1. Maquette du 3ème état avec hypothèse d'un jardin" credit="(cl. A.B.)" alt="Picture of the domus roof from above" >}}
+{{< image file="filename.jpg" caption="Pl. E2. Vue du bassin avec les poissons en place" credit="(cl. A.B.)" alt="Picture of the domus pool remains" >}}
+{{< image file="filename.jpg" caption="Pl. E3. Bassin, murat sud, partie centrale et gauche" credit="(cl. A.B.)" alt="South wall, central and left sections" >}}
 -->
 
 
-## Images
-{{< image file="filename.jpg" caption="AQU 18.1.2: Périgueux, House of Vesunna, phase 1." credit="" alt="" >}}
-{{< image file="filename.jpg" caption="AQU 18.1.3: Périgueux, House of Vesunna, phase 2." credit="" alt="" >}}
-{{< image file="filename.jpg" caption="AQU 18.1.4: Périgueux, House of Vesunna, phase 3." credit="" alt="" >}}
-{{< image file="filename.jpg" caption="AQU 18.1.5: Perigueux, House of Vesunna, as displayed in the museum." credit="Photo C.A. 2006." alt="" >}}
+<!--TO DO: add file, add image credit-->
+<!--TODO: Some of the French titles were a little blurry in the provided pictures. The French may therefore have misspellings or missing accents. I did the best I was able to interpret.-->
 
 ## Bibliography
-Barrière, C. 1996. *“Domus Pompeia”: Fouilles de la Villa des Bouquets à Périgueux.* 2nd suppl. Périgueux: Document d’Archéologie et d’Histoire Périgourdines. [(worldcat)](https://search.worldcat.org/title/466922983)
+- Barrière, C. 1996. *“Domus Pompeia”: Fouilles de la Villa des Bouquets à Périgueux.* 2nd suppl. Périgueux: Document d’Archéologie et d’Histoire Périgourdines. [(worldcat)](https://search.worldcat.org/title/466922983)
 
-Bouet, A. 2001. “Les Collèges dans la Ville Antique: Le Cas des *Subaediani.” Revue Archéologique* 2/2001:227–78. [(worldcat)](https://search.worldcat.org/title/7481160760)
+- Bouet, A. 2001. “Les Collèges dans la Ville Antique: Le Cas des *Subaediani.” Revue Archéologique* 2/2001:227–78. [(worldcat)](https://search.worldcat.org/title/7481160760)
 
-Barbet, A. C. Girardy-Caillat, and J.-P. Bost. 2003. “Peintures de Périgueux. Édifice de la Rue des Bouquets ou de la Domus de Vésone.” *Aquitania* 19:81–126. [(worldcat)](https://search.worldcat.org/title/9359457865)
+- Barbet, A. C. Girardy-Caillat, and J.-P. Bost. 2003. “Peintures de Périgueux. Édifice de la Rue des Bouquets ou de la Domus de Vésone.” *Aquitania* 19:81–126. [(worldcat)](https://search.worldcat.org/title/9359457865)
 
-Barbet, A., F. Monier, J.-P. Bost, M. Sterneberg et al. 2004. “Peintures de Périgueux. Édifice de la Rue des Bouquets ou la Domus de Vésone II: Les Peintures Fragmentaires." *Aquitania* 20:149–219.[(worldcat)](https://search.worldcat.org/title/9359467734)
+- Barbet, A., F. Monier, J.-P. Bost, M. Sterneberg et al. 2004. “Peintures de Périgueux. Édifice de la Rue des Bouquets ou la Domus de Vésone II: Les Peintures Fragmentaires." *Aquitania* 20:149–219.[(worldcat)](https://search.worldcat.org/title/9359467734)
 
-Girardy-Caillat, C. 1998. *Périgueux Antique.* Guides Archéologiques de la France. Paris: Éditions du Patrimoine. [(worldcat)](https://search.worldcat.org/title/40173502)
+- Girardy-Caillat, C. 1998. *Périgueux Antique.* Guides Archéologiques de la France. Paris: Éditions du Patrimoine. [(worldcat)](https://search.worldcat.org/title/40173502)
 
-Girardy-Caillat, C. 1996. “Périgueux.” In P. Garmy and L. Maurin, *Enceintes Romaines d'Aquitaine: Bordeaux, Dax, Périgueux, Bazas,* edited by P. Garmy and L. Maurin, 128–54. Documents d'Archéologie Française 53. Paris: Éditions de la Mison des Sciences de l’Homme. [(worldcat)](https://search.worldcat.org/title/1366494504)
+- Girardy-Caillat, C. 1996. “Périgueux.” In P. Garmy and L. Maurin, *Enceintes Romaines d'Aquitaine: Bordeaux, Dax, Périgueux, Bazas,* edited by P. Garmy and L. Maurin, 128–54. Documents d'Archéologie Française 53. Paris: Éditions de la Mison des Sciences de l’Homme. [(worldcat)](https://search.worldcat.org/title/1366494504)
 
 <!--TODO: identify reference-->
+<!--TODO: For each of these references, I chose the edition of the book with the correct date and first author. Some of the listed titles for these books on Worldcat were very similar.-->
 
 ## Keywords
 - {{<keyword "domus">}}
@@ -86,3 +99,5 @@ Girardy-Caillat, C. 1996. “Périgueux.” In P. Garmy and L. Maurin, *Enceinte
 places containing this garden will be listed automatically
 - {{< id vocab="Pleiades" id="138650" name="Vesunna" >}}
 - {{< id vocab="TGN" id="" name="" >}}
+
+<!--TODO: I have not filled out an id for TGN because I am unsure what this reference site is.-->
