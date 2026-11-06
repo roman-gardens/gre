@@ -63,8 +63,8 @@ Gauthier, M. 1977. “Circonscription d'Aquitaine,” 465. *Gallia* 35(2):449–
 
 
 ## Keywords
-- {{< keyword "peristyle" >}}
-- {{< keyword "villa rustica" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "villa rusticae" >}}
 - {{< keyword "polychrome" >}}
 
 
