@@ -3,6 +3,7 @@ slug: "f531910fe5"
 type: garden
 title: Nympheas House Of The Atrium Phase 1
 latlon: [ 45.530332, 4.869663 ]
+ #<!-- TODO: confirm coordinates since only an estimate →-->
 jashemski-catalogue: NAR 21.1
 author: Eric Morvillez, Clopper Almon
 <!-- TODO: authorship unclear→
@@ -29,6 +30,7 @@ The house entered a second phase in the last quarter of the second century and w
 ## Maps
 {{< image file="filename.jpg" caption="" credit="" alt="" >}}
 -->
+ #<!-- TODO: identify and find the orgin of the house plane →-->
 
 <!--
 ## Plans
@@ -43,7 +45,7 @@ The house entered a second phase in the last quarter of the second century and w
 <!--
 ## Bibliography
 - BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
--->Boucher, J.-P. 1980. “Cironcscription de Rhône-Alpes,” 513–17. Gallia 38(2):507–34. 
+--> Boucher, J.-P. 1980. “Cironcscription de Rhône-Alpes,” 513–17. Gallia 38(2):507–34. 
 Maison 1996, t.II,  p. 418-420 ; 
 <!-- TODO: authorship unclear→-->
 Gros, P. 2001. L’Architecture Romaine, du Début du IIIè Siècle av. J.-C. à la Fin du Haut-Empire 2: Maisons, Palais, Villas et Tombeaux, 188–89. Les Manuels d’Art et d’Archéologie Antiques. Paris: Picard.
@@ -55,9 +57,9 @@ Pelletier, A., H. Savay-Guerraz, A. Barbet, J. Lancha, and A. Canal. 1981. “D�
 ## Keywords
 - {{< keyword "example" >}}
 -->
-Porticoes 
-Pool 
-Courtyard 
+- {{< keyword "porticoes" >}}
+- {{< keyword "courtyards" >}}
+- {{< keyword "pool" >}}
 
 <!--
 ## Places
@@ -65,4 +67,14 @@ places containing this garden will be listed automatically
 - {{< id vocab="Pleiades" id="" name="" >}}
 - {{< id vocab="TGN" id="" name="" >}}
 -->
-id vocab="Pleiades" id="747563989" name="Saint-Romain-en-Gal" 
+
+
+
+
+
+
+PLACES
+
+
+
+- {{< id vocab="Pleiades" id="747563989" name="Saint-Romain-en-Gal" >}}
