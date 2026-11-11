@@ -55,8 +55,7 @@ To exhibit the remains to best advantage, the Museum of Vesunna has to show a co
 {{< image file="filename.jpg" caption="AQU 18.1.5: Perigueux, House of Vesunna, as displayed in the museum." credit="Photo C.A. 2006." alt="Map of domus plans, as displayed in the museum" >}}
 {{< image file="filename.jpg" caption="Périguex: *domus* de Vésone (ou de la rue des Bouquets)" credit="" alt="Plans for the domus as a whole" >}}
 {{< image file="filename.jpg" caption="*Fig. 23: Plan de la* domus *au deuxiéme état*" credit="Dessin C.Girardy-Caillat" alt="Domus plans, phase 2" >}}
-{{< image file="filename.jpg" caption="*Fig. 24. Plan de la* domus *au troisième état
-et parterre du jardin*" credit="Dessin C. Gueny Caillat et relevé A. Barbet, dessin J.-F. Lefèvre" alt="Domus and garden plans, phase 3" >}}
+{{< image file="filename.jpg" caption="*Fig. 24. Plan de la* domus *au troisième état et parterre du jardin*" credit="Dessin C. Gueny Caillat et relevé A. Barbet, dessin J.-F. Lefèvre" alt="Domus and garden plans, phase 3" >}}
 {{< image file="filename.jpg" caption="Fig. 26a. Jardin, peinture du mur sud, côté ouest" credit="relevé A. Barbet, dessin J.-F. Lefèvre" alt="Garden plans for the West portion of the South wall" >}}
 {{< image file="filename.jpg" caption="Fig. 26b. Restitution partielle de la peinture du mur sud du jardin." credit="dessin J.-F. Lefèvre, F. Ory" alt="Partial reconstruction of the South wall mural" >}}
 -->
