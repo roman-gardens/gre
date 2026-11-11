@@ -2,7 +2,7 @@
 slug: "a0bccecae9"
 type: garden
 title: Villa Of Geou
-latlon: [43°57'27" N, 0°17'20" W]
+latlon: [ 43.9575038, -0.2914638 ]
 jashemski-catalogue: AQU 10.1.1
 author: Eric Morvillez, Clopper Almon
 <!-- TODO: authorship unclear–>
