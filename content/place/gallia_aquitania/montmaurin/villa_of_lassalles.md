@@ -3,7 +3,7 @@ slug: "d72f673ab1"
 type: garden
 title: Villa Of Lassalles
 latlon: 43.2202904764, 0.640976043224
-latlon: jashemski-catalogue:AQU 20.1
+jashemski-catalogue: AQU 20.1
 author: Eric Morvillez, Clopper Almon 
 translator: Translator Name
 contributor: Eliza Bevington
