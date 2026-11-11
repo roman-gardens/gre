@@ -40,8 +40,7 @@ The villa has been known since 1865 and was excavated between 1963 and 1965 by G
 
 <!--
 ## Images
-{{< image file="filename.jpg" caption="AQU 1.2.2: Montmaurin La Hillère, looking north-northeast.  In Roman times, the spring was in the hexagon in the foreground." credit="Photograph C.A. 2005
-" alt="Photograph of the remains of the villa in La Hillère, specifically looking towards the front entrance." >}}
+{{< image file="filename.jpg" caption="AQU 1.2.2: Montmaurin La Hillère, looking north-northeast.  In Roman times, the spring was in the hexagon in the foreground." credit="Photograph C.A. 2005" alt="Photograph of the remains of the villa in La Hillère, specifically looking towards the front entrance." >}}
 -->
 
 ## Bibliography
