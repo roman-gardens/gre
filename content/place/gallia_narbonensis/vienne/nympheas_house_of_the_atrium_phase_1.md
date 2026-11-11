@@ -3,16 +3,16 @@ slug: "f531910fe5"
 type: garden
 title: Nympheas House Of The Atrium Phase 1
 latlon: [ 45.530332, 4.869663 ]
- #<!-- TODO: confirm coordinates since only an estimate →-->
 jashemski-catalogue: NAR 21.1
 author: Eric Morvillez, Clopper Almon
-<!-- TODO: authorship unclear→
 translator: Translator Name
 contributor: Krish Verma
 date: 2026-10-27
-
 draft: true
 ---
+
+<!-- TODO: confirm coordinates since only an estimate -->
+<!-- TODO: authorship unclear -->
 
 ## Dates
 <!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected.  If no date, use "unspecified" -->
