@@ -3,14 +3,13 @@ slug: "f531910fe5"
 type: garden
 title: Nympheas House Of The Atrium Phase 1
 latlon: [ 0, 0 ]
-author: Author Name
+author: 
 translator: Translator Name
-contributor: Contributor Name
-date: 2026-06-03
+contributor: 
+date: 
 
 draft: true
 ---
-
 ## Dates
 <!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected.  If no date, use "unspecified" -->
 
