@@ -1,7 +1,7 @@
 ---
-slug: "cd4e9b17fe"
+slug: "cd4e9b17fa"
 type: garden
-title: Maison Au Nord De La Place Des Capucins
+title: Maison Au Nord De La Place Des Capucins (A)
 latlon: [45.228843, 4.610596]
 author: Author Name
 translator: Translator Name
